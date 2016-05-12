@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://ai-hri.github.io/images/aihri16_b_darkbg_transp_500w.png</loc>
+    <loc>http://ai-hri.github.io/images/aihri16_b_lightbg_transp_500w.png</loc>
+    <lastmod>2016-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ai-hri.github.io/images/headbotb1.png</loc>
+    <lastmod>2016-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ai-hri.github.io/images/headbota2.png</loc>
     <lastmod>2016-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1463020801108">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1463023856869">
   <folder name="css">
     <file name="site_global.css" crc="62332179"/>
-    <file name="index.css" crc="4130047022" ref="index"/>
-    <file name="iefonts_index.css" crc="3886981117" ref="index"/>
+    <file name="index.css" crc="4133724645" ref="index"/>
+    <file name="iefonts_index.css" crc="217282392" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
@@ -16,7 +16,9 @@
   </folder>
   <folder name="images">
     <file name="dc_bg.jpg" crc="3909694693" ref="index"/>
-    <file name="aihri16_b_darkbg_transp_500w.png" crc="69337226" seo="true" ref="index"/>
+    <file name="aihri16_b_lightbg_transp_500w.png" crc="3840719035" seo="true" ref="index"/>
+    <file name="headbotb1.png" crc="4085320194" seo="true" ref="index"/>
+    <file name="headbota2.png" crc="175074297" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="108407397" seo="true" mt="1463020745750" redirect="true"/>
+  <file name="index.html" crc="152311641" seo="true" mt="1463023837656" redirect="true"/>
 </manifest>
