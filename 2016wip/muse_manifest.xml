@@ -1,0 +1,22 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1463020801108">
+  <folder name="css">
+    <file name="site_global.css" crc="62332179"/>
+    <file name="index.css" crc="4130047022" ref="index"/>
+    <file name="iefonts_index.css" crc="3886981117" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3993616448" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="dc_bg.jpg" crc="3909694693" ref="index"/>
+    <file name="aihri16_b_darkbg_transp_500w.png" crc="69337226" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="108407397" seo="true" mt="1463020745750" redirect="true"/>
+</manifest>
