@@ -1,7 +1,7 @@
 .version.submissions /* version checker */
 {
-	color: #000015;
-	background-color: #ACF00B;
+	color: #00000C;
+	background-color: #33C75A;
 }
 
 @-ms-viewport
@@ -39,7 +39,7 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 569.9750000000001px;
+	min-height: 894.9500000000013px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -60,14 +60,14 @@
 
 #u453
 {
-	z-index: 91;
+	z-index: 77;
 	min-height: 80px;
 	padding-bottom: 23px;
 }
 
 #u454
 {
-	z-index: 96;
+	z-index: 82;
 	width: 211px;
 	margin-right: -10000px;
 	margin-top: -4px;
@@ -76,36 +76,36 @@
 
 #u453-bw
 {
-	z-index: 91;
+	z-index: 77;
 	min-height: 80px;
 }
 
 #u456-4
 {
-	z-index: 92;
+	z-index: 78;
 	min-height: 22px;
 }
 
 #u456-4-bw
 {
-	z-index: 92;
+	z-index: 78;
 	min-height: 22px;
 	margin-top: 81px;
 }
 
 #accordionu519
 {
-	z-index: 53;
+	z-index: 39;
 }
 
 #u520
 {
-	z-index: 54;
+	z-index: 40;
 }
 
 #u521-4
 {
-	z-index: 55;
+	z-index: 41;
 	min-height: 18px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -138,13 +138,13 @@
 
 #u522
 {
-	z-index: 59;
+	z-index: 45;
 	padding-bottom: 1px;
 }
 
 #menuu532
 {
-	z-index: 60;
+	z-index: 46;
 	width: 340px;
 	margin-right: -10000px;
 	left: 19px;
@@ -262,13 +262,13 @@
 	position: fixed;
 	left: 0px;
 	right: 0px;
-	z-index: 53;
+	z-index: 39;
 	top: 98px;
 }
 
 #u619-6
 {
-	z-index: 47;
+	z-index: 33;
 	width: 381px;
 	min-height: 33px;
 	top: 103px;
@@ -277,7 +277,7 @@
 
 #u618
 {
-	z-index: 45;
+	z-index: 31;
 	height: 33px;
 }
 
@@ -286,13 +286,13 @@
 	position: fixed;
 	left: 0px;
 	right: 0px;
-	z-index: 45;
+	z-index: 31;
 	top: 103px;
 }
 
 #u569
 {
-	z-index: 46;
+	z-index: 32;
 	width: 56px;
 	height: 33px;
 	top: 103px;
@@ -301,7 +301,7 @@
 
 #u570
 {
-	z-index: 98;
+	z-index: 84;
 	width: 301px;
 	height: 33px;
 	margin-left: 79px;
@@ -315,11 +315,55 @@
 	filter: alpha(opacity=1);
 }
 
+#pu599-13
+{
+	width: 0.01px;
+	margin-left: 8px;
+	margin-top: 18px;
+}
+
+#u599-13
+{
+	z-index: 3;
+	width: 341px;
+	min-height: 340px;
+	background-color: transparent;
+	text-align: center;
+	font-size: 20px;
+	line-height: 24px;
+	font-family: pt-serif-caption, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 89px;
+	left: 11px;
+}
+
+#u600
+{
+	z-index: 16;
+	width: 277px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 407px;
+	left: 87px;
+}
+
+#u602
+{
+	z-index: 18;
+	width: 274px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
 #u595
 {
 	z-index: 2;
 	width: 364px;
-	height: 496px;
+	height: 51px;
 	-pie-box-shadow: none;
 	box-shadow: 4px 4px 30px rgba(0,0,0,0.38);
 	background: transparent url("../../images/u595-grad.png") repeat-x left top;
@@ -327,8 +371,8 @@
 	background: -webkit-linear-gradient(top,rgba(255,255,255,0.95) ,rgba(229,235,255,0.95) 100%);
 	background: linear-gradient(to bottom,rgba(255,255,255,0.95) ,rgba(229,235,255,0.95) 100%);
 	position: fixed;
-	top: 136px;
-	left: 8px;
+	top: 447px;
+	left: 7px;
 }
 
 #u595::before
@@ -343,74 +387,27 @@
 	box-shadow: inset 3px 3px 3px rgba(255,255,255,0.07), inset -3px -3px 3px rgba(0,0,0,0.07);
 }
 
-#pu599-27
-{
-	width: 0.01px;
-	margin-left: 8px;
-	margin-top: 18px;
-}
-
-#u599-27
-{
-	z-index: 3;
-	width: 341px;
-	min-height: 478px;
-	background-color: transparent;
-	text-align: center;
-	font-family: pt-sans, sans-serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	left: 11px;
-}
-
-#u599-19,#u599-20,#u599-21,#u599-22,#u599-23,#u599-25
-{
-	font-size: 24px;
-	line-height: 29px;
-}
-
-#u600
-{
-	z-index: 30;
-	width: 277px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 177px;
-	left: 75px;
-}
-
-#u602
-{
-	z-index: 32;
-	width: 274px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-}
-
 #pu451
 {
 	width: 0.01px;
-	margin-top: 11px;
+	margin-top: 27px;
 }
 
 #u451,#u451-bw
 {
-	z-index: 34;
+	z-index: 20;
 	height: 40px;
 }
 
 #u452-10
 {
-	z-index: 35;
+	z-index: 21;
 	min-height: 32px;
 }
 
 #u452-10-bw
 {
-	z-index: 35;
+	z-index: 21;
 	min-height: 32px;
 	margin-top: 7px;
 }
