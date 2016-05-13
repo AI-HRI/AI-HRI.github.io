@@ -1,7 +1,7 @@
 .version.invited_speakers /* version checker */
 {
-	color: #00001B;
-	background-color: #CC7620;
+	color: #00000D;
+	background-color: #0465F1;
 }
 
 @-ms-viewport
@@ -60,14 +60,14 @@
 
 #u453
 {
-	z-index: 69;
+	z-index: 71;
 	min-height: 80px;
 	padding-bottom: 23px;
 }
 
 #u454
 {
-	z-index: 74;
+	z-index: 76;
 	width: 211px;
 	margin-right: -10000px;
 	margin-top: -4px;
@@ -76,43 +76,43 @@
 
 #u453-bw
 {
-	z-index: 69;
+	z-index: 71;
 	min-height: 80px;
 }
 
 #u456-4
 {
-	z-index: 70;
+	z-index: 72;
 	min-height: 22px;
 }
 
 #u456-4-bw
 {
-	z-index: 70;
+	z-index: 72;
 	min-height: 22px;
 	margin-top: 81px;
 }
 
 #accordionu519
 {
-	z-index: 31;
+	z-index: 34;
 }
 
 #u520
 {
-	z-index: 32;
+	z-index: 35;
 }
 
-#u521-4
+#u521-3
 {
-	z-index: 33;
+	z-index: 36;
 	min-height: 18px;
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
 
-#u521-4:hover
+#u521-3:hover
 {
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -120,7 +120,7 @@
 	margin: 0px;
 }
 
-#u521-4:active
+#u521-3:active
 {
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -128,7 +128,7 @@
 	margin: 0px;
 }
 
-#u521-4.AccordionPanelTabOpen
+#u521-3.AccordionPanelTabOpen
 {
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -138,13 +138,13 @@
 
 #u522
 {
-	z-index: 37;
+	z-index: 39;
 	padding-bottom: 1px;
 }
 
 #menuu532
 {
-	z-index: 38;
+	z-index: 40;
 	width: 340px;
 	margin-right: -10000px;
 	left: 19px;
@@ -262,13 +262,13 @@
 	position: fixed;
 	left: 0px;
 	right: 0px;
-	z-index: 31;
+	z-index: 34;
 	top: 98px;
 }
 
 #u619-6
 {
-	z-index: 25;
+	z-index: 28;
 	width: 381px;
 	min-height: 33px;
 	top: 103px;
@@ -290,21 +290,28 @@
 	top: 103px;
 }
 
-#u569
+#pu637-4
+{
+	width: 0.01px;
+	margin-left: 30px;
+}
+
+#u637-4
 {
 	z-index: 24;
-	width: 56px;
-	height: 33px;
-	top: 103px;
-	left: 19px;
+	width: 49px;
+	min-height: 24px;
+	margin-right: -10000px;
+	margin-top: 6px;
 }
 
 #u570
 {
-	z-index: 76;
+	z-index: 78;
 	width: 301px;
 	height: 33px;
-	margin-left: 79px;
+	margin-right: -10000px;
+	left: 49px;
 }
 
 .ie #u570

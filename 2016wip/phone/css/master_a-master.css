@@ -31,7 +31,7 @@
 	background-color: transparent;
 }
 
-#u521-4
+#u521-3
 {
 	border-color: #FFFFFF;
 	background-color: transparent;
@@ -42,33 +42,33 @@
 	font-weight: 400;
 }
 
-#u521-4:hover
+#u521-3:hover
 {
 	border-color: #FFFFFF;
 }
 
-#u521-4:active
+#u521-3:active
 {
 	border-color: #FFFFFF;
 }
 
-#u521-4.AccordionPanelTabOpen
+#u521-3.AccordionPanelTabOpen
 {
 	border-style: none;
 	border-color: transparent;
 }
 
-#u521-4:hover p
+#u521-3:hover p
 {
 	padding-left: 20px;
 }
 
-#u521-4:active p
+#u521-3:active p
 {
 	padding-left: 20px;
 }
 
-#u521-4.AccordionPanelTabOpen p
+#u521-3.AccordionPanelTabOpen p
 {
 	color: #E5EBFF;
 	visibility: inherit;
@@ -79,7 +79,7 @@
 	font-style: normal;
 }
 
-#u521-2
+#u521
 {
 	padding-left: 20px;
 	padding-top: 2px;
@@ -326,11 +326,15 @@
 	-pie-background: rgba(38,41,22,0.95);
 }
 
-#u569
+#u637-4
 {
-	background-color: #414425;
-	border-radius: 10px;
-	position: fixed;
+	background-color: transparent;
+	color: #E5EBFF;
+	font-size: 16px;
+	line-height: 19px;
+	font-family: passion-one, sans-serif;
+	font-weight: 400;
+	position: relative;
 }
 
 #u570

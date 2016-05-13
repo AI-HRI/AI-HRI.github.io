@@ -1,7 +1,7 @@
 .version.submissions /* version checker */
 {
-	color: #00000C;
-	background-color: #33C75A;
+	color: #0000EB;
+	background-color: #0CBD11;
 }
 
 @-ms-viewport
@@ -60,14 +60,14 @@
 
 #u453
 {
-	z-index: 77;
+	z-index: 79;
 	min-height: 80px;
 	padding-bottom: 23px;
 }
 
 #u454
 {
-	z-index: 82;
+	z-index: 84;
 	width: 211px;
 	margin-right: -10000px;
 	margin-top: -4px;
@@ -76,43 +76,43 @@
 
 #u453-bw
 {
-	z-index: 77;
+	z-index: 79;
 	min-height: 80px;
 }
 
 #u456-4
 {
-	z-index: 78;
+	z-index: 80;
 	min-height: 22px;
 }
 
 #u456-4-bw
 {
-	z-index: 78;
+	z-index: 80;
 	min-height: 22px;
 	margin-top: 81px;
 }
 
 #accordionu519
 {
-	z-index: 39;
+	z-index: 42;
 }
 
 #u520
 {
-	z-index: 40;
+	z-index: 43;
 }
 
-#u521-4
+#u521-3
 {
-	z-index: 41;
+	z-index: 44;
 	min-height: 18px;
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
 
-#u521-4:hover
+#u521-3:hover
 {
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -120,7 +120,7 @@
 	margin: 0px;
 }
 
-#u521-4:active
+#u521-3:active
 {
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -128,7 +128,7 @@
 	margin: 0px;
 }
 
-#u521-4.AccordionPanelTabOpen
+#u521-3.AccordionPanelTabOpen
 {
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -138,13 +138,13 @@
 
 #u522
 {
-	z-index: 45;
+	z-index: 47;
 	padding-bottom: 1px;
 }
 
 #menuu532
 {
-	z-index: 46;
+	z-index: 48;
 	width: 340px;
 	margin-right: -10000px;
 	left: 19px;
@@ -262,13 +262,13 @@
 	position: fixed;
 	left: 0px;
 	right: 0px;
-	z-index: 39;
+	z-index: 42;
 	top: 98px;
 }
 
 #u619-6
 {
-	z-index: 33;
+	z-index: 36;
 	width: 381px;
 	min-height: 33px;
 	top: 103px;
@@ -290,21 +290,28 @@
 	top: 103px;
 }
 
-#u569
+#pu637-4
+{
+	width: 0.01px;
+	margin-left: 30px;
+}
+
+#u637-4
 {
 	z-index: 32;
-	width: 56px;
-	height: 33px;
-	top: 103px;
-	left: 19px;
+	width: 49px;
+	min-height: 24px;
+	margin-right: -10000px;
+	margin-top: 6px;
 }
 
 #u570
 {
-	z-index: 84;
+	z-index: 86;
 	width: 301px;
 	height: 33px;
-	margin-left: 79px;
+	margin-right: -10000px;
+	left: 49px;
 }
 
 .ie #u570

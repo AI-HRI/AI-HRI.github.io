@@ -1,23 +1,23 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1463105354071">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1463105720727">
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="3861971507" ref="phone>invited-speakers:phone>organization:phone>schedule:phone>index:phone>submissions"/>
-      <file name="invited-speakers.css" crc="466384416" ref="phone>invited-speakers"/>
-      <file name="iefonts_invited-speakers.css" crc="3895220059" ref="phone>invited-speakers"/>
-      <file name="organization.css" crc="4029398038" ref="phone>organization"/>
-      <file name="iefonts_organization.css" crc="101695080" ref="phone>organization"/>
-      <file name="schedule.css" crc="1794172" ref="phone>schedule"/>
-      <file name="iefonts_schedule.css" crc="3844227731" ref="phone>schedule"/>
-      <file name="index.css" crc="4223816369" ref="phone>index"/>
-      <file name="iefonts_index.css" crc="3842191368" ref="phone>index"/>
-      <file name="submissions.css" crc="204719962" ref="phone>submissions"/>
-      <file name="iefonts_submissions.css" crc="274383799" ref="phone>submissions"/>
+      <file name="master_a-master.css" crc="243612207" ref="phone>invited-speakers:phone>organization:phone>schedule:phone>index:phone>submissions"/>
+      <file name="invited-speakers.css" crc="218392049" ref="phone>invited-speakers"/>
+      <file name="iefonts_invited-speakers.css" crc="245811867" ref="phone>invited-speakers"/>
+      <file name="organization.css" crc="4270342388" ref="phone>organization"/>
+      <file name="iefonts_organization.css" crc="3800954437" ref="phone>organization"/>
+      <file name="schedule.css" crc="3959899983" ref="phone>schedule"/>
+      <file name="iefonts_schedule.css" crc="61398867" ref="phone>schedule"/>
+      <file name="index.css" crc="493389682" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="260573397" ref="phone>index"/>
+      <file name="submissions.css" crc="3943480593" ref="phone>submissions"/>
+      <file name="iefonts_submissions.css" crc="3781480788" ref="phone>submissions"/>
     </folder>
-    <file name="index.html" crc="515924903" seo="true" mt="1463103751787" redirect="true"/>
-    <file name="invited-speakers.html" crc="3807110403" seo="true" mt="1463103751787" redirect="true"/>
-    <file name="schedule.html" crc="4008788999" seo="true" mt="1463103751787" redirect="true"/>
-    <file name="submissions.html" crc="4073179912" seo="true" mt="1463105286584" redirect="true"/>
-    <file name="organization.html" crc="325746297" seo="true" mt="1463103769705" redirect="true"/>
+    <file name="index.html" crc="3800206925" seo="true" mt="1463105690231" redirect="true"/>
+    <file name="invited-speakers.html" crc="159443220" seo="true" mt="1463105690231" redirect="true"/>
+    <file name="schedule.html" crc="531451141" seo="true" mt="1463105690231" redirect="true"/>
+    <file name="submissions.html" crc="121195912" seo="true" mt="1463105690231" redirect="true"/>
+    <file name="organization.html" crc="45022209" seo="true" mt="1463105690231" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="199863551"/>
@@ -28,7 +28,7 @@
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:phone>index:phone>invited-speakers:phone>schedule:phone>submissions:phone>organization"/>
     <file name="museutils.js" crc="183364071" ref="index:phone>index:phone>invited-speakers:phone>schedule:phone>submissions:phone>organization"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:phone>index:phone>invited-speakers:phone>schedule:phone>submissions:phone>organization"/>
-    <file name="pie.js" crc="3827607177" ref="index:phone>index:phone>submissions"/>
+    <file name="pie.js" crc="3827607177" ref="index:phone>index"/>
     <file name="jquery.scrolleffects.js" crc="3860644955" ref="index:phone>index:phone>invited-speakers:phone>schedule:phone>submissions:phone>organization"/>
     <file name="jquery.watch.js" crc="71412426" ref="index:phone>index:phone>invited-speakers:phone>schedule:phone>submissions:phone>organization"/>
     <file name="webpro.js" crc="3803554875" ref="index:phone>index:phone>invited-speakers:phone>schedule:phone>submissions:phone>organization"/>
