@@ -103,7 +103,7 @@
 {
 	-pie-box-shadow: 4px 4px 15px #B2B2B2;
 	box-shadow: 4px 4px 15px rgba(0,0,0,0.3);
-	background-color: #E1F56E;
+	background-color: #4296CF;
 	border-radius: 10px;
 	position: relative;
 }
@@ -126,7 +126,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #262916;
+	color: #FFFFFF;
 	text-align: center;
 	line-height: 16px;
 	letter-spacing: 1px;
@@ -140,7 +140,7 @@
 {
 	-pie-box-shadow: 4px 4px 15px #B2B2B2;
 	box-shadow: 4px 4px 15px rgba(0,0,0,0.3);
-	background-color: #E1F56E;
+	background-color: #4296CF;
 	border-radius: 10px;
 	position: relative;
 }
@@ -163,7 +163,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #262916;
+	color: #FFFFFF;
 	text-align: center;
 	line-height: 16px;
 	letter-spacing: 1px;
@@ -177,7 +177,7 @@
 {
 	-pie-box-shadow: 4px 4px 15px #B2B2B2;
 	box-shadow: 4px 4px 15px rgba(0,0,0,0.3);
-	background-color: #E1F56E;
+	background-color: #4296CF;
 	border-radius: 10px;
 	position: relative;
 }
@@ -200,7 +200,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #262916;
+	color: #FFFFFF;
 	text-align: center;
 	line-height: 16px;
 	letter-spacing: 1px;
@@ -214,7 +214,7 @@
 {
 	-pie-box-shadow: 4px 4px 15px #B2B2B2;
 	box-shadow: 4px 4px 15px rgba(0,0,0,0.3);
-	background-color: #E1F56E;
+	background-color: #4296CF;
 	border-radius: 10px;
 	position: relative;
 }
@@ -237,7 +237,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #262916;
+	color: #FFFFFF;
 	text-align: center;
 	line-height: 16px;
 	letter-spacing: 1px;
@@ -257,7 +257,7 @@
 {
 	-pie-box-shadow: 4px 4px 15px #B2B2B2;
 	box-shadow: 4px 4px 15px rgba(0,0,0,0.3);
-	background-color: #E1F56E;
+	background-color: #4296CF;
 	border-radius: 10px;
 	position: relative;
 }
@@ -277,7 +277,7 @@
 
 #u536.MuseMenuActive,#u541.MuseMenuActive,#u550.MuseMenuActive,#u557.MuseMenuActive,#u562.MuseMenuActive
 {
-	background-color: #4296CF;
+	background-color: #E1F56E;
 }
 
 #u564-4
@@ -285,7 +285,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #262916;
+	color: #FFFFFF;
 	text-align: center;
 	line-height: 16px;
 	letter-spacing: 1px;
@@ -293,6 +293,12 @@
 	font-family: pt-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
+}
+
+#u536.MuseMenuActive #u537-4 p,#u541.MuseMenuActive #u543-4 p,#u550.MuseMenuActive #u551-4 p,#u557.MuseMenuActive #u558-4 p,#u562.MuseMenuActive #u564-4 p
+{
+	color: #000000;
+	visibility: inherit;
 }
 
 .MenuItem,.AccordionPanelTab /* unifiedNavBar */

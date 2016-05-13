@@ -1,3 +1,23 @@
+.Main-text
+{
+	font-family: pt-sans-n4, sans-serif;
+}
+
+.Sub-text
+{
+	font-family: pt-sans-narrow-n7, sans-serif;
+}
+
+.Title,.Schedule-item,.Centered-title
+{
+	font-family: pt-sans-n7, sans-serif;
+}
+
+.Schedule-author,.Centered-subtitled
+{
+	font-family: pt-sans-narrow-n4, sans-serif;
+}
+
 #u456-4
 {
 	font-family: pt-sans-narrow-n4, sans-serif;
@@ -48,22 +68,22 @@
 	font-family: pt-sans-i4, sans-serif;
 }
 
-#u571-4
-{
-	font-family: pt-sans-n4, sans-serif;
-}
-
-#u571-2,#u571-6
-{
-	font-family: pt-sans-n7, sans-serif;
-}
-
-#u571-9,#u571-12,#u571-15,#u571-18,#u571-21,#u571-24
+#u571-5,#u571-8,#u571-11,#u571-14,#u571-17,#u571-20
 {
 	font-family: pt-sans-narrow-n4, sans-serif;
 }
 
-#u571-27,#u576-4
+#u571-2,#u571-26
+{
+	font-family: pt-sans-n7, sans-serif;
+}
+
+#u571-54
+{
+	font-family: pt-sans-n4, sans-serif;
+}
+
+#u571-23,#u571-24,#u576-4
 {
 	font-family: pt-sans-narrow-n7, sans-serif;
 }

@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FB;
-	background-color: #D85895;
+	color: #000011;
+	background-color: #5562B4;
 }
 
 @-ms-viewport
@@ -39,7 +39,7 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 559.9500000000013px;
+	min-height: 559.5500000000015px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -60,14 +60,14 @@
 
 #u453
 {
-	z-index: 99;
+	z-index: 126;
 	min-height: 80px;
 	padding-bottom: 23px;
 }
 
 #u454
 {
-	z-index: 104;
+	z-index: 131;
 	width: 211px;
 	margin-right: -10000px;
 	margin-top: -4px;
@@ -76,36 +76,36 @@
 
 #u453-bw
 {
-	z-index: 99;
+	z-index: 126;
 	min-height: 80px;
 }
 
 #u456-4
 {
-	z-index: 100;
+	z-index: 127;
 	min-height: 22px;
 }
 
 #u456-4-bw
 {
-	z-index: 100;
+	z-index: 127;
 	min-height: 22px;
 	margin-top: 81px;
 }
 
 #accordionu519
 {
-	z-index: 62;
+	z-index: 89;
 }
 
 #u520
 {
-	z-index: 63;
+	z-index: 90;
 }
 
 #u521-3
 {
-	z-index: 64;
+	z-index: 91;
 	min-height: 18px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -138,13 +138,13 @@
 
 #u522
 {
-	z-index: 67;
+	z-index: 94;
 	padding-bottom: 1px;
 }
 
 #menuu532
 {
-	z-index: 68;
+	z-index: 95;
 	width: 340px;
 	margin-right: -10000px;
 	left: 19px;
@@ -262,13 +262,13 @@
 	position: fixed;
 	left: 0px;
 	right: 0px;
-	z-index: 62;
+	z-index: 89;
 	top: 98px;
 }
 
 #u619-6
 {
-	z-index: 56;
+	z-index: 83;
 	width: 381px;
 	min-height: 33px;
 	top: 103px;
@@ -277,7 +277,7 @@
 
 #u618
 {
-	z-index: 51;
+	z-index: 78;
 	height: 33px;
 }
 
@@ -286,13 +286,13 @@
 	position: fixed;
 	left: 0px;
 	right: 0px;
-	z-index: 51;
+	z-index: 78;
 	top: 103px;
 }
 
 #u570
 {
-	z-index: 106;
+	z-index: 133;
 	width: 301px;
 	height: 33px;
 	margin-left: 79px;
@@ -308,7 +308,7 @@
 
 #u637-4
 {
-	z-index: 52;
+	z-index: 79;
 	width: 49px;
 	min-height: 24px;
 	top: 109px;
@@ -325,12 +325,12 @@
 	background: -webkit-gradient(linear, center top, center bottom, from(rgba(255,255,255,0.95)),color-stop(100%, rgba(229,235,255,0.95)));
 	background: -webkit-linear-gradient(top,rgba(255,255,255,0.95) ,rgba(229,235,255,0.95) 100%);
 	background: linear-gradient(to bottom,rgba(255,255,255,0.95) ,rgba(229,235,255,0.95) 100%);
-	padding-bottom: 18px;
+	padding-bottom: 34px;
 	margin-left: 8px;
 	position: relative;
 }
 
-#u571-29
+#u571-56
 {
 	z-index: 11;
 	width: 341px;
@@ -347,30 +347,13 @@
 	font-size: 20px;
 	text-align: center;
 	line-height: 24px;
-	color: #4296CF;
-	font-family: pt-sans, sans-serif;
-	font-weight: 700;
-}
-
-#u571-4
-{
-	text-align: center;
-	font-family: pt-sans, sans-serif;
-	font-weight: 400;
-}
-
-#u571-6
-{
-	font-size: 20px;
-	text-align: center;
-	line-height: 24px;
 	padding-top: 10px;
 	color: #4296CF;
 	font-family: pt-sans, sans-serif;
 	font-weight: 700;
 }
 
-#u571-9,#u571-12,#u571-15,#u571-18,#u571-21,#u571-24
+#u571-5,#u571-8,#u571-11,#u571-14,#u571-17,#u571-20
 {
 	font-size: 16px;
 	text-align: left;
@@ -380,18 +363,47 @@
 	font-weight: 400;
 }
 
-#u571-7,#u571-10,#u571-13,#u571-16,#u571-19,#u571-22
-{
-	font-weight: 700;
-}
-
-#u571-27
+#u571-23,#u571-24
 {
 	font-size: 16px;
 	text-align: center;
 	line-height: 19px;
 	padding-top: 10px;
 	font-family: pt-sans-narrow, sans-serif;
+	font-weight: 700;
+}
+
+#u571-26
+{
+	font-size: 20px;
+	text-align: center;
+	line-height: 24px;
+	color: #4296CF;
+	font-family: pt-sans, sans-serif;
+	font-weight: 700;
+}
+
+#u571-38,#u571-39,#u571-41,#u571-45,#u571-46,#u571-48
+{
+	font-size: 16px;
+	text-align: left;
+	line-height: 19px;
+	text-indent: 50px;
+}
+
+#u571-54
+{
+	font-size: 16px;
+	text-align: left;
+	line-height: 19px;
+	text-indent: 50px;
+	padding-top: 10px;
+	font-family: pt-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u571-3,#u571-6,#u571-9,#u571-12,#u571-15,#u571-18,#u571-28,#u571-30,#u571-32,#u571-34,#u571-36,#u571-43,#u571-50,#u571-52
+{
 	font-weight: 700;
 }
 
@@ -463,24 +475,24 @@
 #pu451
 {
 	width: 0.01px;
-	margin-top: 93px;
+	margin-top: 11px;
 }
 
 #u451,#u451-bw
 {
-	z-index: 40;
+	z-index: 67;
 	height: 40px;
 }
 
 #u452-10
 {
-	z-index: 41;
+	z-index: 68;
 	min-height: 32px;
 }
 
 #u452-10-bw
 {
-	z-index: 41;
+	z-index: 68;
 	min-height: 32px;
 	margin-top: 7px;
 }

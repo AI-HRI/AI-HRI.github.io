@@ -159,6 +159,68 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px;
 }
 
+.Title
+{
+	color: #4296CF;
+	font-family: pt-sans, sans-serif;
+	font-size: 18px;
+	font-weight: 700;
+	padding: 5px 0px 0px;
+}
+
+.Main-text
+{
+	font-family: pt-sans, sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	padding: 5px 0px 0px;
+}
+
+.Schedule-author
+{
+	font-family: pt-sans-narrow, sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	text-align: right;
+	padding: 0px 0px 0px 10px;
+}
+
+.Sub-text
+{
+	font-family: pt-sans-narrow, sans-serif;
+	font-size: 14px;
+	font-weight: 700;
+	text-indent: -10px;
+	padding: 5px 0px 0px 20px;
+}
+
+.Schedule-item
+{
+	font-family: pt-sans, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: 700;
+	padding: 5px 0px 0px;
+}
+
+.Centered-title
+{
+	font-family: pt-sans, sans-serif;
+	font-size: 14px;
+	font-weight: 700;
+	text-align: center;
+	padding: 5px 0px 0px;
+}
+
+.Centered-subtitled
+{
+	font-family: pt-sans-narrow, sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	text-align: center;
+	padding: 0px 0px 0px 10px;
+}
+
 .list0 li:before
 {
 	position: absolute;
