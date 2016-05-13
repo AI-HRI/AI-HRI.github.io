@@ -1,7 +1,7 @@
 .version.organization /* version checker */
 {
-	color: #0000FE;
-	background-color: #8840F4;
+	color: #0000FB;
+	background-color: #B69896;
 }
 
 @-ms-viewport
@@ -290,28 +290,12 @@
 	top: 103px;
 }
 
-#pu637-4
-{
-	width: 0.01px;
-	margin-left: 30px;
-}
-
-#u637-4
-{
-	z-index: 66;
-	width: 49px;
-	min-height: 24px;
-	margin-right: -10000px;
-	margin-top: 6px;
-}
-
 #u570
 {
 	z-index: 120;
 	width: 301px;
 	height: 33px;
-	margin-right: -10000px;
-	left: 49px;
+	margin-left: 79px;
 }
 
 .ie #u570
@@ -320,6 +304,15 @@
 	opacity: 0.01;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
 	filter: alpha(opacity=1);
+}
+
+#u637-4
+{
+	z-index: 66;
+	width: 49px;
+	min-height: 24px;
+	top: 109px;
+	left: 30px;
 }
 
 #u596

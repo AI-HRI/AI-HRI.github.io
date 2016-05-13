@@ -326,6 +326,11 @@
 	-pie-background: rgba(38,41,22,0.95);
 }
 
+#u570
+{
+	position: relative;
+}
+
 #u637-4
 {
 	background-color: transparent;
@@ -334,12 +339,7 @@
 	line-height: 19px;
 	font-family: passion-one, sans-serif;
 	font-weight: 400;
-	position: relative;
-}
-
-#u570
-{
-	position: relative;
+	position: fixed;
 }
 
 #u451
