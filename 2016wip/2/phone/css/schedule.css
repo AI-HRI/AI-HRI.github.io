@@ -1,7 +1,7 @@
 .version.schedule /* version checker */
 {
-	color: #0000EB;
-	background-color: #DB8568;
+	color: #0000EE;
+	background-color: #970242;
 }
 
 @-ms-viewport
@@ -39,12 +39,11 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 569.9750000000004px;
+	min-height: 570px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 0px;
 }
 
 #page_position_content
@@ -562,14 +561,13 @@
 #u594
 {
 	z-index: 2;
-	min-height: 2866px;
+	min-height: 2889px;
 	-pie-box-shadow: none;
 	box-shadow: 4px 4px 30px rgba(0,0,0,0.38);
 	background: transparent url("../../images/u594-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, from(rgba(255,255,255,0.95)),color-stop(100%, rgba(229,235,255,0.95)));
 	background: -webkit-linear-gradient(top,rgba(255,255,255,0.95) ,rgba(229,235,255,0.95) 100%);
 	background: linear-gradient(to bottom,rgba(255,255,255,0.95) ,rgba(229,235,255,0.95) 100%);
-	padding-bottom: 23px;
 }
 
 #u594::before
@@ -590,6 +588,7 @@
 	width: 341px;
 	min-height: 2738px;
 	background-color: transparent;
+	margin-bottom: -487px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 18px;
@@ -637,7 +636,7 @@
 #u594-bw
 {
 	z-index: 2;
-	min-height: 2866px;
+	min-height: 2889px;
 }
 
 #schedule2
@@ -661,7 +660,7 @@
 #pu451
 {
 	width: 0.01px;
-	margin-top: 11px;
+	margin-top: 498px;
 }
 
 #u451,#u451-bw

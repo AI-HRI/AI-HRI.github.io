@@ -3,16 +3,6 @@
 	font-family: lato-n9, sans-serif;
 }
 
-.Main-text
-{
-	font-family: pt-sans-n4, sans-serif;
-}
-
-.Schedule-author
-{
-	font-family: pt-sans-narrow-n4, sans-serif;
-}
-
 .Sub-text
 {
 	font-family: pt-sans-narrow-n7, sans-serif;
@@ -20,7 +10,7 @@
 
 .Schedule-item
 {
-	font-family: pt-sans-n7, sans-serif;
+	font-family: lato-i7, sans-serif;
 }
 
 .Centered-title
@@ -31,6 +21,11 @@
 .Centered-subtitled,.Centeres-subtitled-small
 {
 	font-family: lato-n3, sans-serif;
+}
+
+.Main-text,.Schedule-author,.schedule-section
+{
+	font-family: lato-n4, sans-serif;
 }
 
 #u456-4

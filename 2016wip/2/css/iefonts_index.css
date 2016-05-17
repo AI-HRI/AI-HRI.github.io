@@ -3,16 +3,6 @@
 	font-family: lato-n9, sans-serif;
 }
 
-.Main-text
-{
-	font-family: pt-sans-n4, sans-serif;
-}
-
-.Schedule-author
-{
-	font-family: pt-sans-narrow-n4, sans-serif;
-}
-
 .Sub-text
 {
 	font-family: pt-sans-narrow-n7, sans-serif;
@@ -20,7 +10,7 @@
 
 .Schedule-item
 {
-	font-family: pt-sans-n7, sans-serif;
+	font-family: lato-i7, sans-serif;
 }
 
 .Centered-title
@@ -33,9 +23,14 @@
 	font-family: lato-n3, sans-serif;
 }
 
-#u320-12,#u320-13,#u320-15,#u320-19,#u320-20,#u320-22,#u320-28
+.Main-text,.Schedule-author,.schedule-section
 {
-	font-family: lato-n3, sans-serif;
+	font-family: lato-n4, sans-serif;
+}
+
+#u811-6,#u203-2,#u203-6,#u203-10,#u203-12,#u203-14,#u203-16,#u203-23
+{
+	font-family: lato-n4, sans-serif;
 }
 
 #u203-20
@@ -43,52 +38,12 @@
 	font-family: lato-i4, sans-serif;
 }
 
-#u81-6,#u219-6
-{
-	font-family: rosario-n7, sans-serif;
-}
-
-#u226-6
-{
-	font-family: rosario-n7, sans-serif;
-}
-
-#u227-6
-{
-	font-family: rosario-n7, sans-serif;
-}
-
-#u228-6
-{
-	font-family: rosario-n7, sans-serif;
-}
-
-#u867-4
-{
-	font-family: rosario-n7, sans-serif;
-}
-
-#u870-4
-{
-	font-family: rosario-n7, sans-serif;
-}
-
-#u872-4
-{
-	font-family: rosario-n7, sans-serif;
-}
-
-#u874-4
-{
-	font-family: rosario-n7, sans-serif;
-}
-
 #u203-22,#u935-4
 {
 	font-family: lato-n7, sans-serif;
 }
 
-#u203-17,#u202-4,#u954-5
+#u202-4,#u203-17,#u954-5
 {
 	font-family: lato-n9, sans-serif;
 }
@@ -103,12 +58,32 @@
 	font-family: lato-n9, sans-serif;
 }
 
-#u790-5,#u790-11,#u790-15,#u790-17,#u790-19,#u790-21,#u790-23,#u790-25,#u790-27,#u790-29,#u790-31,#u790-33,#u790-35,#u790-38,#u790-42,#u790-44,#u790-46,#u790-48,#u790-50,#u790-52,#u790-54,#u790-60,#u790-63,#u790-67,#u790-69,#u790-71,#u790-73,#u790-75,#u790-77,#u790-79,#u790-85,#u790-88,#u790-92,#u790-94,#u790-96,#u790-102,#u790-108,#u790-111,#u936-5,#u936-11,#u936-15,#u936-17,#u936-19,#u936-21,#u936-23,#u936-25,#u936-27,#u936-29,#u936-31,#u936-33,#u936-35,#u936-38,#u936-42,#u936-44,#u936-46,#u936-48,#u936-50,#u936-52,#u936-54,#u936-60,#u936-63,#u936-67,#u936-69,#u936-71,#u936-73,#u936-75,#u936-77,#u936-79,#u936-85,#u936-88,#u936-92,#u936-94,#u936-96,#u936-102,#u936-108,#u936-111,#u811-6,#u203-2,#u203-6,#u203-10,#u203-12,#u203-14,#u203-16,#u203-23,#u947-5,#u947-11,#u947-15,#u947-17,#u947-19,#u947-21,#u947-23,#u947-25,#u947-27,#u947-29,#u947-31,#u947-33,#u947-35,#u947-38,#u947-42,#u947-44,#u947-46,#u947-48,#u947-50,#u947-52,#u947-54,#u947-60,#u947-63,#u947-67,#u947-69,#u947-71,#u947-73,#u947-75,#u947-77,#u947-79,#u947-85,#u947-88,#u947-92,#u947-94,#u947-96,#u947-102,#u947-108,#u947-111
+#u320-12,#u320-13,#u320-15,#u320-19,#u320-20,#u320-22,#u320-28
 {
-	font-family: lato-n4, sans-serif;
+	font-family: lato-n3, sans-serif;
 }
 
-#u203-19,#u203-24,#u207-10
+#u81-6,#u226-5
+{
+	font-family: rosario-n7, sans-serif;
+}
+
+#u979-5
+{
+	font-family: rosario-n7, sans-serif;
+}
+
+#u980-5
+{
+	font-family: rosario-n7, sans-serif;
+}
+
+#u981-5
+{
+	font-family: rosario-n7, sans-serif;
+}
+
+#u203-19,#u207-10
 {
 	font-family: pt-sans-narrow-n7, sans-serif;
 }

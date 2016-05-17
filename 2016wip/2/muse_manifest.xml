@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1463400243223">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1463515680969">
   <folder name="css">
-    <file name="site_global.css" crc="407525377"/>
-    <file name="index.css" crc="481653914" ref="index"/>
-    <file name="iefonts_index.css" crc="223384608" ref="index"/>
+    <file name="site_global.css" crc="3980969247"/>
+    <file name="index.css" crc="3768390849" ref="index"/>
+    <file name="iefonts_index.css" crc="461513609" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>invited-speakers:phone>schedule:phone>submissions:phone>organization:index"/>
@@ -31,30 +31,38 @@
     <file name="u596-grad.png" crc="4154555960" ref="phone>organization"/>
     <file name="dc_bg.jpg" crc="442823634" ref="index"/>
     <file name="img_7809.jpg" crc="157452829" ref="index"/>
-    <file name="headbota1.png" crc="4118043377" seo="true" ref="index"/>
-    <file name="headbotb2.png" crc="4285615275" seo="true" ref="index"/>
     <file name="aihri16_c_nobots_lightbg_transp_1000w.png" crc="4247218019" seo="true" ref="index"/>
-    <file name="u194-grad.png" crc="403624443" ref="index"/>
+    <file name="u194-grad.png" crc="4134442009" ref="index"/>
+    <file name="1463439483_account_friend_human_man_member_person_profile_user_users_black.png" crc="252162315" ref="index"/>
+    <file name="1463439480_edit_editor_pen_pencil_write_black.png" crc="3811114588" ref="index"/>
+    <file name="1463439522_star_award_badge_best_bookmark_favorite_favorites_favourite_preffered_prize_reward_star_trophy_win_winner_black.png" crc="67199424" ref="index"/>
+    <file name="1463439477_alarm_alert_clock_event_history_schedule_time_watch_black.png" crc="94789947" ref="index"/>
+    <file name="1463439467_home_house_real_estate.png" crc="3806601644" ref="index"/>
+    <file name="1463439467_home_house_real_estate_black.png" crc="3927636812" ref="index"/>
+    <file name="1463439483_account_friend_human_man_member_person_profile_user_users.png" crc="3811666815" ref="index"/>
+    <file name="1463439480_edit_editor_pen_pencil_write.png" crc="248314083" ref="index"/>
+    <file name="1463439522_star_award_badge_best_bookmark_favorite_favorites_favourite_preffered_prize_reward_star_trophy_win_winner.png" crc="3817418106" ref="index"/>
+    <file name="1463439477_alarm_alert_clock_event_history_schedule_time_watch.png" crc="139278611" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="270924120" ref="phone>invited-speakers:phone>submissions:phone>index:phone>schedule:phone>organization"/>
       <file name="invited-speakers.css" crc="3924241139" ref="phone>invited-speakers"/>
-      <file name="iefonts_invited-speakers.css" crc="3770902032" ref="phone>invited-speakers"/>
+      <file name="iefonts_invited-speakers.css" crc="75963257" ref="phone>invited-speakers"/>
       <file name="submissions.css" crc="405750441" ref="phone>submissions"/>
-      <file name="iefonts_submissions.css" crc="426627842" ref="phone>submissions"/>
-      <file name="index.css" crc="62722456" ref="phone>index"/>
-      <file name="iefonts_index.css" crc="3795024805" ref="phone>index"/>
-      <file name="schedule.css" crc="3957032296" ref="phone>schedule"/>
-      <file name="iefonts_schedule.css" crc="252587313" ref="phone>schedule"/>
+      <file name="iefonts_submissions.css" crc="4037374426" ref="phone>submissions"/>
+      <file name="index.css" crc="25653816" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="329380987" ref="phone>index"/>
+      <file name="schedule.css" crc="4002873922" ref="phone>schedule"/>
+      <file name="iefonts_schedule.css" crc="419963192" ref="phone>schedule"/>
       <file name="organization.css" crc="512763579" ref="phone>organization"/>
-      <file name="iefonts_organization.css" crc="4170026236" ref="phone>organization"/>
+      <file name="iefonts_organization.css" crc="482996629" ref="phone>organization"/>
     </folder>
-    <file name="index.html" crc="98942760" seo="true" mt="1463338012302" redirect="true"/>
-    <file name="invited-speakers.html" crc="4084051890" seo="true" mt="1463338012303" redirect="true"/>
-    <file name="schedule.html" crc="85159421" seo="true" mt="1463338012305" redirect="true"/>
-    <file name="submissions.html" crc="3802583381" seo="true" mt="1463338012306" redirect="true"/>
-    <file name="organization.html" crc="4150435377" seo="true" mt="1463338012307" redirect="true"/>
+    <file name="index.html" crc="215262376" seo="true" mt="1463513992492" redirect="true"/>
+    <file name="invited-speakers.html" crc="4084051890" seo="true" mt="1463513992492" redirect="true"/>
+    <file name="schedule.html" crc="217208916" seo="true" mt="1463513992492" redirect="true"/>
+    <file name="submissions.html" crc="3802583381" seo="true" mt="1463513992492" redirect="true"/>
+    <file name="organization.html" crc="4150435377" seo="true" mt="1463513992492" redirect="true"/>
   </folder>
-  <file name="index.html" crc="423506368" seo="true" mt="1463400229526" redirect="true"/>
+  <file name="index.html" crc="3853092738" seo="true" mt="1463515669117" redirect="true"/>
 </manifest>

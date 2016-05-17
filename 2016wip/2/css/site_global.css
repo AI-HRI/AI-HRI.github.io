@@ -178,7 +178,7 @@ a,.ts-Default-Link-Style--copy a
 
 .Main-text
 {
-	font-family: pt-sans, sans-serif;
+	font-family: lato, sans-serif;
 	font-size: 14px;
 	font-weight: 400;
 	padding: 5px 0px 0px;
@@ -186,11 +186,11 @@ a,.ts-Default-Link-Style--copy a
 
 .Schedule-author
 {
-	font-family: pt-sans-narrow, sans-serif;
+	font-family: lato, sans-serif;
 	font-size: 14px;
 	font-weight: 400;
-	text-align: right;
-	padding: 0px 0px 0px 10px;
+	text-align: left;
+	padding: 0px 0px 0px 35px;
 }
 
 .Sub-text
@@ -204,10 +204,11 @@ a,.ts-Default-Link-Style--copy a
 
 .Schedule-item
 {
-	font-family: pt-sans, sans-serif;
+	font-family: lato, sans-serif;
 	font-size: 14px;
 	font-style: italic;
 	font-weight: 700;
+	text-indent: 20px;
 	padding: 5px 0px 0px;
 }
 
@@ -240,6 +241,15 @@ a,.ts-Default-Link-Style--copy a
 	line-height: 22px;
 	text-align: center;
 	padding: 0px 0px 5px 10px;
+}
+
+.schedule-section
+{
+	font-family: lato, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: 700;
+	padding: 5px 0px 0px;
 }
 
 .list0 li:before
