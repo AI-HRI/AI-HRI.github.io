@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1463515680969">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1463516018241">
   <folder name="css">
     <file name="site_global.css" crc="3980969247"/>
-    <file name="index.css" crc="3768390849" ref="index"/>
-    <file name="iefonts_index.css" crc="461513609" ref="index"/>
+    <file name="index.css" crc="209235578" ref="index"/>
+    <file name="iefonts_index.css" crc="3800967007" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>invited-speakers:phone>schedule:phone>submissions:phone>organization:index"/>
@@ -43,6 +43,8 @@
     <file name="1463439480_edit_editor_pen_pencil_write.png" crc="248314083" ref="index"/>
     <file name="1463439522_star_award_badge_best_bookmark_favorite_favorites_favourite_preffered_prize_reward_star_trophy_win_winner.png" crc="3817418106" ref="index"/>
     <file name="1463439477_alarm_alert_clock_event_history_schedule_time_watch.png" crc="139278611" ref="index"/>
+    <file name="headbota1.png" crc="4118043377" seo="true" ref="index"/>
+    <file name="headbotb2.png" crc="4285615275" seo="true" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -64,5 +66,5 @@
     <file name="submissions.html" crc="3802583381" seo="true" mt="1463513992492" redirect="true"/>
     <file name="organization.html" crc="4150435377" seo="true" mt="1463513992492" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3853092738" seo="true" mt="1463515669117" redirect="true"/>
+  <file name="index.html" crc="3840066529" seo="true" mt="1463515997149" redirect="true"/>
 </manifest>

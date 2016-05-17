@@ -28,6 +28,11 @@
 	font-family: lato-n4, sans-serif;
 }
 
+#u320-12,#u320-13,#u320-15,#u320-19,#u320-20,#u320-22,#u320-28
+{
+	font-family: lato-n3, sans-serif;
+}
+
 #u811-6,#u203-2,#u203-6,#u203-10,#u203-12,#u203-14,#u203-16,#u203-23
 {
 	font-family: lato-n4, sans-serif;
@@ -56,11 +61,6 @@
 #u942-5
 {
 	font-family: lato-n9, sans-serif;
-}
-
-#u320-12,#u320-13,#u320-15,#u320-19,#u320-20,#u320-22,#u320-28
-{
-	font-family: lato-n3, sans-serif;
 }
 
 #u81-6,#u226-5
