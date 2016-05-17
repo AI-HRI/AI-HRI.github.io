@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000C;
-	background-color: #78AE7A;
+	color: #0000FE;
+	background-color: #109461;
 }
 
 .html
@@ -394,7 +394,7 @@
 
 #u80
 {
-	z-index: 681;
+	z-index: 682;
 	height: 119px;
 	-pie-box-shadow: none;
 	box-shadow: 0px 0px 30px rgba(0,0,0,0.38);
@@ -408,7 +408,7 @@
 
 #u80-bw
 {
-	z-index: 681;
+	z-index: 682;
 	position: fixed;
 	left: 0px;
 	right: 0px;
@@ -417,7 +417,7 @@
 
 #u81-6
 {
-	z-index: 682;
+	z-index: 683;
 	width: 459px;
 	min-height: 62px;
 	background-color: transparent;
@@ -435,7 +435,7 @@
 
 #u811-6
 {
-	z-index: 688;
+	z-index: 689;
 	width: 294px;
 	min-height: 46px;
 	background-color: transparent;
@@ -457,7 +457,7 @@
 
 #buttonu1086
 {
-	z-index: 646;
+	z-index: 647;
 	width: 50px;
 	height: 50px;
 	-pie-box-shadow: 4px 4px 30px #CCCCCC;
@@ -493,7 +493,7 @@
 
 #buttonu1085
 {
-	z-index: 645;
+	z-index: 646;
 	width: 50px;
 	height: 50px;
 	-pie-box-shadow: 4px 4px 30px #CCCCCC;
@@ -529,7 +529,7 @@
 
 #buttonu1084
 {
-	z-index: 644;
+	z-index: 645;
 	width: 50px;
 	height: 50px;
 	-pie-box-shadow: 4px 4px 30px #CCCCCC;
@@ -565,7 +565,7 @@
 
 #buttonu1083
 {
-	z-index: 643;
+	z-index: 644;
 	width: 50px;
 	height: 50px;
 	-pie-box-shadow: 4px 4px 30px #CCCCCC;
@@ -601,7 +601,7 @@
 
 #u851
 {
-	z-index: 694;
+	z-index: 695;
 	width: 180px;
 	background-color: transparent;
 	position: fixed;
@@ -611,7 +611,7 @@
 
 #u857
 {
-	z-index: 696;
+	z-index: 697;
 	width: 179px;
 	background-color: transparent;
 	position: fixed;
@@ -621,7 +621,7 @@
 
 #u815
 {
-	z-index: 678;
+	z-index: 679;
 	height: 363px;
 	-pie-box-shadow: none;
 	box-shadow: 0px 0px 30px rgba(0,0,0,0.16000000000000003);
@@ -632,7 +632,7 @@
 
 #u815-bw
 {
-	z-index: 678;
+	z-index: 679;
 	position: fixed;
 	left: 0px;
 	right: 0px;
@@ -641,7 +641,7 @@
 
 #u212
 {
-	z-index: 679;
+	z-index: 680;
 	width: 897px;
 	background-color: transparent;
 	position: fixed;
@@ -706,7 +706,12 @@
 	margin-top: 164px;
 }
 
-#u203-25
+#u202-2
+{
+	padding-top: 15px;
+}
+
+#u203-26
 {
 	z-index: 618;
 	width: 271px;
@@ -718,7 +723,7 @@
 	left: 20px;
 }
 
-#u203-2,#u203-6,#u203-10,#u203-12,#u203-14,#u203-16
+#u203-3,#u203-7,#u203-11,#u203-13,#u203-15,#u203-17
 {
 	font-size: 13px;
 	line-height: 16px;
@@ -727,7 +732,7 @@
 	font-weight: 400;
 }
 
-#u203-19
+#u203-20
 {
 	font-size: 16px;
 	text-align: center;
@@ -737,13 +742,13 @@
 	font-weight: 700;
 }
 
-#u203-17
+#u203-18
 {
 	font-family: lato, sans-serif;
 	font-weight: 900;
 }
 
-#u203-23
+#u203-24
 {
 	font-size: 16px;
 	text-align: center;
@@ -753,14 +758,14 @@
 	font-weight: 400;
 }
 
-#u203-20
+#u203-21
 {
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	font-style: italic;
 }
 
-#u203-22
+#u203-23
 {
 	font-family: lato, sans-serif;
 	font-weight: 700;
@@ -768,7 +773,7 @@
 
 #buttonu865
 {
-	z-index: 705;
+	z-index: 706;
 	width: 50px;
 	height: 50px;
 	-pie-box-shadow: 4px 4px 30px #CCCCCC;
@@ -776,7 +781,7 @@
 	border-color: #787878;
 	border-radius: 5px;
 	position: fixed;
-	top: 533px;
+	top: 543px;
 	left: 10px;
 	background: #4D6C80 url("../images/1463439467_home_house_real_estate.png") no-repeat center center;
 	background-size: contain;
@@ -814,7 +819,7 @@
 
 #buttonu869
 {
-	z-index: 704;
+	z-index: 705;
 	width: 50px;
 	height: 50px;
 	-pie-box-shadow: 4px 4px 30px #CCCCCC;
@@ -822,7 +827,7 @@
 	border-color: #787878;
 	border-radius: 5px;
 	position: fixed;
-	top: 533px;
+	top: 543px;
 	left: 71px;
 	background: #4D6C80 url("../images/1463439483_account_friend_human_man_member_person_profile_user_users.png") no-repeat center center;
 	background-size: contain;
@@ -860,7 +865,7 @@
 
 #buttonu992
 {
-	z-index: 703;
+	z-index: 704;
 	width: 50px;
 	height: 50px;
 	-pie-box-shadow: 4px 4px 30px #CCCCCC;
@@ -868,7 +873,7 @@
 	border-color: #787878;
 	border-radius: 5px;
 	position: fixed;
-	top: 533px;
+	top: 543px;
 	left: 132px;
 	background: #4D6C80 url("../images/1463439480_edit_editor_pen_pencil_write.png") no-repeat center center;
 	background-size: contain;
@@ -906,7 +911,7 @@
 
 #buttonu871
 {
-	z-index: 701;
+	z-index: 702;
 	width: 50px;
 	height: 50px;
 	-pie-box-shadow: 4px 4px 30px #CCCCCC;
@@ -914,7 +919,7 @@
 	border-color: #787878;
 	border-radius: 5px;
 	position: fixed;
-	top: 533px;
+	top: 543px;
 	left: 193px;
 	background: #4D6C80 url("../images/1463439522_star_award_badge_best_bookmark_favorite_favorites_favourite_preffered_prize_reward_star_trophy_win_winner.png") no-repeat center center;
 	background-size: contain;
@@ -952,7 +957,7 @@
 
 #buttonu873
 {
-	z-index: 702;
+	z-index: 703;
 	width: 50px;
 	height: 50px;
 	-pie-box-shadow: 4px 4px 30px #CCCCCC;
@@ -960,7 +965,7 @@
 	border-color: #787878;
 	border-radius: 5px;
 	position: fixed;
-	top: 533px;
+	top: 543px;
 	left: 254px;
 	background: #4D6C80 url("../images/1463439477_alarm_alert_clock_event_history_schedule_time_watch.png") no-repeat center center;
 	background-size: contain;
@@ -996,7 +1001,7 @@
 	background-size: contain;
 }
 
-.js #u320-30.ose_pre_init,.js #u194.ose_pre_init,.js #u202-4.ose_pre_init,.js #u203-25.ose_pre_init,.js #buttonu865.ose_pre_init,.js #buttonu869.ose_pre_init,.js #buttonu992.ose_pre_init,.js #buttonu871.ose_pre_init,.js #buttonu873.ose_pre_init
+.js #u320-30.ose_pre_init,.js #u194.ose_pre_init,.js #u202-4.ose_pre_init,.js #u203-26.ose_pre_init,.js #buttonu865.ose_pre_init,.js #buttonu869.ose_pre_init,.js #buttonu992.ose_pre_init,.js #buttonu871.ose_pre_init,.js #buttonu873.ose_pre_init
 {
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
@@ -1432,7 +1437,7 @@
 
 #u206
 {
-	z-index: 647;
+	z-index: 648;
 	height: 106px;
 	-pie-box-shadow: none;
 	box-shadow: 0px 0px 30px rgba(0,0,0,0.35600000000000004);
@@ -1448,12 +1453,12 @@
 
 #u206-bw
 {
-	z-index: 647;
+	z-index: 648;
 }
 
 #u226-5
 {
-	z-index: 658;
+	z-index: 659;
 	width: 101px;
 	min-height: 68px;
 	border-color: #262916;
@@ -1481,7 +1486,7 @@
 
 #u979-5
 {
-	z-index: 673;
+	z-index: 674;
 	width: 101px;
 	min-height: 68px;
 	border-color: #262916;
@@ -1509,7 +1514,7 @@
 
 #u980-5
 {
-	z-index: 663;
+	z-index: 664;
 	width: 101px;
 	min-height: 68px;
 	border-color: #262916;
@@ -1537,7 +1542,7 @@
 
 #u981-5
 {
-	z-index: 668;
+	z-index: 669;
 	width: 101px;
 	min-height: 68px;
 	border-color: #262916;
@@ -1592,7 +1597,7 @@
 
 #u207-10
 {
-	z-index: 648;
+	z-index: 649;
 	width: 326px;
 	min-height: 32px;
 	background-color: transparent;
