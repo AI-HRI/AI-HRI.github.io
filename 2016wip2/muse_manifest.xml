@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="false" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1464548117853">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="false" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1464548298365">
   <folder name="css">
     <file name="site_global.css" crc="346481114"/>
     <file name="master_a-master.css" crc="4153840669" ref="submissions:index:invited-speakers:organization:program"/>
@@ -10,7 +10,7 @@
     <file name="iefonts_invited-speakers.css" crc="31418848" ref="invited-speakers"/>
     <file name="organization.css" crc="3931903225" ref="organization"/>
     <file name="iefonts_organization.css" crc="31418848" ref="organization"/>
-    <file name="program.css" crc="4286118736" ref="program"/>
+    <file name="program.css" crc="180269549" ref="program"/>
     <file name="iefonts_program.css" crc="3918228817" ref="program"/>
   </folder>
   <folder name="scripts">
@@ -64,7 +64,7 @@
   </folder>
   <file name="index.html" crc="4105685295" seo="true" mt="1464548049586" redirect="true"/>
   <file name="invited-speakers.html" crc="387320658" seo="true" mt="1464548049586" redirect="true"/>
-  <file name="program.html" crc="167010143" seo="true" mt="1464548111830" redirect="true"/>
+  <file name="program.html" crc="167010143" seo="true" mt="1464548291632" redirect="true"/>
   <file name="submissions.html" crc="178290892" seo="true" mt="1464548049586" redirect="true"/>
   <file name="organization.html" crc="125031467" seo="true" mt="1464548049586" redirect="true"/>
 </manifest>
