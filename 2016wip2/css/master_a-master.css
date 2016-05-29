@@ -240,41 +240,6 @@
 	box-shadow: inset 3px 3px 3px rgba(255,255,255,0.07), inset -3px -3px 3px rgba(0,0,0,0.07);
 }
 
-#u1014
-{
-	-pie-box-shadow: none;
-	box-shadow: 0px 0px 30px rgba(0,0,0,0.35600000000000004);
-	background: -webkit-gradient(linear, left center, right center, from(rgba(35,30,11,0.8)),color-stop(100%, rgba(12,28,43,0.98)));
-	background: -webkit-linear-gradient(left,rgba(35,30,11,0.8) ,rgba(12,28,43,0.98) 100%);
-	background: linear-gradient(to right,rgba(35,30,11,0.8) ,rgba(12,28,43,0.98) 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#CC231E0B, endColorstr=#F90C1C2B, GradientType=1);
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#CC231E0B', endColorstr='#F90C1C2B', GradientType=1)";
-	position: fixed;
-	background-size: 100% auto;
-}
-
-#u1015-11
-{
-	background-color: transparent;
-	color: #DFE6FF;
-	text-align: center;
-	font-size: 18px;
-	line-height: 22px;
-	font-family: lato, sans-serif;
-	font-weight: 300;
-	position: fixed;
-}
-
-#u1015
-{
-	color: #E5EBFF;
-}
-
-#u1015-6
-{
-	color: #E1F56E;
-}
-
 #u1058,#u1012-33
 {
 	background-color: transparent;
@@ -385,6 +350,41 @@
 {
 	font-family: lato, sans-serif;
 	font-weight: 900;
+}
+
+#u1014
+{
+	-pie-box-shadow: none;
+	box-shadow: 0px 0px 30px rgba(0,0,0,0.35600000000000004);
+	background: -webkit-gradient(linear, left center, right center, from(rgba(35,30,11,0.8)),color-stop(100%, rgba(12,28,43,0.98)));
+	background: -webkit-linear-gradient(left,rgba(35,30,11,0.8) ,rgba(12,28,43,0.98) 100%);
+	background: linear-gradient(to right,rgba(35,30,11,0.8) ,rgba(12,28,43,0.98) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#CC231E0B, endColorstr=#F90C1C2B, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#CC231E0B', endColorstr='#F90C1C2B', GradientType=1)";
+	position: fixed;
+	background-size: 100% auto;
+}
+
+#u1015-11
+{
+	background-color: transparent;
+	color: #DFE6FF;
+	text-align: center;
+	font-size: 18px;
+	line-height: 22px;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: fixed;
+}
+
+#u1015
+{
+	color: #E5EBFF;
+}
+
+#u1015-6
+{
+	color: #E1F56E;
 }
 
 #menuu1021,#u1016
