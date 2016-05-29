@@ -1,17 +1,17 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="false" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1464465912172">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="false" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1464548117853">
   <folder name="css">
     <file name="site_global.css" crc="346481114"/>
-    <file name="master_a-master.css" crc="3842412667" ref="submissions:index:invited-speakers:organization:program"/>
-    <file name="submissions.css" crc="95245617" ref="submissions"/>
+    <file name="master_a-master.css" crc="4153840669" ref="submissions:index:invited-speakers:organization:program"/>
+    <file name="submissions.css" crc="4240816657" ref="submissions"/>
     <file name="iefonts_submissions.css" crc="31418848" ref="submissions"/>
-    <file name="index.css" crc="4268238664" ref="index"/>
+    <file name="index.css" crc="111552140" ref="index"/>
     <file name="iefonts_index.css" crc="4273452481" ref="index"/>
-    <file name="invited-speakers.css" crc="533035721" ref="invited-speakers"/>
+    <file name="invited-speakers.css" crc="113786015" ref="invited-speakers"/>
     <file name="iefonts_invited-speakers.css" crc="31418848" ref="invited-speakers"/>
-    <file name="organization.css" crc="116668340" ref="organization"/>
+    <file name="organization.css" crc="3931903225" ref="organization"/>
     <file name="iefonts_organization.css" crc="31418848" ref="organization"/>
-    <file name="program.css" crc="512961413" ref="program"/>
-    <file name="iefonts_program.css" crc="311140931" ref="program"/>
+    <file name="program.css" crc="4286118736" ref="program"/>
+    <file name="iefonts_program.css" crc="3918228817" ref="program"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>invited-speakers:phone>schedule:phone>submissions:phone>organization:index:invited-speakers:program:submissions:organization"/>
@@ -39,8 +39,8 @@
     <file name="headbota2.png" crc="175074297" seo="true" ref="phone>submissions"/>
     <file name="u596-grad.png" crc="4154555960" ref="phone>organization"/>
     <file name="dc_bg.jpg" crc="3909694693" ref="index:invited-speakers:program:submissions:organization"/>
-    <file name="u1013-grad.png" crc="3761316703" ref="index"/>
-    <file name="aihri16_c_darkbg_transp_281w.png" crc="3855762448" seo="true" ref="index:invited-speakers:program:submissions:organization"/>
+    <file name="u1013-grad.png" crc="3761316703" ref="index:program"/>
+    <file name="aihri16_c_darkbg_transp_281w.png" crc="70839423" seo="true" ref="index:invited-speakers:program:submissions:organization"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -62,9 +62,9 @@
     <file name="submissions.html" crc="443560538" seo="true" mt="1464456234982" redirect="true"/>
     <file name="organization.html" crc="356102" seo="true" mt="1464456234982" redirect="true"/>
   </folder>
-  <file name="index.html" crc="290594541" seo="true" mt="1464465875911" redirect="true"/>
-  <file name="invited-speakers.html" crc="80246315" seo="true" mt="1464465875911" redirect="true"/>
-  <file name="program.html" crc="468505679" seo="true" mt="1464465875911" redirect="true"/>
-  <file name="submissions.html" crc="3895470916" seo="true" mt="1464465875911" redirect="true"/>
-  <file name="organization.html" crc="357251596" seo="true" mt="1464465875911" redirect="true"/>
+  <file name="index.html" crc="4105685295" seo="true" mt="1464548049586" redirect="true"/>
+  <file name="invited-speakers.html" crc="387320658" seo="true" mt="1464548049586" redirect="true"/>
+  <file name="program.html" crc="167010143" seo="true" mt="1464548111830" redirect="true"/>
+  <file name="submissions.html" crc="178290892" seo="true" mt="1464548049586" redirect="true"/>
+  <file name="organization.html" crc="125031467" seo="true" mt="1464548049586" redirect="true"/>
 </manifest>

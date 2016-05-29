@@ -20,8 +20,8 @@
 {
 	background-color: transparent;
 	color: #E1F56E;
-	text-align: right;
 	line-height: 31px;
+	text-align: right;
 	text-transform: uppercase;
 	font-size: 29px;
 	font-family: rosario, sans-serif;
@@ -32,10 +32,10 @@
 #u1061-6
 {
 	background-color: transparent;
-	line-height: 19px;
 	color: #E5EBFF;
 	text-align: left;
 	font-size: 18px;
+	line-height: 19px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -72,10 +72,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
 	color: #262916;
 	text-align: center;
 	font-size: 17px;
+	line-height: 20px;
 	font-family: lato, sans-serif;
 	font-weight: 900;
 	position: relative;
@@ -102,10 +102,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
 	color: #262916;
 	text-align: center;
 	font-size: 17px;
+	line-height: 20px;
 	font-family: lato, sans-serif;
 	font-weight: 900;
 	position: relative;
@@ -132,10 +132,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
 	color: #262916;
 	text-align: center;
 	font-size: 17px;
+	line-height: 20px;
 	font-family: lato, sans-serif;
 	font-weight: 900;
 	position: relative;
@@ -162,10 +162,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
 	color: #262916;
 	text-align: center;
 	font-size: 17px;
+	line-height: 20px;
 	font-family: lato, sans-serif;
 	font-weight: 900;
 	position: relative;
@@ -203,10 +203,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
 	color: #262916;
 	text-align: center;
 	font-size: 17px;
+	line-height: 20px;
 	font-family: lato, sans-serif;
 	font-weight: 900;
 	position: relative;
@@ -238,6 +238,41 @@
 	bottom: 0px;
 	right: 0px;
 	box-shadow: inset 3px 3px 3px rgba(255,255,255,0.07), inset -3px -3px 3px rgba(0,0,0,0.07);
+}
+
+#u1014
+{
+	-pie-box-shadow: none;
+	box-shadow: 0px 0px 30px rgba(0,0,0,0.35600000000000004);
+	background: -webkit-gradient(linear, left center, right center, from(rgba(35,30,11,0.8)),color-stop(100%, rgba(12,28,43,0.98)));
+	background: -webkit-linear-gradient(left,rgba(35,30,11,0.8) ,rgba(12,28,43,0.98) 100%);
+	background: linear-gradient(to right,rgba(35,30,11,0.8) ,rgba(12,28,43,0.98) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#CC231E0B, endColorstr=#F90C1C2B, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#CC231E0B', endColorstr='#F90C1C2B', GradientType=1)";
+	position: fixed;
+	background-size: 100% auto;
+}
+
+#u1015-11
+{
+	background-color: transparent;
+	color: #DFE6FF;
+	text-align: center;
+	font-size: 18px;
+	line-height: 22px;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: fixed;
+}
+
+#u1015
+{
+	color: #E5EBFF;
+}
+
+#u1015-6
+{
+	color: #E1F56E;
 }
 
 #u1058,#u1012-33
@@ -352,41 +387,6 @@
 	font-weight: 900;
 }
 
-#u1014
-{
-	-pie-box-shadow: none;
-	box-shadow: 0px 0px 30px rgba(0,0,0,0.35600000000000004);
-	background: -webkit-gradient(linear, left center, right center, from(rgba(35,30,11,0.8)),color-stop(100%, rgba(12,28,43,0.98)));
-	background: -webkit-linear-gradient(left,rgba(35,30,11,0.8) ,rgba(12,28,43,0.98) 100%);
-	background: linear-gradient(to right,rgba(35,30,11,0.8) ,rgba(12,28,43,0.98) 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#CC231E0B, endColorstr=#F90C1C2B, GradientType=1);
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#CC231E0B', endColorstr='#F90C1C2B', GradientType=1)";
-	position: fixed;
-	background-size: 100% auto;
-}
-
-#u1015-11
-{
-	background-color: transparent;
-	line-height: 22px;
-	color: #DFE6FF;
-	text-align: center;
-	font-size: 18px;
-	font-family: lato, sans-serif;
-	font-weight: 300;
-	position: fixed;
-}
-
-#u1015
-{
-	color: #E5EBFF;
-}
-
-#u1015-6
-{
-	color: #E1F56E;
-}
-
 #menuu1021,#u1016
 {
 	border-style: none;
@@ -399,10 +399,10 @@
 {
 	border-color: #262916;
 	background-color: #FFFFFF;
-	line-height: 17px;
 	color: #000000;
 	text-align: center;
 	font-size: 17px;
+	line-height: 17px;
 	font-family: lato, sans-serif;
 	font-weight: 900;
 	position: fixed;
@@ -425,8 +425,8 @@
 {
 	color: #262916;
 	visibility: inherit;
-	padding-bottom: 0px;
 	padding-top: 0px;
+	padding-bottom: 0px;
 	text-indent: 0px;
 }
 
@@ -444,10 +444,10 @@
 {
 	border-color: #262916;
 	background-color: #FFFFFF;
-	line-height: 17px;
 	color: #000000;
 	text-align: center;
 	font-size: 17px;
+	line-height: 17px;
 	font-family: lato, sans-serif;
 	font-weight: 900;
 	position: fixed;
@@ -470,8 +470,8 @@
 {
 	color: #262916;
 	visibility: inherit;
-	padding-bottom: 0px;
 	padding-top: 0px;
+	padding-bottom: 0px;
 	text-indent: 0px;
 }
 
@@ -489,10 +489,10 @@
 {
 	border-color: #262916;
 	background-color: #FFFFFF;
-	line-height: 17px;
 	color: #000000;
 	text-align: center;
 	font-size: 17px;
+	line-height: 17px;
 	font-family: lato, sans-serif;
 	font-weight: 900;
 	position: fixed;
@@ -515,8 +515,8 @@
 {
 	color: #262916;
 	visibility: inherit;
-	padding-bottom: 0px;
 	padding-top: 0px;
+	padding-bottom: 0px;
 	text-indent: 0px;
 }
 
@@ -534,10 +534,10 @@
 {
 	border-color: #262916;
 	background-color: #FFFFFF;
-	line-height: 17px;
 	color: #000000;
 	text-align: center;
 	font-size: 17px;
+	line-height: 17px;
 	font-family: lato, sans-serif;
 	font-weight: 900;
 	position: fixed;
@@ -560,8 +560,8 @@
 {
 	color: #262916;
 	visibility: inherit;
-	padding-bottom: 0px;
 	padding-top: 0px;
+	padding-bottom: 0px;
 	text-indent: 0px;
 }
 
