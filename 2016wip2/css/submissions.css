@@ -1,7 +1,7 @@
 .version.submissions /* version checker */
 {
-	color: #0000FC;
-	background-color: #C5BA11;
+	color: #0000E8;
+	background-color: #829CB2;
 }
 
 .html
@@ -14,19 +14,18 @@
 {
 	z-index: 1;
 	width: 1050px;
-	min-height: 568.8739631185626px;
+	min-height: 569px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #page_position_content
 {
-	margin-top: -44px;
+	margin-top: -36px;
 	padding-bottom: 151px;
 	width: 0.01px;
 }
@@ -34,7 +33,7 @@
 #pu1057
 {
 	width: 0.01px;
-	padding-bottom: 119px;
+	padding-bottom: 111px;
 	margin-left: -100px;
 }
 
@@ -50,31 +49,18 @@
 	z-index: 77;
 }
 
-#u1058
+#u1336
 {
-	z-index: 109;
-	width: 281px;
-	top: -8px;
+	z-index: 121;
+	width: 278px;
+	top: 17px;
 	left: 50%;
 	margin-left: -525px;
 }
 
-#u1058_clip
-{
-	width: 281px;
-	height: 112px;
-}
-
-#u1058_img
-{
-	margin-left: -6px;
-	margin-right: -1px;
-	margin-bottom: -3px;
-}
-
 #u1060-6
 {
-	z-index: 111;
+	z-index: 109;
 	width: 459px;
 	min-height: 62px;
 	top: 4px;
@@ -84,7 +70,7 @@
 
 #u1061-6
 {
-	z-index: 117;
+	z-index: 115;
 	width: 294px;
 	min-height: 46px;
 	top: 20px;
