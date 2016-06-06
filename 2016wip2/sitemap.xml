@@ -2,72 +2,117 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://ai-hri.github.io/images/aihri16_b_lightbg_transp_500w.png</loc>
-    <lastmod>2016-05-30</lastmod>
+    <lastmod>2016-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://ai-hri.github.io/images/email.png</loc>
-    <lastmod>2016-05-30</lastmod>
+    <lastmod>2016-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://ai-hri.github.io/images/headbotb1.png</loc>
-    <lastmod>2016-05-30</lastmod>
+    <lastmod>2016-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://ai-hri.github.io/images/headbota2.png</loc>
-    <lastmod>2016-05-30</lastmod>
+    <lastmod>2016-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://ai-hri.github.io/images/aihri16_d_darkbg_transp_300w.png</loc>
-    <lastmod>2016-05-30</lastmod>
+    <lastmod>2016-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ai-hri.github.io/images/aaai.jpg</loc>
+    <lastmod>2016-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ai-hri.github.io/images/semio_logo.png</loc>
+    <lastmod>2016-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ai-hri.github.io/images/sphero_logo_blue.png</loc>
+    <lastmod>2016-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ai-hri.github.io/phone/invited-speakers.html</loc>
+    <lastmod>2016-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://ai-hri.github.io/phone/schedule.html</loc>
-    <lastmod>2016-05-28</lastmod>
+    <lastmod>2016-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ai-hri.github.io/phone/submissions.html</loc>
+    <lastmod>2016-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ai-hri.github.io/phone/organization.html</loc>
+    <lastmod>2016-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://ai-hri.github.io/index.html</loc>
-    <lastmod>2016-05-30</lastmod>
+    <lastmod>2016-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://ai-hri.github.io/phone/index.html"/>
   </url>
   <url>
-    <loc>http://ai-hri.github.io/invited-speakers.html</loc>
-    <lastmod>2016-05-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://ai-hri.github.io/phone/invited-speakers.html"/>
-  </url>
-  <url>
     <loc>http://ai-hri.github.io/program.html</loc>
-    <lastmod>2016-05-30</lastmod>
+    <lastmod>2016-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://ai-hri.github.io/submissions.html</loc>
-    <lastmod>2016-05-30</lastmod>
+    <loc>http://ai-hri.github.io/speakers.html</loc>
+    <lastmod>2016-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://ai-hri.github.io/phone/submissions.html"/>
   </url>
   <url>
-    <loc>http://ai-hri.github.io/organization.html</loc>
-    <lastmod>2016-05-30</lastmod>
+    <loc>http://ai-hri.github.io/authors.html</loc>
+    <lastmod>2016-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://ai-hri.github.io/phone/organization.html"/>
+  </url>
+  <url>
+    <loc>http://ai-hri.github.io/team.html</loc>
+    <lastmod>2016-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ai-hri.github.io/tech.html</loc>
+    <lastmod>2016-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ai-hri.github.io/sponsors.html</loc>
+    <lastmod>2016-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

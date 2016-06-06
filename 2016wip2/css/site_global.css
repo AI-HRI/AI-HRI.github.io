@@ -177,19 +177,19 @@ a,.ts-Default-Link-Style--copy a
 
 .Main-text
 {
-	font-family: pt-sans, sans-serif;
-	font-size: 14px;
+	font-family: lato, sans-serif;
+	font-size: 16px;
 	font-weight: 400;
-	padding: 5px 0px 0px;
+	padding: 15px 0px 0px;
 }
 
 .Schedule-author
 {
-	font-family: pt-sans-narrow, sans-serif;
-	font-size: 14px;
-	font-weight: 400;
-	text-align: right;
-	padding: 0px 0px 0px 10px;
+	font-family: lato, sans-serif;
+	font-size: 15px;
+	font-weight: 300;
+	text-align: left;
+	padding: 0px 0px 0px 40px;
 }
 
 .Sub-text
@@ -203,11 +203,11 @@ a,.ts-Default-Link-Style--copy a
 
 .Schedule-item
 {
-	font-family: pt-sans, sans-serif;
-	font-size: 14px;
+	font-family: lato, sans-serif;
+	font-size: 15px;
 	font-style: italic;
 	font-weight: 700;
-	padding: 5px 0px 0px;
+	padding: 10px 0px 0px 20px;
 }
 
 .Centered-title
@@ -228,7 +228,35 @@ a,.ts-Default-Link-Style--copy a
 	padding: 0px 0px 0px 10px;
 }
 
-.Centeres-subtitled-small
+.schedule-section
+{
+	font-family: lato, sans-serif;
+	font-size: 16px;
+	font-weight: 900;
+	padding: 15px 0px 0px;
+}
+
+.Schedule-time
+{
+	color: #4296CF;
+	font-family: lato, sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	text-align: right;
+	padding: 15px 0px 0px;
+}
+
+.Organizers-Authors
+{
+	color: #FFFFFF;
+	font-family: lato, sans-serif;
+	font-size: 18px;
+	font-weight: 700;
+	text-align: center;
+	padding: 5px 0px 0px;
+}
+
+.Centeres-subtitled-small,.Organizers-affiliation
 {
 	color: #FFFFFF;
 	font-family: lato, sans-serif;
@@ -237,15 +265,6 @@ a,.ts-Default-Link-Style--copy a
 	line-height: 22px;
 	text-align: center;
 	padding: 0px 0px 5px 10px;
-}
-
-.schedule-section
-{
-	font-family: lato, sans-serif;
-	font-size: 14px;
-	font-style: italic;
-	font-weight: 700;
-	padding: 5px 0px 0px;
 }
 
 .list0 li:before
