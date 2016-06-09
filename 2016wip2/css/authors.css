@@ -1,7 +1,7 @@
 .version.authors /* version checker */
 {
-	color: #000013;
-	background-color: #CB46D3;
+	color: #000014;
+	background-color: #D9F7C2;
 }
 
 .html
@@ -52,10 +52,15 @@
 #u1336
 {
 	z-index: 102;
-	width: 278px;
-	top: 17px;
+	width: 300px;
+	top: 10px;
 	left: 50%;
 	margin-left: -525px;
+}
+
+#u1336_img
+{
+	padding-right: 11px;
 }
 
 #u1060-6

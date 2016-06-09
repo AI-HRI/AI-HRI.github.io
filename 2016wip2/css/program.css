@@ -1,7 +1,7 @@
 .version.program /* version checker */
 {
-	color: #0000E7;
-	background-color: #EEBD9E;
+	color: #00001D;
+	background-color: #FC2251;
 }
 
 .html
@@ -53,10 +53,15 @@
 #u1336
 {
 	z-index: 545;
-	width: 278px;
-	top: 17px;
+	width: 300px;
+	top: 10px;
 	left: 50%;
 	margin-left: -525px;
+}
+
+#u1336_img
+{
+	padding-right: 11px;
 }
 
 #u1060-6

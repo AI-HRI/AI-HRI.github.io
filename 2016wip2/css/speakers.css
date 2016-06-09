@@ -1,7 +1,7 @@
 .version.speakers /* version checker */
 {
-	color: #000005;
-	background-color: #CA843F;
+	color: #000015;
+	background-color: #FA023C;
 }
 
 .html
@@ -52,10 +52,15 @@
 #u1336
 {
 	z-index: 106;
-	width: 278px;
-	top: 17px;
+	width: 300px;
+	top: 10px;
 	left: 50%;
 	margin-left: -525px;
+}
+
+#u1336_img
+{
+	padding-right: 11px;
 }
 
 #u1060-6

@@ -1,7 +1,7 @@
 .version.team /* version checker */
 {
-	color: #00000A;
-	background-color: #DCB18C;
+	color: #0000F2;
+	background-color: #1C9175;
 }
 
 .html
@@ -52,10 +52,15 @@
 #u1336
 {
 	z-index: 143;
-	width: 278px;
-	top: 17px;
+	width: 300px;
+	top: 10px;
 	left: 50%;
 	margin-left: -525px;
+}
+
+#u1336_img
+{
+	padding-right: 11px;
 }
 
 #u1060-6
