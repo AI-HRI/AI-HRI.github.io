@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F8;
-	background-color: #A307CA;
+	color: #0000F7;
+	background-color: #51AF74;
 }
 
 @-ms-viewport
@@ -70,7 +70,7 @@
 
 #u454
 {
-	z-index: 161;
+	z-index: 155;
 	width: 342px;
 	margin-bottom: -11px;
 	margin-right: -10000px;
@@ -85,7 +85,7 @@
 
 #u453,#u453-bw
 {
-	z-index: 160;
+	z-index: 154;
 	min-height: 130px;
 }
 
@@ -154,7 +154,7 @@
 #u536
 {
 	min-height: 24px;
-	padding-bottom: 14px;
+	padding-bottom: 24px;
 }
 
 #u536:active
@@ -166,7 +166,7 @@
 #u537-4
 {
 	min-height: 24px;
-	top: 7px;
+	top: 12px;
 }
 
 #u536:active #u537-4
@@ -180,7 +180,7 @@
 #u541
 {
 	min-height: 24px;
-	padding-bottom: 14px;
+	padding-bottom: 25px;
 }
 
 #u536.MuseMenuActive,#u541:active
@@ -192,7 +192,7 @@
 #u543-4
 {
 	min-height: 24px;
-	top: 7px;
+	top: 12px;
 }
 
 #u536.MuseMenuActive #u537-4,#u541:active #u543-4
@@ -203,39 +203,13 @@
 	margin: 0px;
 }
 
-#u550
-{
-	min-height: 24px;
-	padding-bottom: 15px;
-}
-
-#u541.MuseMenuActive,#u550:active
-{
-	min-height: 24px;
-	margin: 0px;
-}
-
-#u551-4
-{
-	min-height: 24px;
-	top: 7px;
-}
-
-#u541.MuseMenuActive #u543-4,#u550:active #u551-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 24px;
-	margin: 0px;
-}
-
 #u557
 {
 	min-height: 24px;
-	padding-bottom: 15px;
+	padding-bottom: 25px;
 }
 
-#u550.MuseMenuActive,#u557:active
+#u541.MuseMenuActive,#u557:active
 {
 	min-height: 24px;
 	margin: 0px;
@@ -244,10 +218,10 @@
 #u558-4
 {
 	min-height: 24px;
-	top: 7px;
+	top: 12px;
 }
 
-#u550.MuseMenuActive #u551-4,#u557:active #u558-4
+#u541.MuseMenuActive #u543-4,#u557:active #u558-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -258,7 +232,7 @@
 #u562
 {
 	min-height: 24px;
-	padding-bottom: 15px;
+	padding-bottom: 25px;
 }
 
 #u557.MuseMenuActive,#u562:active
@@ -276,7 +250,7 @@
 #u564-4
 {
 	min-height: 24px;
-	top: 7px;
+	top: 12px;
 }
 
 #u557.MuseMenuActive #u558-4,#u562:active #u564-4
@@ -295,7 +269,7 @@
 	margin: 0px;
 }
 
-#u540,#u547,#u554,#u561
+#u540,#u554,#u561
 {
 	margin-top: 2px;
 }
@@ -327,7 +301,7 @@
 
 #u570
 {
-	z-index: 159;
+	z-index: 153;
 	width: 301px;
 	height: 43px;
 	top: 133px;
@@ -386,11 +360,8 @@
 	width: 341px;
 	min-height: 15px;
 	background-color: transparent;
-	text-align: center;
-	font-size: 22px;
+	color: #000000;
 	line-height: 26px;
-	font-family: lato, sans-serif;
-	font-weight: 900;
 	position: relative;
 }
 

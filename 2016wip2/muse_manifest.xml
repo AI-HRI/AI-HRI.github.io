@@ -1,6 +1,6 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="false" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1465682984787">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="false" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1465684221935">
   <folder name="css">
-    <file name="site_global.css" crc="146570617"/>
+    <file name="site_global.css" crc="3770624529"/>
     <file name="master_a-master.css" crc="138200346" ref="index:program:tech:speakers:team:sponsors:authors"/>
     <file name="index.css" crc="3986510504" ref="index"/>
     <file name="iefonts_index.css" crc="139820966" ref="index"/>
@@ -22,7 +22,7 @@
     <file name="museutils.js" crc="183364071" ref="phone>index:phone>invited-speakers:phone>schedule:phone>submissions:phone>organization:index:program:speakers:authors:team:tech:sponsors"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="phone>index:phone>invited-speakers:phone>schedule:phone>submissions:phone>organization:index:program:speakers:authors:team:tech:sponsors"/>
     <file name="jquery.watch.js" crc="71412426" ref="phone>index:phone>invited-speakers:phone>schedule:phone>submissions:phone>organization:index:program:speakers:authors:team:tech:sponsors"/>
-    <file name="pie.js" crc="3827607177" ref="phone>index:phone>schedule:index:speakers:authors:team:sponsors"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>schedule:index:speakers:authors:team:sponsors:phone>invited-speakers:phone>organization"/>
     <file name="jquery.musemenu.js" crc="3957776250" ref="phone>index:phone>invited-speakers:phone>schedule:phone>submissions:phone>organization:index:program:speakers:authors:team:tech:sponsors"/>
     <file name="webpro.js" crc="3803554875" ref="phone>index:phone>invited-speakers:phone>schedule:phone>submissions:phone>organization:program"/>
     <file name="musewpdisclosure.js" crc="3993616448" ref="phone>index:phone>invited-speakers:phone>schedule:phone>submissions:phone>organization:program"/>
@@ -32,12 +32,7 @@
   </folder>
   <folder name="images">
     <file name="dc_bg_mobilemedium.jpg" crc="3852904231" ref="phone>index:phone>invited-speakers:phone>schedule:phone>submissions:phone>organization"/>
-    <file name="u593-grad.png" crc="3949020605" ref="phone>invited-speakers"/>
     <file name="u594-grad.png" crc="3993188950" ref="phone>schedule"/>
-    <file name="u595-grad.png" crc="3817715023" ref="phone>submissions"/>
-    <file name="headbotb1.png" crc="4085320194" seo="true" ref="phone>submissions"/>
-    <file name="headbota2.png" crc="175074297" seo="true" ref="phone>submissions"/>
-    <file name="u596-grad.png" crc="4154555960" ref="phone>organization"/>
     <file name="dc_bg.jpg" crc="3909694693" ref="index:program:speakers:authors:team:tech:sponsors"/>
     <file name="u1013-grad.png" crc="3815899420" ref="index"/>
     <file name="aaai.jpg" crc="506383955" seo="true" ref="sponsors"/>
@@ -48,23 +43,23 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="3863099162" ref="phone>submissions:phone>index:phone>organization:phone>invited-speakers:phone>schedule"/>
-      <file name="submissions.css" crc="225392317" ref="phone>submissions"/>
-      <file name="iefonts_submissions.css" crc="293098500" ref="phone>submissions"/>
-      <file name="index.css" crc="4171433930" ref="phone>index"/>
-      <file name="iefonts_index.css" crc="188934330" ref="phone>index"/>
-      <file name="organization.css" crc="4183789492" ref="phone>organization"/>
-      <file name="iefonts_organization.css" crc="3988176498" ref="phone>organization"/>
-      <file name="invited-speakers.css" crc="409464806" ref="phone>invited-speakers"/>
-      <file name="iefonts_invited-speakers.css" crc="4126692510" ref="phone>invited-speakers"/>
-      <file name="schedule.css" crc="4081266364" ref="phone>schedule"/>
-      <file name="iefonts_schedule.css" crc="4184783041" ref="phone>schedule"/>
+      <file name="master_a-master.css" crc="1966847" ref="phone>submissions:phone>index:phone>organization:phone>invited-speakers:phone>schedule"/>
+      <file name="submissions.css" crc="4220774911" ref="phone>submissions"/>
+      <file name="iefonts_submissions.css" crc="530769523" ref="phone>submissions"/>
+      <file name="index.css" crc="4149325684" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="4194138557" ref="phone>index"/>
+      <file name="organization.css" crc="479530688" ref="phone>organization"/>
+      <file name="iefonts_organization.css" crc="530769523" ref="phone>organization"/>
+      <file name="invited-speakers.css" crc="3863321513" ref="phone>invited-speakers"/>
+      <file name="iefonts_invited-speakers.css" crc="3928930969" ref="phone>invited-speakers"/>
+      <file name="schedule.css" crc="4136749648" ref="phone>schedule"/>
+      <file name="iefonts_schedule.css" crc="387249578" ref="phone>schedule"/>
     </folder>
-    <file name="index.html" crc="4179549912" seo="true" mt="1465682974952" redirect="true"/>
-    <file name="invited-speakers.html" crc="449367216" seo="true" mt="1465682974952" redirect="true"/>
-    <file name="schedule.html" crc="4254834128" seo="true" mt="1465682974952" redirect="true"/>
-    <file name="submissions.html" crc="311261369" seo="true" mt="1465682974952" redirect="true"/>
-    <file name="organization.html" crc="500425328" seo="true" mt="1465682974952" redirect="true"/>
+    <file name="index.html" crc="3895870248" seo="true" mt="1465684165047" redirect="true"/>
+    <file name="invited-speakers.html" crc="485093559" seo="true" mt="1465684191889" redirect="true"/>
+    <file name="schedule.html" crc="3862855597" seo="true" mt="1465683187747" redirect="true"/>
+    <file name="submissions.html" crc="278419558" seo="true" mt="1465684202833" redirect="true"/>
+    <file name="organization.html" crc="444499385" seo="true" mt="1465684165077" redirect="true"/>
   </folder>
   <file name="index.html" crc="29481836" seo="true" mt="1465681721239" redirect="true"/>
   <file name="program.html" crc="187316493" seo="true" mt="1465681721242" redirect="true"/>

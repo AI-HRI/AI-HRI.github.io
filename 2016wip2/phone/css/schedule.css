@@ -1,7 +1,7 @@
 .version.schedule /* version checker */
 {
-	color: #0000F3;
-	background-color: #432EBC;
+	color: #0000F6;
+	background-color: #91CA50;
 }
 
 @-ms-viewport
@@ -67,7 +67,7 @@
 
 #u454
 {
-	z-index: 364;
+	z-index: 358;
 	width: 342px;
 	margin-bottom: -11px;
 	margin-right: -10000px;
@@ -82,7 +82,7 @@
 
 #u453,#u453-bw
 {
-	z-index: 363;
+	z-index: 357;
 	min-height: 130px;
 }
 
@@ -166,7 +166,7 @@
 #u536
 {
 	min-height: 24px;
-	padding-bottom: 14px;
+	padding-bottom: 24px;
 }
 
 #u536:active
@@ -178,7 +178,7 @@
 #u537-4
 {
 	min-height: 24px;
-	top: 7px;
+	top: 12px;
 }
 
 #u536:active #u537-4
@@ -192,7 +192,7 @@
 #u541
 {
 	min-height: 24px;
-	padding-bottom: 14px;
+	padding-bottom: 25px;
 }
 
 #u536.MuseMenuActive,#u541:active
@@ -204,7 +204,7 @@
 #u543-4
 {
 	min-height: 24px;
-	top: 7px;
+	top: 12px;
 }
 
 #u536.MuseMenuActive #u537-4,#u541:active #u543-4
@@ -215,39 +215,13 @@
 	margin: 0px;
 }
 
-#u550
-{
-	min-height: 24px;
-	padding-bottom: 15px;
-}
-
-#u541.MuseMenuActive,#u550:active
-{
-	min-height: 24px;
-	margin: 0px;
-}
-
-#u551-4
-{
-	min-height: 24px;
-	top: 7px;
-}
-
-#u541.MuseMenuActive #u543-4,#u550:active #u551-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 24px;
-	margin: 0px;
-}
-
 #u557
 {
 	min-height: 24px;
-	padding-bottom: 15px;
+	padding-bottom: 25px;
 }
 
-#u550.MuseMenuActive,#u557:active
+#u541.MuseMenuActive,#u557:active
 {
 	min-height: 24px;
 	margin: 0px;
@@ -256,10 +230,10 @@
 #u558-4
 {
 	min-height: 24px;
-	top: 7px;
+	top: 12px;
 }
 
-#u550.MuseMenuActive #u551-4,#u557:active #u558-4
+#u541.MuseMenuActive #u543-4,#u557:active #u558-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -270,7 +244,7 @@
 #u562
 {
 	min-height: 24px;
-	padding-bottom: 15px;
+	padding-bottom: 25px;
 }
 
 #u557.MuseMenuActive,#u562:active
@@ -288,7 +262,7 @@
 #u564-4
 {
 	min-height: 24px;
-	top: 7px;
+	top: 12px;
 }
 
 #u557.MuseMenuActive #u558-4,#u562:active #u564-4
@@ -307,7 +281,7 @@
 	margin: 0px;
 }
 
-#u540,#u547,#u554,#u561
+#u540,#u554,#u561
 {
 	margin-top: 2px;
 }
@@ -409,7 +383,7 @@
 
 #u570
 {
-	z-index: 362;
+	z-index: 356;
 	width: 301px;
 	height: 43px;
 	top: 133px;

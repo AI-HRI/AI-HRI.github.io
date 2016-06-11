@@ -1,7 +1,7 @@
 .version.organization /* version checker */
 {
-	color: #0000F9;
-	background-color: #5F8FB4;
+	color: #00001C;
+	background-color: #950EC0;
 }
 
 @-ms-viewport
@@ -39,7 +39,7 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 569.9750000000001px;
+	min-height: 960.9500000000013px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -55,7 +55,7 @@
 
 #u618
 {
-	z-index: 65;
+	z-index: 59;
 	height: 176px;
 }
 
@@ -64,13 +64,13 @@
 	position: fixed;
 	left: 0px;
 	right: 0px;
-	z-index: 65;
+	z-index: 59;
 	top: 0px;
 }
 
 #u454
 {
-	z-index: 122;
+	z-index: 110;
 	width: 342px;
 	margin-bottom: -11px;
 	margin-right: -10000px;
@@ -85,23 +85,23 @@
 
 #u453,#u453-bw
 {
-	z-index: 121;
+	z-index: 109;
 	min-height: 130px;
 }
 
 #accordionu519
 {
-	z-index: 82;
+	z-index: 76;
 }
 
 #u520
 {
-	z-index: 83;
+	z-index: 77;
 }
 
 #u521-3
 {
-	z-index: 84;
+	z-index: 78;
 	min-height: 22px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -134,12 +134,12 @@
 
 #u522
 {
-	z-index: 87;
+	z-index: 81;
 }
 
 #u1640
 {
-	z-index: 88;
+	z-index: 82;
 	width: 380px;
 	height: 212px;
 	margin-right: -10000px;
@@ -147,14 +147,14 @@
 
 #menuu532
 {
-	z-index: 89;
+	z-index: 83;
 	min-height: 201px;
 }
 
 #u536
 {
 	min-height: 24px;
-	padding-bottom: 14px;
+	padding-bottom: 24px;
 }
 
 #u536:active
@@ -166,7 +166,7 @@
 #u537-4
 {
 	min-height: 24px;
-	top: 7px;
+	top: 12px;
 }
 
 #u536:active #u537-4
@@ -180,7 +180,7 @@
 #u541
 {
 	min-height: 24px;
-	padding-bottom: 14px;
+	padding-bottom: 25px;
 }
 
 #u536.MuseMenuActive,#u541:active
@@ -192,7 +192,7 @@
 #u543-4
 {
 	min-height: 24px;
-	top: 7px;
+	top: 12px;
 }
 
 #u536.MuseMenuActive #u537-4,#u541:active #u543-4
@@ -203,39 +203,13 @@
 	margin: 0px;
 }
 
-#u550
-{
-	min-height: 24px;
-	padding-bottom: 15px;
-}
-
-#u541.MuseMenuActive,#u550:active
-{
-	min-height: 24px;
-	margin: 0px;
-}
-
-#u551-4
-{
-	min-height: 24px;
-	top: 7px;
-}
-
-#u541.MuseMenuActive #u543-4,#u550:active #u551-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 24px;
-	margin: 0px;
-}
-
 #u557
 {
 	min-height: 24px;
-	padding-bottom: 15px;
+	padding-bottom: 25px;
 }
 
-#u550.MuseMenuActive,#u557:active
+#u541.MuseMenuActive,#u557:active
 {
 	min-height: 24px;
 	margin: 0px;
@@ -244,10 +218,10 @@
 #u558-4
 {
 	min-height: 24px;
-	top: 7px;
+	top: 12px;
 }
 
-#u550.MuseMenuActive #u551-4,#u557:active #u558-4
+#u541.MuseMenuActive #u543-4,#u557:active #u558-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -258,7 +232,7 @@
 #u562
 {
 	min-height: 24px;
-	padding-bottom: 15px;
+	padding-bottom: 25px;
 }
 
 #u557.MuseMenuActive,#u562:active
@@ -276,7 +250,7 @@
 #u564-4
 {
 	min-height: 24px;
-	top: 7px;
+	top: 12px;
 }
 
 #u557.MuseMenuActive #u558-4,#u562:active #u564-4
@@ -295,14 +269,14 @@
 	margin: 0px;
 }
 
-#u540,#u547,#u554,#u561
+#u540,#u554,#u561
 {
 	margin-top: 2px;
 }
 
 #menuu532-bw
 {
-	z-index: 89;
+	z-index: 83;
 	min-height: 201px;
 	margin-top: 4px;
 }
@@ -312,107 +286,22 @@
 	position: fixed;
 	left: 0px;
 	right: 0px;
-	z-index: 82;
+	z-index: 76;
 	top: 130px;
-}
-
-#u596
-{
-	z-index: 2;
-	width: 364px;
-	-pie-box-shadow: none;
-	box-shadow: 4px 4px 30px rgba(0,0,0,0.38);
-	background: transparent url("../../images/u596-grad.png") repeat-x left top;
-	background: -webkit-gradient(linear, center top, center bottom, from(rgba(255,255,255,0.95)),color-stop(100%, rgba(229,235,255,0.95)));
-	background: -webkit-linear-gradient(top,rgba(255,255,255,0.95) ,rgba(229,235,255,0.95) 100%);
-	background: linear-gradient(to bottom,rgba(255,255,255,0.95) ,rgba(229,235,255,0.95) 100%);
-	padding-bottom: 5px;
-	margin-left: 8px;
-	margin-top: 6px;
-	position: relative;
-}
-
-#u596::before
-{
-	content: "";
-	position: absolute;
-	pointer-events: none;
-	top: 0px;
-	left: 0px;
-	bottom: 0px;
-	right: 0px;
-	box-shadow: inset 3px 3px 3px rgba(255,255,255,0.07), inset -3px -3px 3px rgba(0,0,0,0.07);
-}
-
-#u606-51
-{
-	z-index: 3;
-	width: 341px;
-	min-height: 411px;
-	background-color: transparent;
-	text-align: center;
-	font-size: 12px;
-	line-height: 14px;
-	font-family: pt-sans, sans-serif;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 18px;
-	left: 11px;
-}
-
-#u606-2,#u606-7,#u606-12,#u606-17,#u606-22,#u606-27,#u606-32,#u606-37,#u606-42,#u606-47
-{
-	font-weight: 700;
-}
-
-#u606-4,#u606-5,#u606-9,#u606-10,#u606-14,#u606-15,#u606-19,#u606-20,#u606-24,#u606-25,#u606-29,#u606-30,#u606-34,#u606-35,#u606-39,#u606-40,#u606-44,#u606-45,#u606-49
-{
-	font-weight: 400;
-}
-
-#pu456-6
-{
-	width: 0.01px;
-	padding-bottom: 89px;
-	margin-top: -437px;
-}
-
-#u456-6
-{
-	z-index: 70;
-	min-height: 46px;
-}
-
-#u456-6-bw
-{
-	position: fixed;
-	left: 0px;
-	right: 0px;
-	z-index: 70;
-	top: 176px;
 }
 
 #u619-6
 {
-	z-index: 76;
+	z-index: 70;
 	width: 341px;
 	min-height: 33px;
 	top: 133px;
 	left: 19px;
 }
 
-#u637-4
-{
-	z-index: 66;
-	width: 49px;
-	min-height: 24px;
-	top: 151px;
-	left: 30px;
-}
-
 #u570
 {
-	z-index: 120;
+	z-index: 108;
 	width: 301px;
 	height: 43px;
 	top: 133px;
@@ -427,27 +316,103 @@
 	filter: alpha(opacity=1);
 }
 
+#u637-4
+{
+	z-index: 60;
+	width: 49px;
+	min-height: 24px;
+	top: 151px;
+	left: 30px;
+}
+
+#u456-6
+{
+	z-index: 64;
+	min-height: 46px;
+}
+
+#u456-6-bw
+{
+	position: fixed;
+	left: 0px;
+	right: 0px;
+	z-index: 64;
+	top: 176px;
+}
+
+#u1673
+{
+	z-index: 2;
+	min-height: 578px;
+	-pie-box-shadow: none;
+	box-shadow: 4px 4px 30px rgba(0,0,0,0.38);
+	background-color: #3E4950;
+	background-color: rgba(52,64,71,0.95);
+	padding-bottom: 13px;
+	-pie-background: rgba(52,64,71,0.95);
+}
+
+#u606-45
+{
+	z-index: 3;
+	width: 341px;
+	min-height: 550px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 25px;
+	left: 19px;
+}
+
+#u606-2
+{
+	line-height: 26px;
+}
+
+#u606-3
+{
+	line-height: 17px;
+}
+
+#u606-5,#u606-9,#u606-13,#u606-17,#u606-21,#u606-25,#u606-29,#u606-33,#u606-37,#u606-41
+{
+	font-size: 17px;
+	line-height: 20px;
+}
+
+#u606-7,#u606-11,#u606-15,#u606-19,#u606-23,#u606-27,#u606-31,#u606-35,#u606-39,#u606-43
+{
+	line-height: 19px;
+}
+
+#u1673-bw
+{
+	z-index: 2;
+	min-height: 578px;
+	margin-top: 139px;
+}
+
 #pu451
 {
 	width: 0.01px;
-	margin-top: 11px;
+	margin-top: 62px;
 }
 
 #u451,#u451-bw
 {
-	z-index: 54;
+	z-index: 48;
 	height: 40px;
 }
 
 #u452-10
 {
-	z-index: 55;
+	z-index: 49;
 	min-height: 32px;
 }
 
 #u452-10-bw
 {
-	z-index: 55;
+	z-index: 49;
 	min-height: 32px;
 	margin-top: 7px;
 }
