@@ -1,7 +1,7 @@
 .version.invited_speakers /* version checker */
 {
-	color: #0000E6;
-	background-color: #459BA9;
+	color: #000009;
+	background-color: #9B1E22;
 }
 
 @-ms-viewport
@@ -321,7 +321,7 @@
 	z-index: 27;
 	width: 49px;
 	min-height: 24px;
-	top: 151px;
+	top: 144px;
 	left: 30px;
 }
 

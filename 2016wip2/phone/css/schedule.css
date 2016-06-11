@@ -1,7 +1,7 @@
 .version.schedule /* version checker */
 {
-	color: #0000F6;
-	background-color: #91CA50;
+	color: #000015;
+	background-color: #22F832;
 }
 
 @-ms-viewport
@@ -558,7 +558,7 @@
 	z-index: 308;
 	width: 49px;
 	min-height: 24px;
-	top: 151px;
+	top: 144px;
 	left: 30px;
 }
 
