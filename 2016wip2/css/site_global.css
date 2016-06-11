@@ -117,6 +117,12 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: normal;
 }
 
+a,.ts-Default-Link-Style--copy a
+{
+	color: inherit;
+	text-decoration: inherit;
+}
+
 .ts-Default-Link-Style--copy a:link
 {
 	color: #262916;
