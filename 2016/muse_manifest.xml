@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="false" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1465801405920">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="false" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1465801830555">
   <folder name="css">
     <file name="site_global.css" crc="3770624529"/>
     <file name="master_a-master.css" crc="3948881469" ref="index:program:tech:speakers:team:sponsors:authors"/>
@@ -61,11 +61,11 @@
     <file name="submissions.html" crc="3883800017" seo="true" mt="1465684396733" redirect="true"/>
     <file name="organization.html" crc="151547796" seo="true" mt="1465684396733" redirect="true"/>
   </folder>
-  <file name="index.html" crc="153894138" seo="true" mt="1465801197812" redirect="true"/>
-  <file name="program.html" crc="4048130740" seo="true" mt="1465800982873" redirect="true"/>
-  <file name="speakers.html" crc="426337263" seo="true" mt="1465800982873" redirect="true"/>
-  <file name="authors.html" crc="4136940582" seo="true" mt="1465801234830" redirect="true"/>
-  <file name="team.html" crc="107395082" seo="true" mt="1465800982873" redirect="true"/>
-  <file name="tech.html" crc="228559318" seo="true" mt="1465800982873" redirect="true"/>
-  <file name="sponsors.html" crc="196030968" seo="true" mt="1465801352372" redirect="true"/>
+  <file name="index.html" crc="4125332762" seo="true" mt="1465801805226" redirect="true"/>
+  <file name="program.html" crc="4272398998" seo="true" mt="1465801805226" redirect="true"/>
+  <file name="speakers.html" crc="127352716" seo="true" mt="1465801805226" redirect="true"/>
+  <file name="authors.html" crc="4219341180" seo="true" mt="1465801805226" redirect="true"/>
+  <file name="team.html" crc="4151700203" seo="true" mt="1465801805226" redirect="true"/>
+  <file name="tech.html" crc="4058430880" seo="true" mt="1465801805226" redirect="true"/>
+  <file name="sponsors.html" crc="4272259463" seo="true" mt="1465801805226" redirect="true"/>
 </manifest>
