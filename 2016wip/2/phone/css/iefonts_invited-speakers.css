@@ -1,8 +1,3 @@
-.Title
-{
-	font-family: lato-n9, sans-serif;
-}
-
 .Sub-text
 {
 	font-family: pt-sans-narrow-n7, sans-serif;
@@ -13,62 +8,77 @@
 	font-family: lato-i7, sans-serif;
 }
 
-.Centered-title
+.Centered-title,.Organizers-Authors
 {
 	font-family: lato-n7, sans-serif;
 }
 
-.Centered-subtitled,.Centeres-subtitled-small
+.Schedule-author,.Centered-subtitled,.Centeres-subtitled-small,.Organizers-affiliation
 {
 	font-family: lato-n3, sans-serif;
 }
 
-.Main-text,.Schedule-author,.schedule-section
+.Title,.schedule-section,.mob_SectionTitle
+{
+	font-family: lato-n9, sans-serif;
+}
+
+.mob_OrganizerAffiliation,.mob_ShortText
+{
+	font-family: lato-i3, sans-serif;
+}
+
+.Main-text,.Schedule-time,.mob_OrganizerName,.CFP-text
 {
 	font-family: lato-n4, sans-serif;
 }
 
-#u456-4
-{
-	font-family: pt-sans-narrow-n4, sans-serif;
-}
-
-#u521-3.AccordionPanelTabOpen p,#u521-3
+#u521-3.AccordionPanelTabOpen p
 {
 	font-family: passion-one-n4, sans-serif;
+}
+
+#u521-3
+{
+	font-family: lato-n3, sans-serif;
 }
 
 #u537-4
 {
-	font-family: pt-sans-n7, sans-serif;
+	font-family: lato-n7, sans-serif;
 }
 
 #u543-4
 {
-	font-family: pt-sans-n7, sans-serif;
-}
-
-#u551-4
-{
-	font-family: pt-sans-n7, sans-serif;
+	font-family: lato-n7, sans-serif;
 }
 
 #u558-4
 {
-	font-family: pt-sans-n7, sans-serif;
+	font-family: lato-n7, sans-serif;
 }
 
 #u564-4
 {
-	font-family: pt-sans-n7, sans-serif;
+	font-family: lato-n7, sans-serif;
 }
 
-#u637-4
+#u619-6,#u637-4
 {
-	font-family: passion-one-n4, sans-serif;
+	font-family: lato-n4, sans-serif;
 }
 
-#u619-6,#u452-10
+#u456-2
+{
+	font-family: lato-i4, sans-serif;
+}
+
+#u456-4
+{
+	font-family: lato-i7, sans-serif;
+}
+
+#u452-10
 {
 	font-family: pt-sans-narrow-n7, sans-serif;
 }
@@ -78,8 +88,8 @@
 	font-family: pt-sans-i4, sans-serif;
 }
 
-#u597-45
+#u597-5,#u597-6
 {
-	font-family: pt-sans-n4, sans-serif;
+	font-family: lato-n9, sans-serif;
 }
 
