@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="false" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1466030696793">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="false" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1466031312655">
   <folder name="css">
     <file name="site_global.css" crc="292600660"/>
     <file name="index.css" crc="33944640" ref="index"/>
     <file name="iefonts_index.css" crc="3999919056" ref="index"/>
-    <file name="master_a-master.css" crc="125869457" ref="authors:index:speakers:program:tech:sponsors:team:program-agenda"/>
-    <file name="authors.css" crc="4287435895" ref="authors"/>
-    <file name="iefonts_authors.css" crc="4120113164" ref="authors"/>
+    <file name="master_a-master.css" crc="4154853891" ref="authors:index:speakers:program:tech:sponsors:team:program-agenda"/>
+    <file name="authors.css" crc="3813946600" ref="authors"/>
+    <file name="iefonts_authors.css" crc="52791437" ref="authors"/>
     <file name="speakers.css" crc="4281787046" ref="speakers"/>
     <file name="iefonts_speakers.css" crc="3958871897" ref="speakers"/>
     <file name="program.css" crc="40298788" ref="program"/>
@@ -38,7 +38,7 @@
     <file name="dc_bg.jpg" crc="3909694693" ref="index:speakers:program:authors:team:tech:sponsors:program-agenda"/>
     <file name="aihri_3_500w_darkbg.png" crc="261169876" seo="true" ref="phone>index:phone>invited-speakers:phone>schedule:phone>submissions:phone>organization"/>
     <file name="aihri_3_300w_darkbg.png" crc="69645340" seo="true" ref="index:speakers:program:authors:team:tech:sponsors:program-agenda"/>
-    <file name="u1013-grad.png" crc="3815899420" ref="index"/>
+    <file name="u1013-grad.png" crc="3815899420" ref="index:authors"/>
     <file name="aaai.jpg" crc="506383955" seo="true" ref="sponsors"/>
     <file name="semio-logo_withborder-bw.png" crc="85970976" seo="true" ref="sponsors"/>
     <file name="sphero_logo_blue.png" crc="497807446" seo="true" ref="sponsors"/>
@@ -67,7 +67,7 @@
   <file name="index.html" crc="3946052121" seo="true" mt="1466029598874" redirect="true"/>
   <file name="speakers.html" crc="3932546233" seo="true" mt="1466029598874" redirect="true"/>
   <file name="program.html" crc="330438383" seo="true" mt="1466030175675" redirect="true"/>
-  <file name="authors.html" crc="4083910485" seo="true" mt="1466030673496" redirect="true"/>
+  <file name="authors.html" crc="4079963546" seo="true" mt="1466031029643" redirect="true"/>
   <file name="team.html" crc="4006133831" seo="true" mt="1466030253794" redirect="true"/>
   <file name="tech.html" crc="4157721842" seo="true" mt="1466029598874" redirect="true"/>
   <file name="sponsors.html" crc="3846474857" seo="true" mt="1466030305628" redirect="true"/>
