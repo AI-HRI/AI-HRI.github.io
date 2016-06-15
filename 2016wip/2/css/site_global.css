@@ -117,12 +117,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: normal;
 }
 
-a,.ts-Default-Link-Style--copy a
-{
-	color: inherit;
-	text-decoration: inherit;
-}
-
 .ts-Default-Link-Style--copy a:link
 {
 	color: #262916;
@@ -317,6 +311,15 @@ a,.ts-Default-Link-Style--copy a
 	font-weight: 400;
 	text-indent: 40px;
 	padding: 0px;
+}
+
+.CFP-subtitle
+{
+	font-family: lato, sans-serif;
+	font-size: 20px;
+	font-style: italic;
+	font-weight: 700;
+	padding: 10px 0px 0px;
 }
 
 .list0 li:before

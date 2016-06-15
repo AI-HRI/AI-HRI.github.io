@@ -3,11 +3,6 @@
 	font-family: pt-sans-narrow-n7, sans-serif;
 }
 
-.Schedule-item
-{
-	font-family: lato-i7, sans-serif;
-}
-
 .Centered-title,.Organizers-Authors
 {
 	font-family: lato-n7, sans-serif;
@@ -31,6 +26,11 @@
 .Main-text,.Schedule-time,.mob_OrganizerName,.CFP-text
 {
 	font-family: lato-n4, sans-serif;
+}
+
+.Schedule-item,.CFP-subtitle
+{
+	font-family: lato-i7, sans-serif;
 }
 
 #u521-3.AccordionPanelTabOpen p
@@ -88,7 +88,7 @@
 	font-family: pt-sans-i4, sans-serif;
 }
 
-#u1606-4
+#u1606-5
 {
 	font-family: lato-n9, sans-serif;
 }

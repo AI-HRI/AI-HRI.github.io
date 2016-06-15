@@ -14,9 +14,9 @@
 #u1060-6
 {
 	background-color: transparent;
+	color: #E1F56E;
 	line-height: 31px;
 	text-align: right;
-	color: #E1F56E;
 	text-transform: uppercase;
 	font-size: 29px;
 	font-family: rosario, sans-serif;
@@ -37,10 +37,10 @@
 #u1061-6
 {
 	background-color: transparent;
-	line-height: 19px;
 	color: #E5EBFF;
 	text-align: left;
 	font-size: 18px;
+	line-height: 19px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -85,10 +85,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
 	color: #262916;
 	text-align: center;
 	font-size: 17px;
+	line-height: 20px;
 	font-family: lato, sans-serif;
 	font-weight: 900;
 	position: relative;
@@ -115,78 +115,42 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
 	color: #262916;
 	text-align: center;
 	font-size: 17px;
+	line-height: 20px;
 	font-family: lato, sans-serif;
 	font-weight: 900;
 	position: relative;
 }
 
-#u1435
+#u1890
 {
 	background-color: #E5EBFF;
 	position: relative;
 }
 
-#u1435:hover
+#u1890:hover
 {
 	background-color: #FFE02E;
 }
 
-#u1435:active
+#u1890:active
 {
 	background-color: #8E7D19;
 }
 
-#u1438-4
+#u1892-4
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
 	color: #262916;
 	text-align: center;
 	font-size: 17px;
-	font-family: lato, sans-serif;
-	font-weight: 900;
-	position: relative;
-}
-
-#u1023
-{
-	background-color: #E5EBFF;
-	position: relative;
-}
-
-#u1023:hover
-{
-	background-color: #FFE02E;
-}
-
-#u1023:active
-{
-	background-color: #8E7D19;
-}
-
-#u1025-4
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
 	line-height: 20px;
-	color: #262916;
-	text-align: center;
-	font-size: 17px;
 	font-family: lato, sans-serif;
 	font-weight: 900;
-	position: relative;
-}
-
-#u1029,#u1043,#u1434,#u1022,#u1759
-{
-	background-color: transparent;
 	position: relative;
 }
 
@@ -206,20 +170,86 @@
 	background-color: #8E7D19;
 }
 
-#u1032.MuseMenuActive,#u1046.MuseMenuActive,#u1435.MuseMenuActive,#u1023.MuseMenuActive,#u1760.MuseMenuActive
-{
-	background-color: #E1F56E;
-}
-
 #u1761-4
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
 	color: #262916;
 	text-align: center;
 	font-size: 17px;
+	line-height: 20px;
+	font-family: lato, sans-serif;
+	font-weight: 900;
+	position: relative;
+}
+
+#u1795
+{
+	background-color: #E5EBFF;
+	position: relative;
+}
+
+#u1795:hover
+{
+	background-color: #FFE02E;
+}
+
+#u1795:active
+{
+	background-color: #8E7D19;
+}
+
+#u1796-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #262916;
+	text-align: center;
+	font-size: 17px;
+	line-height: 20px;
+	font-family: lato, sans-serif;
+	font-weight: 900;
+	position: relative;
+}
+
+#u1029,#u1043,#u1889,#u1759,#u1792,#u1807
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1808
+{
+	background-color: #E5EBFF;
+	position: relative;
+}
+
+#u1808:hover
+{
+	background-color: #FFE02E;
+}
+
+#u1808:active
+{
+	background-color: #8E7D19;
+}
+
+#u1032.MuseMenuActive,#u1046.MuseMenuActive,#u1890.MuseMenuActive,#u1760.MuseMenuActive,#u1795.MuseMenuActive,#u1808.MuseMenuActive
+{
+	background-color: #E1F56E;
+}
+
+#u1810-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #262916;
+	text-align: center;
+	font-size: 17px;
+	line-height: 20px;
 	font-family: lato, sans-serif;
 	font-weight: 900;
 	position: relative;
@@ -253,7 +283,7 @@
 	box-shadow: inset 3px 3px 3px rgba(255,255,255,0.07), inset -3px -3px 3px rgba(0,0,0,0.07);
 }
 
-#u1336,#u1012-39
+#u1336,#u1012-40
 {
 	background-color: transparent;
 	position: fixed;
@@ -334,7 +364,7 @@
 	letter-spacing: -1px;
 }
 
-#u1012-33
+#u1012-34
 {
 	font-size: 16px;
 	text-align: center;
@@ -352,7 +382,7 @@
 	line-height: 17px;
 }
 
-#u1012-37
+#u1012-38
 {
 	font-size: 15px;
 	text-align: left;
@@ -362,14 +392,14 @@
 	font-weight: 700;
 }
 
-#u1012-34
+#u1012-35
 {
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	font-style: italic;
 }
 
-#u1012-36
+#u1012-37
 {
 	font-family: lato, sans-serif;
 	font-weight: 900;
@@ -391,10 +421,10 @@
 #u1015-11
 {
 	background-color: transparent;
-	line-height: 22px;
 	color: #DFE6FF;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: fixed;
