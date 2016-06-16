@@ -1,7 +1,7 @@
 .version.invited_speakers /* version checker */
 {
-	color: #0000F8;
-	background-color: #3EF8CF;
+	color: #0000F0;
+	background-color: #CD9ACF;
 }
 
 @-ms-viewport
@@ -39,7 +39,7 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 632.9500000000007px;
+	min-height: 632.9500000000013px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -53,9 +53,19 @@
 	width: 0.01px;
 }
 
-#pu453
+#u618
 {
-	width: 0.01px;
+	z-index: 26;
+	height: 176px;
+}
+
+#u618-bw
+{
+	position: fixed;
+	left: 0px;
+	right: 0px;
+	z-index: 26;
+	top: 0px;
 }
 
 #u454
@@ -77,27 +87,6 @@
 {
 	z-index: 82;
 	min-height: 130px;
-}
-
-#top
-{
-	width: 22px;
-	margin-right: -10000px;
-}
-
-#u618
-{
-	z-index: 26;
-	height: 176px;
-}
-
-#u618-bw
-{
-	position: fixed;
-	left: 0px;
-	right: 0px;
-	z-index: 26;
-	top: 0px;
 }
 
 #accordionu519
@@ -437,15 +426,6 @@
 	z-index: 2;
 	min-height: 214px;
 	margin-top: 126px;
-}
-
-#u2082
-{
-	z-index: 86;
-	width: 50px;
-	height: 50px;
-	top: 470px;
-	left: 310px;
 }
 
 #pu451

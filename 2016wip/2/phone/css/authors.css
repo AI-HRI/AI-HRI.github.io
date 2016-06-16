@@ -1,7 +1,7 @@
 .version.authors /* version checker */
 {
-	color: #0000FD;
-	background-color: #9DA35E;
+	color: #00001B;
+	background-color: #FD89BD;
 }
 
 @-ms-viewport
@@ -39,7 +39,7 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 4875.950000000001px;
+	min-height: 4875.950000000002px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -96,6 +96,7 @@
 
 #top
 {
+	position: relative;
 	width: 22px;
 	margin-right: -10000px;
 }
@@ -448,13 +449,27 @@
 	padding-top: 20px;
 }
 
-#u2082
+#u2124
 {
 	z-index: 234;
 	width: 50px;
 	height: 50px;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	border-radius: 10px;
+	position: fixed;
 	top: 470px;
 	left: 310px;
+	background: #F2F5FF url("../../images/top_arrow-u2108-fr.png") no-repeat center center;
+	background-color: rgba(229,235,255,0.5);
+}
+
+.js #u2124.ose_pre_init
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
 }
 
 #u2047

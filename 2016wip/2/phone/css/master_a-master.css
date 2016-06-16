@@ -10,11 +10,6 @@
 	background-size: 100% auto;
 }
 
-#top
-{
-	position: relative;
-}
-
 #u618
 {
 	background-color: #303321;
@@ -330,24 +325,6 @@
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
-}
-
-#u2082
-{
-	opacity: 0;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-	filter: alpha(opacity=0);
-	border-radius: 10px;
-	position: fixed;
-	background: #F2F5FF url("../../images/top_arrow-u2082-fr.png") no-repeat center center;
-	background-color: rgba(229,235,255,0.5);
-}
-
-.js #u2082.ose_pre_init
-{
-	opacity: 0;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-	filter: alpha(opacity=0);
 }
 
 #u451
