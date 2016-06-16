@@ -1,7 +1,7 @@
 .version.tech /* version checker */
 {
-	color: #0000F0;
-	background-color: #563724;
+	color: #00000D;
+	background-color: #BB8C83;
 }
 
 .html
@@ -14,7 +14,7 @@
 {
 	z-index: 1;
 	width: 1050px;
-	min-height: 569px;
+	min-height: 531px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -27,7 +27,7 @@
 {
 	width: 0.01px;
 	margin: -36px -10000px -20px -100px;
-	padding: 142px 1150px 483px 100px;
+	padding: 142px 1150px 445px 100px;
 }
 
 #u1057
@@ -45,7 +45,7 @@
 #u1014
 {
 	z-index: 43;
-	height: 98px;
+	height: 59px;
 	bottom: 0px;
 }
 
@@ -83,7 +83,7 @@
 	z-index: 44;
 	width: 1050px;
 	min-height: 59px;
-	bottom: 26px;
+	bottom: 0px;
 	left: 50%;
 	margin-left: -525px;
 }

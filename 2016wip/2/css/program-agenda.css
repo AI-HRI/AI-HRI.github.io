@@ -1,7 +1,7 @@
 .version.program_agenda /* version checker */
 {
-	color: #000009;
-	background-color: #A571A0;
+	color: #0000E3;
+	background-color: #E65DC0;
 }
 
 .html
@@ -27,7 +27,7 @@
 #page_position_content
 {
 	margin-top: -36px;
-	padding-bottom: 78px;
+	padding-bottom: 40px;
 	width: 0.01px;
 }
 
@@ -916,7 +916,7 @@
 #pu1014
 {
 	width: 0.01px;
-	padding-bottom: 481px;
+	padding-bottom: 443px;
 	margin-left: -100px;
 	margin-top: -1240px;
 }
@@ -924,7 +924,7 @@
 #u1014
 {
 	z-index: 494;
-	height: 98px;
+	height: 59px;
 	bottom: 0px;
 }
 
@@ -938,7 +938,7 @@
 	z-index: 495;
 	width: 1050px;
 	min-height: 59px;
-	bottom: 26px;
+	bottom: 0px;
 	left: 50%;
 	margin-left: -525px;
 }

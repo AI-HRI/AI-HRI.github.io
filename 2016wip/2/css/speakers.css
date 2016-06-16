@@ -1,7 +1,7 @@
 .version.speakers /* version checker */
 {
-	color: #0000FF;
-	background-color: #36E2A6;
+	color: #0000E3;
+	background-color: #D028A6;
 }
 
 .html
@@ -26,7 +26,7 @@
 #page_position_content
 {
 	margin-top: -36px;
-	padding-bottom: 78px;
+	padding-bottom: 40px;
 	width: 0.01px;
 }
 
@@ -522,15 +522,15 @@
 #pu1014
 {
 	width: 0.01px;
-	padding-bottom: 98px;
+	padding-bottom: 59px;
 	margin-left: -100px;
-	margin-top: -393px;
+	margin-top: -392px;
 }
 
 #u1014
 {
 	z-index: 55;
-	height: 98px;
+	height: 59px;
 	bottom: 0px;
 }
 
@@ -544,7 +544,7 @@
 	z-index: 56;
 	width: 1050px;
 	min-height: 59px;
-	bottom: 26px;
+	bottom: 0px;
 	left: 50%;
 	margin-left: -525px;
 }

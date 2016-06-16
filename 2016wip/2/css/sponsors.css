@@ -1,7 +1,7 @@
 .version.sponsors /* version checker */
 {
-	color: #0000E2;
-	background-color: #9302BF;
+	color: #0000F7;
+	background-color: #AAD505;
 }
 
 .html
@@ -574,7 +574,7 @@
 #u1014
 {
 	z-index: 54;
-	height: 98px;
+	height: 59px;
 	bottom: 0px;
 }
 
@@ -588,7 +588,7 @@
 	z-index: 55;
 	width: 1050px;
 	min-height: 59px;
-	bottom: 26px;
+	bottom: 0px;
 	left: 50%;
 	margin-left: -525px;
 }

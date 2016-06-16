@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000002;
-	background-color: #05F440;
+	color: #000015;
+	background-color: #95817B;
 }
 
 .html
@@ -14,11 +14,12 @@
 {
 	z-index: 1;
 	width: 1050px;
-	min-height: 686px;
+	min-height: 685.9999999999933px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -26,7 +27,7 @@
 #page_position_content
 {
 	margin-top: -36px;
-	padding-bottom: 97px;
+	padding-bottom: 135px;
 	width: 0.01px;
 }
 
@@ -530,15 +531,15 @@
 #pu1014
 {
 	width: 0.01px;
-	padding-bottom: 98px;
+	padding-bottom: 59px;
 	margin-left: -100px;
-	margin-top: -48px;
+	margin-top: -47px;
 }
 
 #u1014
 {
 	z-index: 65;
-	height: 98px;
+	height: 59px;
 	bottom: 0px;
 }
 
@@ -552,7 +553,7 @@
 	z-index: 66;
 	width: 1050px;
 	min-height: 59px;
-	bottom: 26px;
+	bottom: 0px;
 	left: 50%;
 	margin-left: -525px;
 }

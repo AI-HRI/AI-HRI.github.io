@@ -1,7 +1,7 @@
 .version.program /* version checker */
 {
-	color: #00001F;
-	background-color: #4E42EE;
+	color: #000017;
+	background-color: #BF2460;
 }
 
 .html
@@ -599,15 +599,15 @@
 #pu1014
 {
 	width: 0.01px;
-	padding-bottom: 98px;
+	padding-bottom: 59px;
 	margin-left: -100px;
-	margin-top: -138px;
+	margin-top: -137px;
 }
 
 #u1014
 {
 	z-index: 87;
-	height: 98px;
+	height: 59px;
 	bottom: 0px;
 }
 
@@ -621,7 +621,7 @@
 	z-index: 88;
 	width: 1050px;
 	min-height: 59px;
-	bottom: 26px;
+	bottom: 0px;
 	left: 50%;
 	margin-left: -525px;
 }
