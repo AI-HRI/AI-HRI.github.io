@@ -1,3 +1,10 @@
+#u618
+{
+	background-color: #303321;
+	background-color: rgba(38,41,22,0.95);
+	-pie-background: rgba(38,41,22,0.95);
+}
+
 #u453
 {
 	-pie-box-shadow: none;
@@ -8,13 +15,6 @@
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#19F2DCC4, endColorstr=#335D7389, GradientType=1);
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#19F2DCC4', endColorstr='#335D7389', GradientType=1)";
 	background-size: 100% auto;
-}
-
-#u618
-{
-	background-color: #303321;
-	background-color: rgba(38,41,22,0.95);
-	-pie-background: rgba(38,41,22,0.95);
 }
 
 #accordionu519

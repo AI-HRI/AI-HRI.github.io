@@ -1,7 +1,7 @@
 .version.authors /* version checker */
 {
-	color: #000000;
-	background-color: #15D19B;
+	color: #0000EA;
+	background-color: #05FD23;
 }
 
 @-ms-viewport
@@ -461,7 +461,7 @@
 	position: fixed;
 	top: 470px;
 	left: 310px;
-	background: #F2F5FF url("../../images/top_arrow-u2108-fr.png") no-repeat center center;
+	background: #F2F5FF url("../../images/top_arrow-u2124-fr.png") no-repeat center center;
 	background-color: rgba(229,235,255,0.5);
 }
 
