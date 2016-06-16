@@ -310,6 +310,25 @@ a,.ts-Default-Link-Style--copy a
 	padding: 5px 0px 0px;
 }
 
+.CFP-text
+{
+	font-family: lato, sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	text-align: justify;
+	text-indent: 0px;
+	padding: 10px 0px 0px;
+}
+
+.CFP-subtitle
+{
+	font-family: lato, sans-serif;
+	font-size: 20px;
+	font-style: italic;
+	font-weight: 700;
+	padding: 10px 0px 0px;
+}
+
 .list0 li:before
 {
 	position: absolute;

@@ -3,11 +3,6 @@
 	font-family: pt-sans-narrow-n7, sans-serif;
 }
 
-.Schedule-item
-{
-	font-family: lato-i7, sans-serif;
-}
-
 .Centered-title,.Organizers-Authors
 {
 	font-family: lato-n7, sans-serif;
@@ -18,11 +13,6 @@
 	font-family: lato-n3, sans-serif;
 }
 
-.Main-text,.Schedule-time,.mob_OrganizerName
-{
-	font-family: lato-n4, sans-serif;
-}
-
 .Title,.schedule-section,.mob_SectionTitle
 {
 	font-family: lato-n9, sans-serif;
@@ -31,6 +21,16 @@
 .mob_OrganizerAffiliation,.mob_ShortText
 {
 	font-family: lato-i3, sans-serif;
+}
+
+.Main-text,.Schedule-time,.mob_OrganizerName,.CFP-text
+{
+	font-family: lato-n4, sans-serif;
+}
+
+.Schedule-item,.CFP-subtitle
+{
+	font-family: lato-i7, sans-serif;
 }
 
 #u1060-6
@@ -48,22 +48,27 @@
 	font-family: lato-n9, sans-serif;
 }
 
-#u1040-4
+#u1892-4
 {
 	font-family: lato-n9, sans-serif;
 }
 
-#u1438-4
+#u1761-4
 {
 	font-family: lato-n9, sans-serif;
 }
 
-#u1025-4
+#u1796-4
 {
 	font-family: lato-n9, sans-serif;
 }
 
-#u1012-33
+#u1810-4
+{
+	font-family: lato-n9, sans-serif;
+}
+
+#u1012-34
 {
 	font-family: pt-sans-narrow-n7, sans-serif;
 }
@@ -73,17 +78,17 @@
 	font-family: lato-n4, sans-serif;
 }
 
-#u1012-3,#u1012-4,#u1012-7,#u1012-8,#u1012-13,#u1012-14,#u1012-17,#u1012-18,#u1012-21,#u1012-22,#u1012-25,#u1012-26,#u1012-37
+#u1012-3,#u1012-4,#u1012-7,#u1012-8,#u1012-13,#u1012-14,#u1012-17,#u1012-18,#u1012-21,#u1012-22,#u1012-25,#u1012-26,#u1012-38
 {
 	font-family: lato-n7, sans-serif;
 }
 
-#u1012-34
+#u1012-35
 {
 	font-family: lato-i4, sans-serif;
 }
 
-#u1012-2,#u1012-36
+#u1012-2,#u1012-37
 {
 	font-family: lato-n9, sans-serif;
 }
@@ -91,25 +96,5 @@
 #u1015-11
 {
 	font-family: lato-n3, sans-serif;
-}
-
-#u1264.TabbedPanelsTabSelected #u1265-5 p,#u1264.TabbedPanelsTabSelected #u1265-5 span,#u1256.TabbedPanelsTabSelected #u1258-5 p,#u1256.TabbedPanelsTabSelected #u1258-5 span,#u1260.TabbedPanelsTabSelected #u1262-5 p,#u1260.TabbedPanelsTabSelected #u1262-5 span
-{
-	font-family: lato-n9, sans-serif;
-}
-
-#u1265-5
-{
-	font-family: lato-n4, sans-serif;
-}
-
-#u1262-5
-{
-	font-family: lato-n4, sans-serif;
-}
-
-#u1258-5
-{
-	font-family: lato-n4, sans-serif;
 }
 

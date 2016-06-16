@@ -1,7 +1,7 @@
 .version.invited_speakers /* version checker */
 {
-	color: #000009;
-	background-color: #9B1E22;
+	color: #0000F0;
+	background-color: #CD9ACF;
 }
 
 @-ms-viewport
@@ -70,7 +70,7 @@
 
 #u454
 {
-	z-index: 77;
+	z-index: 83;
 	width: 342px;
 	margin-bottom: -11px;
 	margin-right: -10000px;
@@ -85,7 +85,7 @@
 
 #u453,#u453-bw
 {
-	z-index: 76;
+	z-index: 82;
 	min-height: 130px;
 }
 
@@ -154,7 +154,7 @@
 #u536
 {
 	min-height: 24px;
-	padding-bottom: 24px;
+	padding-bottom: 14px;
 }
 
 #u536:active
@@ -166,7 +166,7 @@
 #u537-4
 {
 	min-height: 24px;
-	top: 12px;
+	top: 7px;
 }
 
 #u536:active #u537-4
@@ -180,7 +180,7 @@
 #u541
 {
 	min-height: 24px;
-	padding-bottom: 25px;
+	padding-bottom: 14px;
 }
 
 #u536.MuseMenuActive,#u541:active
@@ -192,7 +192,7 @@
 #u543-4
 {
 	min-height: 24px;
-	top: 12px;
+	top: 7px;
 }
 
 #u536.MuseMenuActive #u537-4,#u541:active #u543-4
@@ -203,13 +203,39 @@
 	margin: 0px;
 }
 
+#u2014
+{
+	min-height: 24px;
+	padding-bottom: 15px;
+}
+
+#u541.MuseMenuActive,#u2014:active
+{
+	min-height: 24px;
+	margin: 0px;
+}
+
+#u2016-4
+{
+	min-height: 24px;
+	top: 7px;
+}
+
+#u541.MuseMenuActive #u543-4,#u2014:active #u2016-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	margin: 0px;
+}
+
 #u557
 {
 	min-height: 24px;
-	padding-bottom: 25px;
+	padding-bottom: 15px;
 }
 
-#u541.MuseMenuActive,#u557:active
+#u2014.MuseMenuActive,#u557:active
 {
 	min-height: 24px;
 	margin: 0px;
@@ -218,10 +244,10 @@
 #u558-4
 {
 	min-height: 24px;
-	top: 12px;
+	top: 7px;
 }
 
-#u541.MuseMenuActive #u543-4,#u557:active #u558-4
+#u2014.MuseMenuActive #u2016-4,#u557:active #u558-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -232,7 +258,7 @@
 #u562
 {
 	min-height: 24px;
-	padding-bottom: 25px;
+	padding-bottom: 15px;
 }
 
 #u557.MuseMenuActive,#u562:active
@@ -250,7 +276,7 @@
 #u564-4
 {
 	min-height: 24px;
-	top: 12px;
+	top: 7px;
 }
 
 #u557.MuseMenuActive #u558-4,#u562:active #u564-4
@@ -269,7 +295,7 @@
 	margin: 0px;
 }
 
-#u540,#u554,#u561
+#u540,#u2011,#u554,#u561
 {
 	margin-top: 2px;
 }
@@ -301,7 +327,7 @@
 
 #u570
 {
-	z-index: 75;
+	z-index: 81;
 	width: 301px;
 	height: 43px;
 	top: 133px;
@@ -346,10 +372,10 @@
 	min-height: 214px;
 	-pie-box-shadow: none;
 	box-shadow: 4px 4px 30px rgba(0,0,0,0.38);
-	background-color: #3E4950;
-	background-color: rgba(52,64,71,0.95);
+	background-color: #E3F475;
+	background-color: rgba(226,244,110,0.95);
 	padding-bottom: 79px;
-	-pie-background: rgba(52,64,71,0.95);
+	-pie-background: rgba(226,244,110,0.95);
 }
 
 #u597-12
@@ -383,11 +409,16 @@
 #u597-2,#u597-8
 {
 	line-height: 26px;
+	color: #4296CE;
 }
 
 #u597-4,#u597-10
 {
 	line-height: 28px;
+	color: #000000;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	font-style: italic;
 }
 
 #u593-bw
