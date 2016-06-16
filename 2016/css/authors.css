@@ -1,7 +1,7 @@
 .version.authors /* version checker */
 {
-	color: #000019;
-	background-color: #599261;
+	color: #0000E7;
+	background-color: #FA0FA6;
 }
 
 .html
@@ -122,9 +122,9 @@
 	z-index: 197;
 	width: 65px;
 	min-height: 227px;
-	margin-right: -10000px;
-	margin-top: 144px;
-	left: 20px;
+	top: 180px;
+	left: 50%;
+	margin-left: -505px;
 }
 
 #u2163-8
@@ -142,9 +142,9 @@
 	z-index: 223;
 	width: 173px;
 	min-height: 240px;
-	margin-right: -10000px;
-	margin-top: 144px;
-	left: 95px;
+	top: 180px;
+	left: 50%;
+	margin-left: -430px;
 }
 
 #u1060-6

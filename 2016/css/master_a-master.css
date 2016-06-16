@@ -306,13 +306,48 @@
 	padding-top: 10px;
 }
 
+#u1014
+{
+	-pie-box-shadow: none;
+	box-shadow: 0px 0px 30px rgba(0,0,0,0.35600000000000004);
+	background: -webkit-gradient(linear, left center, right center, from(rgba(35,30,11,0.8)),color-stop(100%, rgba(12,28,43,0.98)));
+	background: -webkit-linear-gradient(left,rgba(35,30,11,0.8) ,rgba(12,28,43,0.98) 100%);
+	background: linear-gradient(to right,rgba(35,30,11,0.8) ,rgba(12,28,43,0.98) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#CC231E0B, endColorstr=#F90C1C2B, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#CC231E0B', endColorstr='#F90C1C2B', GradientType=1)";
+	position: fixed;
+	background-size: 100% auto;
+}
+
+#u1015-11
+{
+	background-color: transparent;
+	color: #DFE6FF;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: fixed;
+}
+
+#u1015
+{
+	color: #E5EBFF;
+}
+
+#u1015-6
+{
+	color: #E1F56E;
+}
+
 #u2161-26
 {
 	background-color: transparent;
 	line-height: 15px;
 	text-align: right;
 	font-family: lato, sans-serif;
-	position: relative;
+	position: fixed;
 }
 
 #u2161-5
@@ -374,13 +409,59 @@
 	font-weight: 900;
 }
 
+#u2163-8
+{
+	background-color: transparent;
+	font-weight: 700;
+	position: fixed;
+}
+
+#u2163-3
+{
+	font-size: 16px;
+	text-align: center;
+	padding-top: 10px;
+	font-family: pt-sans-narrow, sans-serif;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u2163
+{
+	font-size: 14px;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	line-height: 17px;
+}
+
+#u2163-6
+{
+	font-size: 15px;
+	text-align: left;
+	line-height: 18px;
+	padding-top: 10px;
+	font-family: lato, sans-serif;
+}
+
+#u2163-4
+{
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+}
+
+#u2163-5
+{
+	font-family: lato, sans-serif;
+	font-weight: 900;
+}
+
 #u2162-18
 {
 	background-color: transparent;
 	line-height: 15px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
-	position: relative;
+	position: fixed;
 }
 
 #u2162-2
@@ -429,86 +510,5 @@
 {
 	text-align: left;
 	padding-top: 10px;
-}
-
-#u1014
-{
-	-pie-box-shadow: none;
-	box-shadow: 0px 0px 30px rgba(0,0,0,0.35600000000000004);
-	background: -webkit-gradient(linear, left center, right center, from(rgba(35,30,11,0.8)),color-stop(100%, rgba(12,28,43,0.98)));
-	background: -webkit-linear-gradient(left,rgba(35,30,11,0.8) ,rgba(12,28,43,0.98) 100%);
-	background: linear-gradient(to right,rgba(35,30,11,0.8) ,rgba(12,28,43,0.98) 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#CC231E0B, endColorstr=#F90C1C2B, GradientType=1);
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#CC231E0B', endColorstr='#F90C1C2B', GradientType=1)";
-	position: fixed;
-	background-size: 100% auto;
-}
-
-#u1015-11
-{
-	background-color: transparent;
-	color: #DFE6FF;
-	line-height: 22px;
-	text-align: center;
-	font-size: 18px;
-	font-family: lato, sans-serif;
-	font-weight: 300;
-	position: fixed;
-}
-
-#u1015
-{
-	color: #E5EBFF;
-}
-
-#u1015-6
-{
-	color: #E1F56E;
-}
-
-#u2163-8
-{
-	background-color: transparent;
-	font-weight: 700;
-	position: fixed;
-}
-
-#u2163-3
-{
-	font-size: 16px;
-	text-align: center;
-	padding-top: 10px;
-	font-family: pt-sans-narrow, sans-serif;
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u2163
-{
-	font-size: 14px;
-	font-family: lato, sans-serif;
-	font-weight: 400;
-	line-height: 17px;
-}
-
-#u2163-6
-{
-	font-size: 15px;
-	text-align: left;
-	line-height: 18px;
-	padding-top: 10px;
-	font-family: lato, sans-serif;
-}
-
-#u2163-4
-{
-	font-family: lato, sans-serif;
-	font-weight: 400;
-	font-style: italic;
-}
-
-#u2163-5
-{
-	font-family: lato, sans-serif;
-	font-weight: 900;
 }
 

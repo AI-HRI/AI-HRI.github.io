@@ -1,7 +1,7 @@
 .version.program_agenda /* version checker */
 {
-	color: #000011;
-	background-color: #874E10;
+	color: #0000EF;
+	background-color: #B8BB45;
 }
 
 .html
@@ -913,26 +913,6 @@
 	cursor: pointer;
 }
 
-#u2161-26
-{
-	z-index: 458;
-	width: 65px;
-	min-height: 227px;
-	margin-right: -10000px;
-	margin-top: 38px;
-	left: 120px;
-}
-
-#u2162-18
-{
-	z-index: 484;
-	width: 173px;
-	min-height: 240px;
-	margin-right: -10000px;
-	margin-top: 38px;
-	left: 195px;
-}
-
 #pu1014
 {
 	width: 0.01px;
@@ -973,6 +953,16 @@
 	margin-left: -505px;
 }
 
+#u2161-26
+{
+	z-index: 458;
+	width: 65px;
+	min-height: 227px;
+	top: 180px;
+	left: 50%;
+	margin-left: -505px;
+}
+
 #u2163-8
 {
 	z-index: 502;
@@ -981,6 +971,16 @@
 	top: 384px;
 	left: 50%;
 	margin-left: -505px;
+}
+
+#u2162-18
+{
+	z-index: 484;
+	width: 173px;
+	min-height: 240px;
+	top: 180px;
+	left: 50%;
+	margin-left: -430px;
 }
 
 body

@@ -78,11 +78,6 @@
 	font-family: pt-sans-narrow-n7, sans-serif;
 }
 
-#u1061-6,#u2162-18,#u2163
-{
-	font-family: lato-n4, sans-serif;
-}
-
 #u2161-26,#u2163-6
 {
 	font-family: lato-n7, sans-serif;
@@ -96,6 +91,11 @@
 #u1012-4,#u2163-5
 {
 	font-family: lato-n9, sans-serif;
+}
+
+#u1061-6,#u2163,#u2162-18
+{
+	font-family: lato-n4, sans-serif;
 }
 
 #u1108-2,#u1108-4,#u1108-7,#u1108-9,#u1108-11,#u1108-15
