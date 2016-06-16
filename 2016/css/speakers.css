@@ -1,7 +1,7 @@
 .version.speakers /* version checker */
 {
-	color: #0000E3;
-	background-color: #D028A6;
+	color: #0000E7;
+	background-color: #D911D9;
 }
 
 .html
@@ -39,19 +39,19 @@
 
 #u1057
 {
-	z-index: 67;
+	z-index: 83;
 	height: 111px;
 	top: 0px;
 }
 
 #u1057-bw
 {
-	z-index: 67;
+	z-index: 83;
 }
 
 #u1336
 {
-	z-index: 117;
+	z-index: 133;
 	width: 300px;
 	top: 10px;
 	left: 50%;
@@ -65,7 +65,7 @@
 
 #u1060-6
 {
-	z-index: 105;
+	z-index: 121;
 	width: 459px;
 	min-height: 62px;
 	top: 4px;
@@ -75,7 +75,7 @@
 
 #u1061-6
 {
-	z-index: 111;
+	z-index: 127;
 	width: 294px;
 	min-height: 46px;
 	top: 20px;
@@ -85,7 +85,7 @@
 
 #menuu1021
 {
-	z-index: 68;
+	z-index: 84;
 	width: 764px;
 	top: 70px;
 	left: 50%;
@@ -451,17 +451,17 @@
 {
 	z-index: 14;
 	width: 286px;
-	height: 345px;
+	height: 372px;
 	top: 89px;
 	left: 50%;
 	margin-left: -525px;
 }
 
-#u1012-40
+#u1012-4
 {
 	z-index: 15;
 	width: 243px;
-	min-height: 290px;
+	min-height: 36px;
 	top: 144px;
 	left: 50%;
 	margin-left: -505px;
@@ -519,34 +519,62 @@
 	line-height: 29px;
 }
 
+#u2161-26
+{
+	z-index: 19;
+	width: 65px;
+	min-height: 227px;
+	margin-right: -10000px;
+	left: 120px;
+}
+
+#u2162-18
+{
+	z-index: 45;
+	width: 173px;
+	min-height: 240px;
+	margin-right: -10000px;
+	left: 195px;
+}
+
 #pu1014
 {
 	width: 0.01px;
-	padding-bottom: 59px;
+	padding-bottom: 203px;
 	margin-left: -100px;
-	margin-top: -392px;
+	margin-top: -536px;
 }
 
 #u1014
 {
-	z-index: 55;
+	z-index: 71;
 	height: 59px;
 	bottom: 0px;
 }
 
 #u1014-bw
 {
-	z-index: 55;
+	z-index: 71;
 }
 
 #u1015-11
 {
-	z-index: 56;
+	z-index: 72;
 	width: 1050px;
 	min-height: 59px;
 	bottom: 0px;
 	left: 50%;
 	margin-left: -525px;
+}
+
+#u2163-8
+{
+	z-index: 63;
+	width: 243px;
+	min-height: 62px;
+	top: 384px;
+	left: 50%;
+	margin-left: -505px;
 }
 
 body

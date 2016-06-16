@@ -49,19 +49,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://ai-hri.github.io/phone/invited-speakers.html</loc>
-    <lastmod>2016-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://ai-hri.github.io/phone/schedule.html</loc>
-    <lastmod>2016-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://ai-hri.github.io/phone/organization.html</loc>
     <lastmod>2016-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -85,6 +73,7 @@
     <lastmod>2016-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://ai-hri.github.io/phone/speakers.html"/>
   </url>
   <url>
     <loc>http://ai-hri.github.io/authors.html</loc>
@@ -98,6 +87,7 @@
     <lastmod>2016-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://ai-hri.github.io/phone/team.html"/>
   </url>
   <url>
     <loc>http://ai-hri.github.io/tech.html</loc>

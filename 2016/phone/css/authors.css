@@ -1,7 +1,7 @@
 .version.authors /* version checker */
 {
-	color: #0000E4;
-	background-color: #7D62D7;
+	color: #000000;
+	background-color: #15D19B;
 }
 
 @-ms-viewport
@@ -542,8 +542,8 @@
 	width: 341px;
 	min-height: 48px;
 	background-color: transparent;
-	line-height: 29px;
 	color: #E1F56E;
+	line-height: 29px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 12px;
@@ -578,6 +578,11 @@
 	margin-right: -10000px;
 	margin-top: 21px;
 	left: 19px;
+}
+
+#u1986_img
+{
+	padding-right: 1px;
 }
 
 #u2051-bw

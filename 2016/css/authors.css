@@ -1,7 +1,7 @@
 .version.authors /* version checker */
 {
-	color: #0000E6;
-	background-color: #E3A74C;
+	color: #000019;
+	background-color: #599261;
 }
 
 .html
@@ -35,14 +35,14 @@
 
 #u1057
 {
-	z-index: 245;
+	z-index: 261;
 	height: 111px;
 	top: 0px;
 }
 
 #u1057-bw
 {
-	z-index: 245;
+	z-index: 261;
 }
 
 #u1734
@@ -63,19 +63,19 @@
 
 #u1014
 {
-	z-index: 233;
+	z-index: 249;
 	height: 59px;
 	bottom: 0px;
 }
 
 #u1014-bw
 {
-	z-index: 233;
+	z-index: 249;
 }
 
 #u1336
 {
-	z-index: 295;
+	z-index: 311;
 	width: 300px;
 	top: 10px;
 	left: 50%;
@@ -91,7 +91,7 @@
 {
 	z-index: 192;
 	width: 286px;
-	height: 345px;
+	height: 372px;
 	top: 89px;
 	left: 50%;
 	margin-left: -525px;
@@ -99,7 +99,7 @@
 
 #u1015-11
 {
-	z-index: 234;
+	z-index: 250;
 	width: 1050px;
 	min-height: 59px;
 	bottom: 0px;
@@ -107,19 +107,49 @@
 	margin-left: -525px;
 }
 
-#u1012-40
+#u1012-4
 {
 	z-index: 193;
 	width: 243px;
-	min-height: 290px;
+	min-height: 36px;
 	top: 144px;
 	left: 50%;
 	margin-left: -505px;
 }
 
+#u2161-26
+{
+	z-index: 197;
+	width: 65px;
+	min-height: 227px;
+	margin-right: -10000px;
+	margin-top: 144px;
+	left: 20px;
+}
+
+#u2163-8
+{
+	z-index: 241;
+	width: 243px;
+	min-height: 62px;
+	top: 384px;
+	left: 50%;
+	margin-left: -505px;
+}
+
+#u2162-18
+{
+	z-index: 223;
+	width: 173px;
+	min-height: 240px;
+	margin-right: -10000px;
+	margin-top: 144px;
+	left: 95px;
+}
+
 #u1060-6
 {
-	z-index: 283;
+	z-index: 299;
 	width: 459px;
 	min-height: 62px;
 	top: 4px;
@@ -129,7 +159,7 @@
 
 #menuu1021
 {
-	z-index: 246;
+	z-index: 262;
 	width: 764px;
 	top: 70px;
 	left: 50%;
@@ -583,17 +613,10 @@
 	position: relative;
 }
 
-#u1956_clip
-{
-	overflow: hidden;
-	width: 500px;
-	height: 264px;
-}
-
 #u1956_img
 {
-	margin-right: -1px;
-	margin-bottom: -1px;
+	padding-right: 1px;
+	padding-bottom: 1px;
 }
 
 #u1735-66
@@ -769,9 +792,9 @@
 	min-height: 35px;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 17px;
 	text-align: center;
 	letter-spacing: 1px;
-	line-height: 17px;
 	font-size: 17px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -850,9 +873,9 @@
 	min-height: 35px;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 17px;
 	text-align: center;
 	letter-spacing: 1px;
-	line-height: 17px;
 	font-size: 17px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -929,9 +952,9 @@
 	min-height: 38px;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 17px;
 	text-align: center;
 	letter-spacing: 1px;
-	line-height: 17px;
 	font-size: 17px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -1009,9 +1032,9 @@
 	min-height: 35px;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 17px;
 	text-align: center;
 	letter-spacing: 1px;
-	line-height: 17px;
 	font-size: 17px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -1090,9 +1113,9 @@
 	min-height: 35px;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 17px;
 	text-align: center;
 	letter-spacing: 1px;
-	line-height: 17px;
 	font-size: 17px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -1171,9 +1194,9 @@
 	min-height: 35px;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 17px;
 	text-align: center;
 	letter-spacing: 1px;
-	line-height: 17px;
 	font-size: 17px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -1257,9 +1280,9 @@
 	min-height: 35px;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 17px;
 	text-align: center;
 	letter-spacing: 1px;
-	line-height: 17px;
 	font-size: 17px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -1307,7 +1330,7 @@
 
 #u1061-6
 {
-	z-index: 289;
+	z-index: 305;
 	width: 294px;
 	min-height: 46px;
 	top: 20px;

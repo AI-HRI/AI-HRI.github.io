@@ -1,7 +1,7 @@
 .version.program_agenda /* version checker */
 {
-	color: #000012;
-	background-color: #38F12A;
+	color: #000011;
+	background-color: #874E10;
 }
 
 .html
@@ -40,19 +40,19 @@
 
 #u1057
 {
-	z-index: 506;
+	z-index: 522;
 	height: 111px;
 	top: 0px;
 }
 
 #u1057-bw
 {
-	z-index: 506;
+	z-index: 522;
 }
 
 #u1336
 {
-	z-index: 556;
+	z-index: 572;
 	width: 300px;
 	top: 10px;
 	left: 50%;
@@ -66,7 +66,7 @@
 
 #u1060-6
 {
-	z-index: 544;
+	z-index: 560;
 	width: 459px;
 	min-height: 62px;
 	top: 4px;
@@ -76,7 +76,7 @@
 
 #u1061-6
 {
-	z-index: 550;
+	z-index: 566;
 	width: 294px;
 	min-height: 46px;
 	top: 20px;
@@ -86,7 +86,7 @@
 
 #menuu1021
 {
-	z-index: 507;
+	z-index: 523;
 	width: 764px;
 	top: 70px;
 	left: 50%;
@@ -452,7 +452,7 @@
 {
 	z-index: 453;
 	width: 286px;
-	height: 345px;
+	height: 372px;
 	top: 89px;
 	left: 50%;
 	margin-left: -525px;
@@ -547,8 +547,8 @@
 	min-height: 24px;
 	border-color: #999999;
 	background-color: transparent;
-	line-height: 24px;
 	color: #000000;
+	line-height: 24px;
 	text-align: center;
 	font-size: 17px;
 	font-family: lato, sans-serif;
@@ -626,8 +626,8 @@
 	min-height: 24px;
 	border-color: #999999;
 	background-color: transparent;
-	line-height: 24px;
 	color: #000000;
+	line-height: 24px;
 	text-align: center;
 	font-size: 17px;
 	font-family: lato, sans-serif;
@@ -710,8 +710,8 @@
 	min-height: 24px;
 	border-color: #999999;
 	background-color: transparent;
-	line-height: 24px;
 	color: #000000;
+	line-height: 24px;
 	text-align: center;
 	font-size: 17px;
 	font-family: lato, sans-serif;
@@ -913,6 +913,26 @@
 	cursor: pointer;
 }
 
+#u2161-26
+{
+	z-index: 458;
+	width: 65px;
+	min-height: 227px;
+	margin-right: -10000px;
+	margin-top: 38px;
+	left: 120px;
+}
+
+#u2162-18
+{
+	z-index: 484;
+	width: 173px;
+	min-height: 240px;
+	margin-right: -10000px;
+	margin-top: 38px;
+	left: 195px;
+}
+
 #pu1014
 {
 	width: 0.01px;
@@ -923,19 +943,19 @@
 
 #u1014
 {
-	z-index: 494;
+	z-index: 510;
 	height: 59px;
 	bottom: 0px;
 }
 
 #u1014-bw
 {
-	z-index: 494;
+	z-index: 510;
 }
 
 #u1015-11
 {
-	z-index: 495;
+	z-index: 511;
 	width: 1050px;
 	min-height: 59px;
 	bottom: 0px;
@@ -943,12 +963,22 @@
 	margin-left: -525px;
 }
 
-#u1012-40
+#u1012-4
 {
 	z-index: 454;
 	width: 243px;
-	min-height: 290px;
+	min-height: 36px;
 	top: 144px;
+	left: 50%;
+	margin-left: -505px;
+}
+
+#u2163-8
+{
+	z-index: 502;
+	width: 243px;
+	min-height: 62px;
+	top: 384px;
 	left: 50%;
 	margin-left: -505px;
 }
