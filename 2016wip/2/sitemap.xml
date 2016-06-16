@@ -43,26 +43,26 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://ai-hri.github.io/images/calendar_authors_mobile.png</loc>
+    <lastmod>2016-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://ai-hri.github.io/phone/invited-speakers.html</loc>
-    <lastmod>2016-06-11</lastmod>
+    <lastmod>2016-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://ai-hri.github.io/phone/schedule.html</loc>
-    <lastmod>2016-06-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://ai-hri.github.io/phone/submissions.html</loc>
-    <lastmod>2016-06-11</lastmod>
+    <lastmod>2016-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://ai-hri.github.io/phone/organization.html</loc>
-    <lastmod>2016-06-11</lastmod>
+    <lastmod>2016-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -84,12 +84,14 @@
     <lastmod>2016-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://ai-hri.github.io/phone/program.html"/>
   </url>
   <url>
     <loc>http://ai-hri.github.io/authors.html</loc>
     <lastmod>2016-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://ai-hri.github.io/phone/authors.html"/>
   </url>
   <url>
     <loc>http://ai-hri.github.io/team.html</loc>

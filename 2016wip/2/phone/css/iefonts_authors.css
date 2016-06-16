@@ -3,11 +3,6 @@
 	font-family: pt-sans-narrow-n7, sans-serif;
 }
 
-.Schedule-item
-{
-	font-family: lato-i7, sans-serif;
-}
-
 .Centered-title,.Organizers-Authors
 {
 	font-family: lato-n7, sans-serif;
@@ -33,6 +28,11 @@
 	font-family: lato-n4, sans-serif;
 }
 
+.Schedule-item,.CFP-subtitle
+{
+	font-family: lato-i7, sans-serif;
+}
+
 #u521-3.AccordionPanelTabOpen p
 {
 	font-family: passion-one-n4, sans-serif;
@@ -49,6 +49,11 @@
 }
 
 #u543-4
+{
+	font-family: lato-n7, sans-serif;
+}
+
+#u2016-4
 {
 	font-family: lato-n7, sans-serif;
 }
@@ -86,5 +91,20 @@
 #u452-3,#u452-5,#u452-6
 {
 	font-family: pt-sans-i4, sans-serif;
+}
+
+#u1681-13
+{
+	font-family: lato-n4, sans-serif;
+}
+
+#u2060-6,#u2060-12
+{
+	font-family: lato-i7, sans-serif;
+}
+
+#u1681-5,#u1681-7,#u1681-9,#u1681-11,#u1681-16,#u1681-21,#u1681-26,#u1681-31,#u1681-45,#u1681-48,#u1681-51,#u2045-7,#u2045-10,#u2060-10,#u2060-11,#u2060-16,#u2060-19
+{
+	font-family: lato-n7, sans-serif;
 }
 
