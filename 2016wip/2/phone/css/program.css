@@ -1,7 +1,7 @@
 .version.program /* version checker */
 {
-	color: #00001B;
-	background-color: #08B473;
+	color: #000016;
+	background-color: #5BC1DE;
 }
 
 @-ms-viewport
@@ -453,7 +453,7 @@
 	position: fixed;
 	top: 470px;
 	left: 310px;
-	background: #F2F5FF url("../../images/top_arrow-u2108-fr.png") no-repeat center center;
+	background: #F2F5FF url("../../images/top_arrow-u2124-fr.png") no-repeat center center;
 	background-color: rgba(229,235,255,0.5);
 }
 
