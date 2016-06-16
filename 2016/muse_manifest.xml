@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="false" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1466043255100">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="false" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1466043689623">
   <folder name="css">
     <file name="site_global.css" crc="4115205853"/>
     <file name="master_a-master.css" crc="76100552" ref="index:program:tech:speakers:team:sponsors:authors:program-agenda"/>
@@ -14,7 +14,7 @@
     <file name="iefonts_team.css" crc="3958871897" ref="team"/>
     <file name="sponsors.css" crc="4155168005" ref="sponsors"/>
     <file name="iefonts_sponsors.css" crc="3958871897" ref="sponsors"/>
-    <file name="authors.css" crc="3845190137" ref="authors"/>
+    <file name="authors.css" crc="3814289171" ref="authors"/>
     <file name="iefonts_authors.css" crc="3801594158" ref="authors"/>
     <file name="program-agenda.css" crc="305721642" ref="program-agenda"/>
     <file name="iefonts_program-agenda.css" crc="4090769027" ref="program-agenda"/>
@@ -73,7 +73,7 @@
   <file name="index.html" crc="4208075337" seo="true" mt="1466035552807" redirect="true"/>
   <file name="program.html" crc="324411880" seo="true" mt="1466036828577" redirect="true"/>
   <file name="speakers.html" crc="3872090616" seo="true" mt="1466035552807" redirect="true"/>
-  <file name="authors.html" crc="72720182" seo="true" mt="1466043247134" redirect="true"/>
+  <file name="authors.html" crc="80925067" seo="true" mt="1466043544841" redirect="true"/>
   <file name="team.html" crc="266756289" seo="true" mt="1466035552807" redirect="true"/>
   <file name="tech.html" crc="320443723" seo="true" mt="1466035552807" redirect="true"/>
   <file name="sponsors.html" crc="4079888616" seo="true" mt="1466035552807" redirect="true"/>

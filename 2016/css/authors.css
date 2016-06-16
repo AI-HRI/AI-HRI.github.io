@@ -1,7 +1,7 @@
 .version.authors /* version checker */
 {
-	color: #0000E5;
-	background-color: #30F1F9;
+	color: #0000E3;
+	background-color: #596F13;
 }
 
 .html
@@ -14,12 +14,12 @@
 {
 	z-index: 1;
 	width: 1050px;
-	min-height: 2758px;
+	min-height: 2872px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 142px;
+	padding-bottom: 65px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -48,7 +48,7 @@
 #u1734
 {
 	z-index: 138;
-	height: 76px;
+	height: 82px;
 	background-color: #252816;
 }
 
@@ -526,20 +526,15 @@
 #u1139
 {
 	z-index: 2;
-	width: 763px;
+	width: 724px;
 	-pie-box-shadow: none;
 	box-shadow: 0px 0px 30px rgba(0,0,0,0.19);
 	background-color: #E6EBFF;
 	background-color: rgba(229,234,255,0.95);
 	position: relative;
 	margin-right: -10000px;
+	padding: 125px 20px 36px 19px;
 	-pie-background: rgba(229,234,255,0.95);
-}
-
-#u1139_position_content
-{
-	margin-bottom: -78px;
-	padding-top: 125px;
 }
 
 #u1965-67
@@ -548,7 +543,6 @@
 	width: 724px;
 	min-height: 1259px;
 	background-color: transparent;
-	margin-left: 19px;
 	position: relative;
 }
 
@@ -585,7 +579,6 @@
 	width: 724px;
 	min-height: 992px;
 	background-color: transparent;
-	margin-left: 19px;
 	margin-top: 203px;
 	position: relative;
 }
