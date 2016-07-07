@@ -73,12 +73,17 @@
 	font-family: lato-n3, sans-serif;
 }
 
+#u2161-8
+{
+	font-family: lato-i1, sans-serif;
+}
+
 #u2163-3
 {
 	font-family: pt-sans-narrow-n7, sans-serif;
 }
 
-#u2161-26,#u2163-6
+#u2161-5,#u2161-14,#u2161-17,#u2161-20,#u2161-23,#u2161-26,#u2163-6
 {
 	font-family: lato-n7, sans-serif;
 }
@@ -88,14 +93,14 @@
 	font-family: lato-i4, sans-serif;
 }
 
-#u1012-4,#u2163-5
-{
-	font-family: lato-n9, sans-serif;
-}
-
-#u1061-6,#u2163,#u2162-18
+#u1061-6,#u2163,#u2162-19
 {
 	font-family: lato-n4, sans-serif;
+}
+
+#u1012-4,#u2161-11,#u2163-5,#u2162-5
+{
+	font-family: lato-n9, sans-serif;
 }
 
 #u1874.TabbedPanelsTabSelected #u1875-5 p,#u1874.TabbedPanelsTabSelected #u1875-5 span,#u1870.TabbedPanelsTabSelected #u1873-5 p,#u1870.TabbedPanelsTabSelected #u1873-5 span,#u1878.TabbedPanelsTabSelected #u1881-5 p,#u1878.TabbedPanelsTabSelected #u1881-5 span

@@ -1,7 +1,7 @@
 .version.authors /* version checker */
 {
-	color: #0000E7;
-	background-color: #FA0FA6;
+	color: #000002;
+	background-color: #51AE31;
 }
 
 .html
@@ -35,14 +35,14 @@
 
 #u1057
 {
-	z-index: 261;
+	z-index: 264;
 	height: 111px;
 	top: 0px;
 }
 
 #u1057-bw
 {
-	z-index: 261;
+	z-index: 264;
 }
 
 #u1734
@@ -63,19 +63,19 @@
 
 #u1014
 {
-	z-index: 249;
+	z-index: 252;
 	height: 59px;
 	bottom: 0px;
 }
 
 #u1014-bw
 {
-	z-index: 249;
+	z-index: 252;
 }
 
 #u1336
 {
-	z-index: 311;
+	z-index: 314;
 	width: 300px;
 	top: 10px;
 	left: 50%;
@@ -99,7 +99,7 @@
 
 #u1015-11
 {
-	z-index: 250;
+	z-index: 253;
 	width: 1050px;
 	min-height: 59px;
 	bottom: 0px;
@@ -117,11 +117,11 @@
 	margin-left: -505px;
 }
 
-#u2161-26
+#u2161-28
 {
 	z-index: 197;
 	width: 65px;
-	min-height: 227px;
+	min-height: 204px;
 	top: 180px;
 	left: 50%;
 	margin-left: -505px;
@@ -129,7 +129,7 @@
 
 #u2163-8
 {
-	z-index: 241;
+	z-index: 244;
 	width: 243px;
 	min-height: 62px;
 	top: 384px;
@@ -137,9 +137,9 @@
 	margin-left: -505px;
 }
 
-#u2162-18
+#u2162-19
 {
-	z-index: 223;
+	z-index: 225;
 	width: 173px;
 	min-height: 240px;
 	top: 180px;
@@ -149,7 +149,7 @@
 
 #u1060-6
 {
-	z-index: 299;
+	z-index: 302;
 	width: 459px;
 	min-height: 62px;
 	top: 4px;
@@ -159,7 +159,7 @@
 
 #menuu1021
 {
-	z-index: 262;
+	z-index: 265;
 	width: 764px;
 	top: 70px;
 	left: 50%;
@@ -1330,7 +1330,7 @@
 
 #u1061-6
 {
-	z-index: 305;
+	z-index: 308;
 	width: 294px;
 	min-height: 46px;
 	top: 20px;

@@ -1,7 +1,7 @@
 .version.program_agenda /* version checker */
 {
-	color: #0000EF;
-	background-color: #B8BB45;
+	color: #0000E9;
+	background-color: #8D4E2E;
 }
 
 .html
@@ -40,19 +40,19 @@
 
 #u1057
 {
-	z-index: 522;
+	z-index: 525;
 	height: 111px;
 	top: 0px;
 }
 
 #u1057-bw
 {
-	z-index: 522;
+	z-index: 525;
 }
 
 #u1336
 {
-	z-index: 572;
+	z-index: 575;
 	width: 300px;
 	top: 10px;
 	left: 50%;
@@ -66,7 +66,7 @@
 
 #u1060-6
 {
-	z-index: 560;
+	z-index: 563;
 	width: 459px;
 	min-height: 62px;
 	top: 4px;
@@ -76,7 +76,7 @@
 
 #u1061-6
 {
-	z-index: 566;
+	z-index: 569;
 	width: 294px;
 	min-height: 46px;
 	top: 20px;
@@ -86,7 +86,7 @@
 
 #menuu1021
 {
-	z-index: 523;
+	z-index: 526;
 	width: 764px;
 	top: 70px;
 	left: 50%;
@@ -548,9 +548,9 @@
 	border-color: #999999;
 	background-color: transparent;
 	color: #000000;
-	line-height: 24px;
 	text-align: center;
 	font-size: 17px;
+	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -627,9 +627,9 @@
 	border-color: #999999;
 	background-color: transparent;
 	color: #000000;
-	line-height: 24px;
 	text-align: center;
 	font-size: 17px;
+	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -711,9 +711,9 @@
 	border-color: #999999;
 	background-color: transparent;
 	color: #000000;
-	line-height: 24px;
 	text-align: center;
 	font-size: 17px;
+	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -923,19 +923,19 @@
 
 #u1014
 {
-	z-index: 510;
+	z-index: 513;
 	height: 59px;
 	bottom: 0px;
 }
 
 #u1014-bw
 {
-	z-index: 510;
+	z-index: 513;
 }
 
 #u1015-11
 {
-	z-index: 511;
+	z-index: 514;
 	width: 1050px;
 	min-height: 59px;
 	bottom: 0px;
@@ -953,11 +953,11 @@
 	margin-left: -505px;
 }
 
-#u2161-26
+#u2161-28
 {
 	z-index: 458;
 	width: 65px;
-	min-height: 227px;
+	min-height: 204px;
 	top: 180px;
 	left: 50%;
 	margin-left: -505px;
@@ -965,7 +965,7 @@
 
 #u2163-8
 {
-	z-index: 502;
+	z-index: 505;
 	width: 243px;
 	min-height: 62px;
 	top: 384px;
@@ -973,9 +973,9 @@
 	margin-left: -505px;
 }
 
-#u2162-18
+#u2162-19
 {
-	z-index: 484;
+	z-index: 486;
 	width: 173px;
 	min-height: 240px;
 	top: 180px;
