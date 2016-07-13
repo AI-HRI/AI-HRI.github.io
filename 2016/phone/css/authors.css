@@ -1,7 +1,7 @@
 .version.authors /* version checker */
 {
-	color: #0000EA;
-	background-color: #05FD23;
+	color: #0000EE;
+	background-color: #094FC8;
 }
 
 @-ms-viewport
@@ -461,7 +461,7 @@
 	position: fixed;
 	top: 470px;
 	left: 310px;
-	background: #F2F5FF url("../../images/top_arrow-u2124-fr.png") no-repeat center center;
+	background: #F2F5FF url("../../images/top_arrow-u2108-fr.png") no-repeat center center;
 	background-color: rgba(229,235,255,0.5);
 }
 
@@ -542,8 +542,8 @@
 	width: 341px;
 	min-height: 48px;
 	background-color: transparent;
-	color: #E1F56E;
 	line-height: 29px;
+	color: #E1F56E;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 12px;
