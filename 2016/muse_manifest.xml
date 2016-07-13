@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="false" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1468376902627">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="false" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1468377261304">
   <folder name="css">
     <file name="site_global.css" crc="4115205853"/>
-    <file name="master_a-master.css" crc="447092153" ref="index:program:tech:speakers:team:sponsors:authors:program-agenda"/>
+    <file name="master_a-master.css" crc="4033559325" ref="index:program:tech:speakers:team:sponsors:authors:program-agenda"/>
     <file name="index.css" crc="4180702386" ref="index"/>
     <file name="iefonts_index.css" crc="3780704486" ref="index"/>
     <file name="program.css" crc="10029587" ref="program"/>
@@ -14,8 +14,8 @@
     <file name="iefonts_team.css" crc="4074919945" ref="team"/>
     <file name="sponsors.css" crc="390382538" ref="sponsors"/>
     <file name="iefonts_sponsors.css" crc="4074919945" ref="sponsors"/>
-    <file name="authors.css" crc="4165882048" ref="authors"/>
-    <file name="iefonts_authors.css" crc="42939235" ref="authors"/>
+    <file name="authors.css" crc="4097403906" ref="authors"/>
+    <file name="iefonts_authors.css" crc="272491307" ref="authors"/>
     <file name="program-agenda.css" crc="521109306" ref="program-agenda"/>
     <file name="iefonts_program-agenda.css" crc="267186448" ref="program-agenda"/>
   </folder>
@@ -36,7 +36,7 @@
     <file name="dc_bg_mobilemedium.jpg" crc="3852904231" ref="phone>index:phone>schedule:phone>authors:phone>program:phone>speakers:phone>team"/>
     <file name="u594-grad.png" crc="3993188950" ref="phone>schedule"/>
     <file name="dc_bg.jpg" crc="3909694693" ref="index:program:speakers:authors:team:tech:sponsors:program-agenda"/>
-    <file name="u1013-grad.png" crc="295898509" ref="index"/>
+    <file name="u1013-grad.png" crc="295898509" ref="index:authors"/>
     <file name="aaai.jpg" crc="506383955" seo="true" ref="sponsors:phone>index"/>
     <file name="sphero_logo_blue.png" crc="497807446" seo="true" ref="sponsors:phone>index"/>
     <file name="aihri_3_300w_darkbg.png" crc="69645340" seo="true" ref="index:speakers:program:authors:team:tech:sponsors:program-agenda"/>
@@ -73,7 +73,7 @@
   <file name="index.html" crc="4109661081" seo="true" mt="1468376652320" redirect="true"/>
   <file name="program.html" crc="103744741" seo="true" mt="1468376652320" redirect="true"/>
   <file name="speakers.html" crc="486395615" seo="true" mt="1468376652320" redirect="true"/>
-  <file name="authors.html" crc="3980772651" seo="true" mt="1468376883475" redirect="true"/>
+  <file name="authors.html" crc="4195095129" seo="true" mt="1468377256374" redirect="true"/>
   <file name="team.html" crc="74856890" seo="true" mt="1468376652320" redirect="true"/>
   <file name="tech.html" crc="151055922" seo="true" mt="1468376652320" redirect="true"/>
   <file name="sponsors.html" crc="3975324034" seo="true" mt="1468376652320" redirect="true"/>
