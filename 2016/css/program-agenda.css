@@ -1,7 +1,7 @@
 .version.program_agenda /* version checker */
 {
-	color: #00001F;
-	background-color: #0F7F3A;
+	color: #0000E0;
+	background-color: #26F7E4;
 }
 
 .html
@@ -547,10 +547,10 @@
 	min-height: 24px;
 	border-color: #999999;
 	background-color: transparent;
-	line-height: 24px;
 	color: #000000;
 	text-align: center;
 	font-size: 17px;
+	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -626,10 +626,10 @@
 	min-height: 24px;
 	border-color: #999999;
 	background-color: transparent;
-	line-height: 24px;
 	color: #000000;
 	text-align: center;
 	font-size: 17px;
+	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -710,10 +710,10 @@
 	min-height: 24px;
 	border-color: #999999;
 	background-color: transparent;
-	line-height: 24px;
 	color: #000000;
 	text-align: center;
 	font-size: 17px;
+	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -976,7 +976,7 @@
 #u2162-19
 {
 	z-index: 486;
-	width: 173px;
+	width: 182px;
 	min-height: 240px;
 	top: 180px;
 	left: 50%;

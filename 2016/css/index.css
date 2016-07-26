@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F9;
-	background-color: #3074B2;
+	color: #00000E;
+	background-color: #09DF19;
 }
 
 .html
@@ -495,9 +495,9 @@
 	width: 724px;
 	min-height: 341px;
 	background-color: transparent;
-	line-height: 22px;
 	text-indent: 42px;
 	color: #000000;
+	line-height: 22px;
 	text-align: justify;
 	position: relative;
 	margin-right: -10000px;
@@ -574,7 +574,7 @@
 #u2162-19
 {
 	z-index: 59;
-	width: 173px;
+	width: 182px;
 	min-height: 240px;
 	top: 180px;
 	left: 50%;

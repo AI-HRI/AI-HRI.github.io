@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E4;
-	background-color: #3F3CE9;
+	color: #0000FA;
+	background-color: #69C50F;
 }
 
 @-ms-viewport
@@ -418,8 +418,8 @@
 	background-color: transparent;
 	color: #000000;
 	text-align: center;
-	line-height: 25px;
 	font-size: 21px;
+	line-height: 25px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -431,14 +431,14 @@
 #u458
 {
 	z-index: 70;
-	width: 341px;
+	width: 349px;
 	-pie-box-shadow: none;
 	box-shadow: 4px 4px 30px rgba(0,0,0,0.38);
 	background-color: #FFFFFF;
 	background-color: rgba(255,255,255,0.95);
 	position: relative;
 	margin-right: -10000px;
-	padding: 13px 21px 20.049999999999955px 19px;
+	padding: 13px 13px 20.049999999999955px 19px;
 	-pie-background: rgba(255,255,255,0.95);
 }
 
@@ -465,9 +465,9 @@
 	width: 91px;
 	min-height: 227px;
 	background-color: transparent;
-	line-height: 21px;
 	text-align: right;
 	font-size: 19px;
+	line-height: 21px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -520,11 +520,11 @@
 #u1604-20
 {
 	z-index: 104;
-	width: 246px;
+	width: 254px;
 	min-height: 240px;
 	background-color: transparent;
-	line-height: 21px;
 	font-size: 19px;
+	line-height: 21px;
 	position: relative;
 	margin-right: -10000px;
 	left: 95px;
@@ -558,12 +558,12 @@
 	width: 341px;
 	min-height: 15px;
 	background-color: transparent;
-	line-height: 26px;
 	text-align: center;
 	font-size: 22px;
+	line-height: 26px;
 	font-family: lato, sans-serif;
 	font-weight: 900;
-	margin-top: 29px;
+	margin-top: 50px;
 	position: relative;
 }
 

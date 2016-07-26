@@ -64,8 +64,8 @@
 {
 	color: #E5EBFF;
 	visibility: inherit;
-	font-size: 16px;
 	padding-top: 2px;
+	font-size: 16px;
 	font-family: passion-one, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -115,9 +115,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #262916;
+	line-height: 24px;
 	text-align: center;
 	letter-spacing: 1px;
-	line-height: 24px;
 	font-size: 20px;
 	font-family: lato, sans-serif;
 	font-weight: 700;
@@ -143,9 +143,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #262916;
+	line-height: 24px;
 	text-align: center;
 	letter-spacing: 1px;
-	line-height: 24px;
 	font-size: 20px;
 	font-family: lato, sans-serif;
 	font-weight: 700;
@@ -171,9 +171,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #262916;
+	line-height: 24px;
 	text-align: center;
 	letter-spacing: 1px;
-	line-height: 24px;
 	font-size: 20px;
 	font-family: lato, sans-serif;
 	font-weight: 700;
@@ -199,9 +199,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #262916;
+	line-height: 24px;
 	text-align: center;
 	letter-spacing: 1px;
-	line-height: 24px;
 	font-size: 20px;
 	font-family: lato, sans-serif;
 	font-weight: 700;
@@ -239,9 +239,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #262916;
+	line-height: 24px;
 	text-align: center;
 	letter-spacing: 1px;
-	line-height: 24px;
 	font-size: 20px;
 	font-family: lato, sans-serif;
 	font-weight: 700;
@@ -263,9 +263,9 @@
 {
 	background-color: transparent;
 	color: #E1F56E;
+	line-height: 15px;
 	text-align: right;
 	text-transform: uppercase;
-	line-height: 15px;
 	font-size: 17px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -299,8 +299,8 @@
 	background-color: #E7EDFF;
 	background-color: rgba(229,235,255,0.9);
 	color: #000000;
-	text-align: center;
 	line-height: 18px;
+	text-align: center;
 	font-size: 18px;
 	font-style: italic;
 	-pie-background: rgba(229,235,255,0.9);
@@ -342,10 +342,10 @@
 #u452-10
 {
 	background-color: transparent;
-	line-height: 22px;
 	color: #DFE6FF;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: pt-sans-narrow, sans-serif;
 	font-weight: 700;
 }
