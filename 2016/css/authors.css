@@ -1,7 +1,7 @@
 .version.authors /* version checker */
 {
-	color: #0000FD;
-	background-color: #CC0A25;
+	color: #0000F3;
+	background-color: #303F1A;
 }
 
 .html
@@ -35,14 +35,14 @@
 
 #u1057
 {
-	z-index: 266;
+	z-index: 273;
 	height: 111px;
 	top: 0px;
 }
 
 #u1057-bw
 {
-	z-index: 266;
+	z-index: 273;
 }
 
 #u1734
@@ -63,19 +63,19 @@
 
 #u1014
 {
-	z-index: 254;
+	z-index: 261;
 	height: 59px;
 	bottom: 0px;
 }
 
 #u1014-bw
 {
-	z-index: 254;
+	z-index: 261;
 }
 
 #u1336
 {
-	z-index: 316;
+	z-index: 323;
 	width: 300px;
 	top: 10px;
 	left: 50%;
@@ -91,7 +91,7 @@
 {
 	z-index: 194;
 	width: 286px;
-	height: 372px;
+	height: 378px;
 	top: 89px;
 	left: 50%;
 	margin-left: -525px;
@@ -99,7 +99,7 @@
 
 #u1015-11
 {
-	z-index: 255;
+	z-index: 262;
 	width: 1050px;
 	min-height: 59px;
 	bottom: 0px;
@@ -117,7 +117,7 @@
 	margin-left: -505px;
 }
 
-#u2161-28
+#u2161-35
 {
 	z-index: 199;
 	width: 65px;
@@ -129,17 +129,17 @@
 
 #u2163-8
 {
-	z-index: 246;
+	z-index: 253;
 	width: 243px;
 	min-height: 62px;
-	top: 384px;
+	top: 394px;
 	left: 50%;
 	margin-left: -505px;
 }
 
 #u2162-19
 {
-	z-index: 227;
+	z-index: 234;
 	width: 182px;
 	min-height: 240px;
 	top: 180px;
@@ -149,7 +149,7 @@
 
 #u1060-6
 {
-	z-index: 304;
+	z-index: 311;
 	width: 459px;
 	min-height: 62px;
 	top: 4px;
@@ -159,7 +159,7 @@
 
 #menuu1021
 {
-	z-index: 267;
+	z-index: 274;
 	width: 764px;
 	top: 70px;
 	left: 50%;
@@ -1337,7 +1337,7 @@
 
 #u1061-6
 {
-	z-index: 310;
+	z-index: 317;
 	width: 294px;
 	min-height: 46px;
 	top: 20px;

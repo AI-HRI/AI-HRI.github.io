@@ -1,7 +1,7 @@
 .version.program_agenda /* version checker */
 {
-	color: #0000E0;
-	background-color: #26F7E4;
+	color: #00001B;
+	background-color: #DDA6C5;
 }
 
 .html
@@ -40,19 +40,19 @@
 
 #u1057
 {
-	z-index: 525;
+	z-index: 532;
 	height: 111px;
 	top: 0px;
 }
 
 #u1057-bw
 {
-	z-index: 525;
+	z-index: 532;
 }
 
 #u1336
 {
-	z-index: 575;
+	z-index: 582;
 	width: 300px;
 	top: 10px;
 	left: 50%;
@@ -66,7 +66,7 @@
 
 #u1060-6
 {
-	z-index: 563;
+	z-index: 570;
 	width: 459px;
 	min-height: 62px;
 	top: 4px;
@@ -76,7 +76,7 @@
 
 #u1061-6
 {
-	z-index: 569;
+	z-index: 576;
 	width: 294px;
 	min-height: 46px;
 	top: 20px;
@@ -86,7 +86,7 @@
 
 #menuu1021
 {
-	z-index: 526;
+	z-index: 533;
 	width: 764px;
 	top: 70px;
 	left: 50%;
@@ -452,7 +452,7 @@
 {
 	z-index: 453;
 	width: 286px;
-	height: 372px;
+	height: 378px;
 	top: 89px;
 	left: 50%;
 	margin-left: -525px;
@@ -923,19 +923,19 @@
 
 #u1014
 {
-	z-index: 513;
+	z-index: 520;
 	height: 59px;
 	bottom: 0px;
 }
 
 #u1014-bw
 {
-	z-index: 513;
+	z-index: 520;
 }
 
 #u1015-11
 {
-	z-index: 514;
+	z-index: 521;
 	width: 1050px;
 	min-height: 59px;
 	bottom: 0px;
@@ -953,7 +953,7 @@
 	margin-left: -505px;
 }
 
-#u2161-28
+#u2161-35
 {
 	z-index: 458;
 	width: 65px;
@@ -965,17 +965,17 @@
 
 #u2163-8
 {
-	z-index: 505;
+	z-index: 512;
 	width: 243px;
 	min-height: 62px;
-	top: 384px;
+	top: 394px;
 	left: 50%;
 	margin-left: -505px;
 }
 
 #u2162-19
 {
-	z-index: 486;
+	z-index: 493;
 	width: 182px;
 	min-height: 240px;
 	top: 180px;
