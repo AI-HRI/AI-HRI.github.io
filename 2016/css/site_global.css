@@ -323,6 +323,15 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 10px 0px 0px;
 }
 
+.Centered-subtitle-spaced
+{
+	font-family: lato, sans-serif;
+	font-size: 24px;
+	font-weight: 300;
+	text-align: center;
+	padding: 0px 0px 10px 10px;
+}
+
 .list0 li:before
 {
 	position: absolute;
