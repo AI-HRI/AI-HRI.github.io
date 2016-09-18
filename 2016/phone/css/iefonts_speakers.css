@@ -8,11 +8,6 @@
 	font-family: lato-n7, sans-serif;
 }
 
-.Schedule-author,.Centered-subtitled,.Centeres-subtitled-small,.Organizers-affiliation
-{
-	font-family: lato-n3, sans-serif;
-}
-
 .Title,.schedule-section,.mob_SectionTitle
 {
 	font-family: lato-n9, sans-serif;
@@ -31,6 +26,11 @@
 .Schedule-item,.CFP-subtitle
 {
 	font-family: lato-i7, sans-serif;
+}
+
+.Schedule-author,.Centered-subtitled,.Centeres-subtitled-small,.Organizers-affiliation,.Centered-subtitle-spaced
+{
+	font-family: lato-n3, sans-serif;
 }
 
 #u521-3.AccordionPanelTabOpen p
@@ -91,15 +91,5 @@
 #u452-3,#u452-5,#u452-6
 {
 	font-family: pt-sans-i4, sans-serif;
-}
-
-#u597-5,#u597-6
-{
-	font-family: lato-n9, sans-serif;
-}
-
-#u597-4,#u597-10
-{
-	font-family: lato-i4, sans-serif;
 }
 
