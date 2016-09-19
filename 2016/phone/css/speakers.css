@@ -1,7 +1,7 @@
 .version.speakers /* version checker */
 {
-	color: #000010;
-	background-color: #C1638F;
+	color: #0000EC;
+	background-color: #DC2BA2;
 }
 
 @-ms-viewport
@@ -369,19 +369,13 @@
 #u593
 {
 	z-index: 2;
-	min-height: 3092.55px;
+	min-height: 5785.6px;
 	-pie-box-shadow: none;
 	box-shadow: 4px 4px 30px rgba(0,0,0,0.38);
 	background-color: #E3F475;
 	background-color: rgba(226,244,110,0.95);
-	padding-bottom: 0px;
+	padding: 18px 20px 41.399999999999636px 19px;
 	-pie-background: rgba(226,244,110,0.95);
-}
-
-#u593_position_content
-{
-	margin-bottom: -212px;
-	padding-top: 18px;
 }
 
 #u597-4
@@ -392,7 +386,6 @@
 	background-color: transparent;
 	line-height: 26px;
 	color: #4296CE;
-	margin-left: 19px;
 	position: relative;
 }
 
@@ -403,7 +396,6 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-left: 19px;
 	margin-top: 34px;
 	position: relative;
 }
@@ -449,7 +441,6 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-left: 19px;
 	margin-top: 99px;
 	position: relative;
 }
@@ -495,7 +486,6 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding-bottom: 0px;
-	margin-left: 19px;
 	margin-top: 100px;
 	position: relative;
 }
@@ -541,7 +531,6 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding-bottom: 0px;
-	margin-left: 19px;
 	margin-top: 100px;
 	position: relative;
 }
@@ -579,13 +568,6 @@
 	position: relative;
 }
 
-#u593-bw
-{
-	z-index: 2;
-	min-height: 3092.55px;
-	margin-top: 126px;
-}
-
 #u2472
 {
 	z-index: 51;
@@ -594,8 +576,7 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding-bottom: 0px;
-	margin-left: 19px;
-	margin-top: 312px;
+	margin-top: 100px;
 	position: relative;
 }
 
@@ -640,7 +621,6 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-left: 19px;
 	margin-top: 100px;
 	position: relative;
 }
@@ -686,7 +666,6 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-left: 19px;
 	margin-top: 100px;
 	position: relative;
 }
@@ -735,10 +714,17 @@
 	position: relative;
 }
 
+#u593-bw
+{
+	z-index: 2;
+	min-height: 5785.6px;
+	margin-top: 126px;
+}
+
 #pu451
 {
 	width: 0.01px;
-	margin-top: 75px;
+	margin-top: 34px;
 }
 
 #u451,#u451-bw

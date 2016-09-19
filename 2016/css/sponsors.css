@@ -1,7 +1,7 @@
 .version.sponsors /* version checker */
 {
-	color: #0000F6;
-	background-color: #E99B51;
+	color: #0000EE;
+	background-color: #56FD02;
 }
 
 .html
@@ -145,7 +145,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u1043
+#u1889
 {
 	width: 125px;
 	min-height: 34px;
@@ -153,34 +153,34 @@
 	left: 127px;
 }
 
-#u1046
+#u1890
 {
 	width: 125px;
 	padding-bottom: 14px;
 }
 
-#u1032.MuseMenuActive,#u1046:hover
+#u1032.MuseMenuActive,#u1890:hover
 {
 	width: 125px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u1046:active
+#u1890:active
 {
 	width: 125px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u1046.MuseMenuActive
+#u1890.MuseMenuActive
 {
 	width: 125px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u1048-4
+#u1892-4
 {
 	width: 125px;
 	min-height: 20px;
@@ -188,7 +188,7 @@
 	top: 7px;
 }
 
-#u1032.MuseMenuActive #u1033-4,#u1046:hover #u1048-4
+#u1032.MuseMenuActive #u1033-4,#u1890:hover #u1892-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -197,7 +197,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u1046:active #u1048-4
+#u1890:active #u1892-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -206,7 +206,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u1046.MuseMenuActive #u1048-4
+#u1890.MuseMenuActive #u1892-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -215,7 +215,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u1889
+#u2576
 {
 	width: 126px;
 	min-height: 34px;
@@ -223,27 +223,27 @@
 	left: 254px;
 }
 
-#u1890
+#u2579
 {
 	width: 126px;
 	padding-bottom: 14px;
 }
 
-#u1890:hover
+#u2579:hover
 {
 	width: 126px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u1890:active
+#u2579:active
 {
 	width: 126px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u1892-4
+#u2581-4
 {
 	width: 126px;
 	min-height: 20px;
@@ -251,7 +251,7 @@
 	top: 7px;
 }
 
-#u1890:hover #u1892-4
+#u2579:hover #u2581-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -260,7 +260,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u1890:active #u1892-4
+#u2579:active #u2581-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -283,7 +283,7 @@
 	padding-bottom: 14px;
 }
 
-#u1890.MuseMenuActive,#u1760:hover
+#u2579.MuseMenuActive,#u1760:hover
 {
 	width: 126px;
 	min-height: 0px;
@@ -305,7 +305,7 @@
 	top: 7px;
 }
 
-#u1890.MuseMenuActive #u1892-4,#u1760:hover #u1761-4
+#u2579.MuseMenuActive #u2581-4,#u1760:hover #u1761-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;

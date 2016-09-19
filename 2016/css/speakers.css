@@ -1,7 +1,7 @@
 .version.speakers /* version checker */
 {
-	color: #0000E0;
-	background-color: #5790F8;
+	color: #00001C;
+	background-color: #227253;
 }
 
 .html
@@ -14,12 +14,11 @@
 {
 	z-index: 1;
 	width: 1050px;
-	min-height: 4502.999999999999px;
+	min-height: 3668px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -27,7 +26,7 @@
 #page_position_content
 {
 	margin-top: -36px;
-	padding-bottom: 112px;
+	padding-bottom: 140px;
 	width: 0.01px;
 }
 
@@ -40,19 +39,19 @@
 
 #u1057
 {
-	z-index: 171;
+	z-index: 179;
 	height: 111px;
 	top: 0px;
 }
 
 #u1057-bw
 {
-	z-index: 171;
+	z-index: 179;
 }
 
 #u1336
 {
-	z-index: 221;
+	z-index: 229;
 	width: 300px;
 	top: 10px;
 	left: 50%;
@@ -66,7 +65,7 @@
 
 #u1060-6
 {
-	z-index: 209;
+	z-index: 217;
 	width: 459px;
 	min-height: 62px;
 	top: 4px;
@@ -76,7 +75,7 @@
 
 #u1061-6
 {
-	z-index: 215;
+	z-index: 223;
 	width: 294px;
 	min-height: 46px;
 	top: 20px;
@@ -86,7 +85,7 @@
 
 #menuu1021
 {
-	z-index: 172;
+	z-index: 180;
 	width: 764px;
 	top: 70px;
 	left: 50%;
@@ -146,7 +145,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u1043
+#u1889
 {
 	width: 125px;
 	min-height: 34px;
@@ -154,34 +153,34 @@
 	left: 127px;
 }
 
-#u1046
+#u1890
 {
 	width: 125px;
 	padding-bottom: 14px;
 }
 
-#u1032.MuseMenuActive,#u1046:hover
+#u1032.MuseMenuActive,#u1890:hover
 {
 	width: 125px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u1046:active
+#u1890:active
 {
 	width: 125px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u1046.MuseMenuActive
+#u1890.MuseMenuActive
 {
 	width: 125px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u1048-4
+#u1892-4
 {
 	width: 125px;
 	min-height: 20px;
@@ -189,7 +188,7 @@
 	top: 7px;
 }
 
-#u1032.MuseMenuActive #u1033-4,#u1046:hover #u1048-4
+#u1032.MuseMenuActive #u1033-4,#u1890:hover #u1892-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -198,7 +197,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u1046:active #u1048-4
+#u1890:active #u1892-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -207,7 +206,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u1046.MuseMenuActive #u1048-4
+#u1890.MuseMenuActive #u1892-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -216,7 +215,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u1889
+#u2576
 {
 	width: 126px;
 	min-height: 34px;
@@ -224,27 +223,27 @@
 	left: 254px;
 }
 
-#u1890
+#u2579
 {
 	width: 126px;
 	padding-bottom: 14px;
 }
 
-#u1890:hover
+#u2579:hover
 {
 	width: 126px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u1890:active
+#u2579:active
 {
 	width: 126px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u1892-4
+#u2581-4
 {
 	width: 126px;
 	min-height: 20px;
@@ -252,7 +251,7 @@
 	top: 7px;
 }
 
-#u1890:hover #u1892-4
+#u2579:hover #u2581-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -261,7 +260,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u1890:active #u1892-4
+#u2579:active #u2581-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -284,7 +283,7 @@
 	padding-bottom: 14px;
 }
 
-#u1890.MuseMenuActive,#u1760:hover
+#u2579.MuseMenuActive,#u1760:hover
 {
 	width: 126px;
 	min-height: 0px;
@@ -306,7 +305,7 @@
 	top: 7px;
 }
 
-#u1890.MuseMenuActive #u1892-4,#u1760:hover #u1761-4
+#u2579.MuseMenuActive #u2581-4,#u1760:hover #u1761-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -450,7 +449,7 @@
 
 #u1013
 {
-	z-index: 95;
+	z-index: 103;
 	width: 286px;
 	height: 378px;
 	top: 89px;
@@ -460,7 +459,7 @@
 
 #u1012-4
 {
-	z-index: 96;
+	z-index: 104;
 	width: 243px;
 	min-height: 36px;
 	top: 144px;
@@ -468,10 +467,10 @@
 	margin-left: -505px;
 }
 
-#u1143
+#u2518
 {
 	z-index: 2;
-	min-height: 4246.900000000001px;
+	min-height: 3383.9500000000007px;
 	-pie-box-shadow: none;
 	box-shadow: 0px 0px 30px rgba(0,0,0,0.19);
 	background-color: #E2F575;
@@ -480,7 +479,7 @@
 	-pie-background: rgba(225,245,110,0.95);
 }
 
-#u1143_align_to_page
+#u2518_align_to_page
 {
 	margin-left: auto;
 	margin-right: auto;
@@ -488,10 +487,10 @@
 	position: relative;
 	left: -100px;
 	padding-top: 20px;
-	padding-bottom: 44px;
+	padding-bottom: 31px;
 }
 
-#u1121-4
+#u2513-4
 {
 	z-index: 3;
 	width: 744px;
@@ -502,20 +501,19 @@
 	position: relative;
 }
 
-#u2352
+#u2509
 {
 	z-index: 7;
 	width: 744px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	padding-bottom: 0px;
 	left: 406px;
 	margin-top: 62px;
 	position: relative;
 }
 
-#u2332
+#u2512
 {
 	z-index: 8;
 	width: 250px;
@@ -525,47 +523,51 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 12px;
 	background: transparent url("../images/simmonsreid.jpg") no-repeat center center;
 	background-size: cover;
 }
 
-#u2334-6
+#u2510-7
 {
 	z-index: 9;
 	width: 330px;
 	min-height: 68px;
 	background-color: transparent;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 168px;
-	left: 252px;
 }
 
-#u2349-4
+#u2511-4
 {
-	z-index: 15;
-	width: 744px;
+	z-index: 16;
+	width: 494px;
+	min-height: 185px;
 	background-color: transparent;
 	line-height: 19px;
+	margin-top: 45px;
 	position: relative;
 }
 
-#u2353
+#u2511-2
 {
-	z-index: 19;
+	padding-left: 20px;
+}
+
+#u2519
+{
+	z-index: 20;
 	width: 744px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	padding-bottom: 0px;
 	left: 406px;
-	margin-top: 120px;
+	margin-top: 88px;
 	position: relative;
 }
 
-#u2356
+#u2521
 {
-	z-index: 20;
+	z-index: 21;
 	width: 250px;
 	height: 300px;
 	-pie-box-shadow: none;
@@ -573,47 +575,45 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 13px;
 	background: transparent url("../images/juwendy_headshota.jpg") no-repeat center center;
 	background-size: cover;
 }
 
-#u2355-6
+#u2520-7
 {
-	z-index: 21;
+	z-index: 22;
 	width: 330px;
 	min-height: 68px;
 	background-color: transparent;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 168px;
-	left: 252px;
 }
 
-#u2354-4
+#u2522-4
 {
-	z-index: 27;
-	width: 744px;
+	z-index: 29;
+	width: 494px;
 	background-color: transparent;
 	line-height: 19px;
+	margin-top: 45px;
 	position: relative;
 }
 
-#u2363
+#u2527
 {
-	z-index: 31;
+	z-index: 33;
 	width: 744px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	padding-bottom: 0px;
 	left: 406px;
-	margin-top: 120px;
+	margin-top: 100px;
 	position: relative;
 }
 
-#u2364
+#u2530
 {
-	z-index: 32;
+	z-index: 34;
 	width: 250px;
 	height: 300px;
 	-pie-box-shadow: none;
@@ -621,47 +621,45 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 13px;
 	background: transparent url("../images/schultzalan_lasr-director.jpg") no-repeat center center;
 	background-size: cover;
 }
 
-#u2365-6
+#u2528-7
 {
-	z-index: 33;
+	z-index: 35;
 	width: 330px;
 	min-height: 68px;
 	background-color: transparent;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 168px;
-	left: 252px;
 }
 
-#u2366-4
+#u2529-4
 {
-	z-index: 39;
-	width: 744px;
+	z-index: 42;
+	width: 494px;
 	background-color: transparent;
 	line-height: 19px;
+	margin-top: 45px;
 	position: relative;
 }
 
-#u2385
+#u2505
 {
-	z-index: 43;
+	z-index: 46;
 	width: 744px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	padding-bottom: 0px;
 	left: 406px;
-	margin-top: 120px;
+	margin-top: 100px;
 	position: relative;
 }
 
-#u2388
+#u2508
 {
-	z-index: 44;
+	z-index: 47;
 	width: 250px;
 	height: 300px;
 	-pie-box-shadow: none;
@@ -669,47 +667,45 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 13px;
 	background: transparent url("../images/smartbill_wds.jpg") no-repeat center center;
 	background-size: cover;
 }
 
-#u2387-6
+#u2507-7
 {
-	z-index: 45;
+	z-index: 48;
 	width: 330px;
 	min-height: 68px;
 	background-color: transparent;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 168px;
-	left: 252px;
 }
 
-#u2386-4
+#u2506-4
 {
-	z-index: 51;
-	width: 744px;
+	z-index: 55;
+	width: 494px;
 	background-color: transparent;
 	line-height: 19px;
+	margin-top: 45px;
 	position: relative;
 }
 
-#u2395
+#u2523
 {
-	z-index: 55;
+	z-index: 59;
 	width: 744px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	padding-bottom: 0px;
 	left: 406px;
-	margin-top: 120px;
+	margin-top: 100px;
 	position: relative;
 }
 
-#u2398
+#u2524
 {
-	z-index: 56;
+	z-index: 60;
 	width: 250px;
 	height: 300px;
 	-pie-box-shadow: none;
@@ -717,47 +713,53 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 13px;
 	background: transparent url("../images/isbellcharles_headshot_brown.jpg") no-repeat center center;
 	background-size: cover;
 }
 
-#u2396-6
+#pu2525-7
 {
-	z-index: 57;
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-left: 250px;
+}
+
+#u2525-7
+{
+	z-index: 61;
 	width: 370px;
 	min-height: 68px;
 	background-color: transparent;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 168px;
-	left: 252px;
 }
 
-#u2397-4
+#u2526-4
 {
-	z-index: 63;
-	width: 744px;
+	z-index: 68;
+	width: 494px;
 	background-color: transparent;
 	line-height: 19px;
+	margin-top: 45px;
 	position: relative;
 }
 
-#u2405
+#u2501
 {
-	z-index: 67;
+	z-index: 72;
 	width: 744px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	padding-bottom: 0px;
 	left: 406px;
-	margin-top: 120px;
+	margin-top: 100px;
 	position: relative;
 }
 
-#u2407
+#u2503
 {
-	z-index: 68;
+	z-index: 73;
 	width: 250px;
 	height: 300px;
 	-pie-box-shadow: none;
@@ -765,53 +767,45 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 13px;
 	background: transparent url("../images/littmanmichael_mll14.jpg") no-repeat center center;
 	background-size: cover;
 }
 
-#u2406-6
+#u2504-7
 {
-	z-index: 69;
+	z-index: 74;
 	width: 370px;
 	min-height: 68px;
 	background-color: transparent;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 168px;
-	left: 252px;
 }
 
-#u2408-4
+#u2502-4
 {
-	z-index: 75;
-	width: 744px;
+	z-index: 81;
+	width: 494px;
 	background-color: transparent;
 	line-height: 19px;
+	margin-top: 45px;
 	position: relative;
 }
 
-#u2415
+#u2514
 {
-	z-index: 79;
+	z-index: 85;
 	width: 744px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	padding-bottom: 0px;
 	left: 406px;
-	margin-top: 120px;
+	margin-top: 87px;
 	position: relative;
 }
 
-#pu2332,#pu2356,#pu2364,#pu2388,#pu2398,#pu2407,#pu2416
+#u2515
 {
-	width: 0.01px;
-	margin-left: 122px;
-}
-
-#u2416
-{
-	z-index: 80;
+	z-index: 86;
 	width: 250px;
 	height: 300px;
 	-pie-box-shadow: none;
@@ -819,23 +813,28 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 12px;
 	background: transparent url("../images/dianacarla_headshot_plainbg.jpg") no-repeat center center;
 	background-size: cover;
 }
 
-#u2418-6
+#pu2510-7,#pu2520-7,#pu2528-7,#pu2507-7,#pu2504-7,#pu2516-7
 {
-	z-index: 81;
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 250px;
+}
+
+#u2516-7
+{
+	z-index: 87;
 	width: 370px;
 	min-height: 68px;
 	background-color: transparent;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 168px;
-	left: 252px;
 }
 
-#u2334-2,#u2355-2,#u2365-2,#u2387-2,#u2396-2,#u2406-2,#u2418-2
+#u2510-3,#u2520-3,#u2528-3,#u2507-3,#u2525-3,#u2504-3,#u2516-3
 {
 	font-size: 30px;
 	text-align: left;
@@ -843,26 +842,38 @@
 	padding-left: 20px;
 }
 
-#u2334-4,#u2355-4,#u2365-4,#u2387-4,#u2396-4,#u2406-4,#u2418-4
+#u2510,#u2520,#u2528,#u2507,#u2525,#u2504,#u2516
+{
+	text-decoration: none;
+}
+
+#u2510-5,#u2520-5,#u2528-5,#u2507-5,#u2525-5,#u2504-5,#u2516-5
 {
 	text-align: left;
 	line-height: 29px;
 	padding-left: 20px;
 }
 
-#u2417-8
+#u2517-9
 {
-	z-index: 87;
-	width: 744px;
+	z-index: 94;
+	width: 494px;
 	background-color: transparent;
 	line-height: 19px;
+	margin-top: 45px;
 	position: relative;
 }
 
-#u1143-bw
+#u2522-2,#u2529-2,#u2506-2,#u2526-2,#u2502-2,#u2517-2,#u2517-3,#u2517-5,#u2517-7
+{
+	padding-left: 20px;
+	padding-top: 0px;
+}
+
+#u2518-bw
 {
 	z-index: 2;
-	min-height: 4246.900000000001px;
+	min-height: 3383.9500000000007px;
 	margin-top: 69px;
 }
 
@@ -871,24 +882,24 @@
 	width: 0.01px;
 	padding-bottom: 407px;
 	margin-left: -100px;
-	margin-top: -4247px;
+	margin-top: -3384px;
 }
 
 #u1014
 {
-	z-index: 159;
+	z-index: 167;
 	height: 59px;
 	bottom: 0px;
 }
 
 #u1014-bw
 {
-	z-index: 159;
+	z-index: 167;
 }
 
 #u1015-11
 {
-	z-index: 160;
+	z-index: 168;
 	width: 1050px;
 	min-height: 59px;
 	bottom: 0px;
@@ -898,7 +909,7 @@
 
 #u2161-32
 {
-	z-index: 100;
+	z-index: 108;
 	width: 65px;
 	min-height: 204px;
 	top: 180px;
@@ -908,7 +919,7 @@
 
 #u2163-8
 {
-	z-index: 151;
+	z-index: 159;
 	width: 243px;
 	min-height: 62px;
 	top: 394px;
@@ -918,7 +929,7 @@
 
 #u2162-19
 {
-	z-index: 132;
+	z-index: 140;
 	width: 182px;
 	min-height: 240px;
 	top: 180px;

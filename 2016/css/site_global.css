@@ -141,6 +141,30 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: underline;
 }
 
+.plain a:link
+{
+	color: #262916;
+	text-decoration: underline;
+}
+
+.plain a:visited
+{
+	color: #262916;
+	text-decoration: none;
+}
+
+.plain a:hover
+{
+	color: #4296CF;
+	text-decoration: inherit;
+}
+
+.plain a:active
+{
+	color: #4296CF;
+	text-decoration: inherit;
+}
+
 .normal_text
 {
 	color: #000000;
