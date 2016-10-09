@@ -1,7 +1,7 @@
 .version.speakers /* version checker */
 {
-	color: #00000B;
-	background-color: #B0EFD5;
+	color: #0000F0;
+	background-color: #5E06CB;
 }
 
 @-ms-viewport
@@ -216,13 +216,39 @@
 	margin: 0px;
 }
 
+#u3351
+{
+	min-height: 24px;
+	padding-bottom: 15px;
+}
+
+#u541.MuseMenuActive,#u3351:active
+{
+	min-height: 24px;
+	margin: 0px;
+}
+
+#u3354-4
+{
+	min-height: 24px;
+	top: 7px;
+}
+
+#u541.MuseMenuActive #u543-4,#u3351:active #u3354-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	margin: 0px;
+}
+
 #u557
 {
 	min-height: 24px;
 	padding-bottom: 15px;
 }
 
-#u541.MuseMenuActive,#u557:active
+#u3351.MuseMenuActive,#u557:active
 {
 	min-height: 24px;
 	margin: 0px;
@@ -234,33 +260,7 @@
 	top: 7px;
 }
 
-#u541.MuseMenuActive #u543-4,#u557:active #u558-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 24px;
-	margin: 0px;
-}
-
-#u3225
-{
-	min-height: 24px;
-	padding-bottom: 15px;
-}
-
-#u557.MuseMenuActive,#u3225:active
-{
-	min-height: 24px;
-	margin: 0px;
-}
-
-#u3227-4
-{
-	min-height: 24px;
-	top: 7px;
-}
-
-#u557.MuseMenuActive #u558-4,#u3225:active #u3227-4
+#u3351.MuseMenuActive #u3354-4,#u557:active #u558-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -274,7 +274,7 @@
 	padding-bottom: 15px;
 }
 
-#u3225.MuseMenuActive,#u562:active
+#u557.MuseMenuActive,#u562:active
 {
 	min-height: 24px;
 	margin: 0px;
@@ -292,7 +292,7 @@
 	top: 7px;
 }
 
-#u3225.MuseMenuActive #u3227-4,#u562:active #u564-4
+#u557.MuseMenuActive #u558-4,#u562:active #u564-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -308,7 +308,7 @@
 	margin: 0px;
 }
 
-#u540,#u554,#u3222,#u561
+#u540,#u3348,#u554,#u561
 {
 	margin-top: 2px;
 }
