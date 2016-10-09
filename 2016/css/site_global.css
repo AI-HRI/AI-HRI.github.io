@@ -141,6 +141,12 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: underline;
 }
 
+a,.ts-Default-Link-Style--copy a,.plain a
+{
+	color: inherit;
+	text-decoration: inherit;
+}
+
 .plain a:link
 {
 	color: #262916;
@@ -193,14 +199,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 5px 0px 0px;
 }
 
-.Main-text
-{
-	font-family: lato, sans-serif;
-	font-size: 16px;
-	font-weight: 400;
-	padding: 15px 0px 0px;
-}
-
 .Schedule-author
 {
 	font-family: lato, sans-serif;
@@ -251,16 +249,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-family: lato, sans-serif;
 	font-size: 16px;
 	font-weight: 900;
-	padding: 15px 0px 0px;
-}
-
-.Schedule-time
-{
-	color: #4296CF;
-	font-family: lato, sans-serif;
-	font-size: 16px;
-	font-weight: 400;
-	text-align: right;
 	padding: 15px 0px 0px;
 }
 
@@ -354,6 +342,92 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: 300;
 	text-align: center;
 	padding: 0px 0px 10px 10px;
+}
+
+.schedule-section---time
+{
+	color: #4296CF;
+	font-family: lato, sans-serif;
+	font-size: 16px;
+	font-weight: 900;
+	text-align: right;
+	padding: 15px 0px 0px;
+}
+
+.schedule-subsection---time
+{
+	color: #4296CF;
+	font-family: lato, sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	text-align: right;
+	padding: 10px 0px 0px;
+}
+
+.Main-text,.schedule-subsection
+{
+	font-family: lato, sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 15px 0px 0px;
+}
+
+.Paragraph-Style
+{
+	font-family: lato, sans-serif;
+	font-size: 16px;
+	font-style: italic;
+	font-weight: 400;
+	padding: 15px 0px 0px;
+}
+
+.schedule-subsection-author---time
+{
+	font-family: lato, sans-serif;
+	font-size: 15px;
+	font-weight: 300;
+	line-height: 15px;
+	text-align: left;
+	padding: 0px 0px 0px 40px;
+}
+
+.Schedule-time,.schedule-time1
+{
+	color: #4296CF;
+	font-family: lato, sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	text-align: right;
+	padding: 15px 0px 0px;
+}
+
+.mobile-schedule-item
+{
+	color: #000000;
+	font-family: lato, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: 700;
+	padding: 10px 0px 0px;
+}
+
+.mobile-section-info
+{
+	font-family: lato, sans-serif;
+	font-size: 15px;
+	font-style: italic;
+	font-weight: 400;
+	text-align: center;
+	padding: 0px;
+}
+
+.mobile-time
+{
+	color: #000000;
+	font-family: lato, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: 700;
 }
 
 .list0 li:before

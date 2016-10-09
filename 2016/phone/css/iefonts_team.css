@@ -8,27 +8,32 @@
 	font-family: lato-n7, sans-serif;
 }
 
-.Schedule-author,.Centered-subtitled,.Centeres-subtitled-small,.Organizers-affiliation
-{
-	font-family: lato-n3, sans-serif;
-}
-
-.Title,.schedule-section,.mob_SectionTitle
-{
-	font-family: lato-n9, sans-serif;
-}
-
 .mob_OrganizerAffiliation,.mob_ShortText
 {
 	font-family: lato-i3, sans-serif;
 }
 
-.Main-text,.Schedule-time,.mob_OrganizerName,.CFP-text
+.Title,.schedule-section,.mob_SectionTitle,.schedule-section---time
+{
+	font-family: lato-n9, sans-serif;
+}
+
+.Schedule-author,.Centered-subtitled,.Centeres-subtitled-small,.Organizers-affiliation,.Centered-subtitle-spaced,.schedule-subsection-author---time
+{
+	font-family: lato-n3, sans-serif;
+}
+
+.Main-text,.Schedule-time,.mob_OrganizerName,.CFP-text,.schedule-subsection---time,.schedule-subsection,.schedule-time1
 {
 	font-family: lato-n4, sans-serif;
 }
 
-.Schedule-item,.CFP-subtitle
+.Paragraph-Style,.mobile-section-info
+{
+	font-family: lato-i4, sans-serif;
+}
+
+.Schedule-item,.CFP-subtitle,.mobile-schedule-item,.mobile-time
 {
 	font-family: lato-i7, sans-serif;
 }
@@ -53,12 +58,12 @@
 	font-family: lato-n7, sans-serif;
 }
 
-#u2016-4
+#u558-4
 {
 	font-family: lato-n7, sans-serif;
 }
 
-#u558-4
+#u3227-4
 {
 	font-family: lato-n7, sans-serif;
 }
