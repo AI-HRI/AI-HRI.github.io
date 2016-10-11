@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000006;
-	background-color: #77E2AC;
+	color: #0000F0;
+	background-color: #067606;
 }
 
 @-ms-viewport
@@ -423,9 +423,9 @@
 	width: 91px;
 	min-height: 357px;
 	background-color: transparent;
-	line-height: 21px;
 	text-align: right;
 	font-size: 19px;
+	line-height: 21px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -481,8 +481,8 @@
 	width: 254px;
 	min-height: 362px;
 	background-color: transparent;
-	line-height: 21px;
 	font-size: 19px;
+	line-height: 21px;
 	position: relative;
 	margin-right: -10000px;
 	left: 95px;
@@ -516,9 +516,9 @@
 	width: 341px;
 	min-height: 15px;
 	background-color: transparent;
-	line-height: 26px;
 	text-align: center;
 	font-size: 22px;
+	line-height: 26px;
 	font-family: lato, sans-serif;
 	font-weight: 900;
 	margin-left: 19px;
