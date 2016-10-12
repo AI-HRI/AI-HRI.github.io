@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="false" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1476181264506">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="false" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1476281498184">
   <folder name="css">
-    <file name="site_global.css" crc="4082447949"/>
-    <file name="master_a-master.css" crc="33113653" ref="index:program:tech:speakers:team:sponsors:authors:programold"/>
+    <file name="site_global.css" crc="4222122727"/>
+    <file name="master_a-master.css" crc="134998932" ref="index:program:tech:speakers:team:sponsors:authors:programold"/>
     <file name="index.css" crc="3895020570" ref="index"/>
     <file name="iefonts_index.css" crc="4211099422" ref="index"/>
-    <file name="program.css" crc="4048261263" ref="program"/>
+    <file name="program.css" crc="4011991858" ref="program"/>
     <file name="iefonts_program.css" crc="375056927" ref="program"/>
     <file name="tech.css" crc="259586885" ref="tech"/>
     <file name="iefonts_tech.css" crc="4247383447" ref="tech"/>
@@ -35,13 +35,13 @@
   <folder name="images">
     <file name="dc_bg_mobilemedium.jpg" crc="3852904231" ref="phone>index:phone>authors:phone>program:phone>speakers:phone>team:phone>program2"/>
     <file name="dc_bg.jpg" crc="3909694693" ref="index:program:speakers:authors:team:tech:sponsors:programold"/>
-    <file name="u1013-grad.png" crc="3873506866" ref="index"/>
+    <file name="u1013-grad.png" crc="3873506866" ref="index:program"/>
     <file name="aaai.jpg" crc="506383955" seo="true" ref="sponsors:phone>index"/>
     <file name="sphero_logo_blue.png" crc="497807446" seo="true" ref="sponsors:phone>index"/>
     <file name="aihri_3_300w_darkbg.png" crc="69645340" seo="true" ref="index:speakers:program:authors:team:tech:sponsors:programold"/>
     <file name="aihri_3_500w_darkbg.png" crc="261169876" seo="true" ref="phone>index:phone>authors:phone>program:phone>speakers:phone>team:phone>program2"/>
     <file name="semio-logo_withborder-bw.png" crc="85970976" seo="true" ref="sponsors:phone>index"/>
-    <file name="top_arrow-u2108-fr.png" crc="45153194" ref="phone>index:phone>team:phone>authors:phone>speakers:phone>program2:phone>program"/>
+    <file name="top_arrow-u2108-fr.png" crc="45153194" ref="phone>index:phone>team:phone>authors:phone>speakers:phone>program2"/>
     <file name="artint_logo2_c_web_more.jpg" crc="143482883" seo="true" ref="phone>index:sponsors"/>
     <file name="calendar_authors_mobile.png" crc="450558975" seo="true" ref="phone>authors"/>
     <file name="calendar_authors.png" crc="401990194" seo="true" ref="authors"/>
@@ -53,13 +53,14 @@
     <file name="littmanmichael_mll14.jpg" crc="4085291823" ref="phone>speakers:speakers"/>
     <file name="dianacarla_headshot_plainbg.jpg" crc="242341877" ref="phone>speakers:speakers"/>
     <file name="u3337-grad.png" crc="76867894" ref="phone>program"/>
+    <file name="top_arrow-u2116-fr.png" crc="45153194" ref="phone>program"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="397897917" ref="phone>index:phone>program:phone>authors:phone>team:phone>speakers:phone>program2"/>
+      <file name="master_a-master.css" crc="3772181512" ref="phone>index:phone>program:phone>authors:phone>team:phone>speakers:phone>program2"/>
       <file name="index.css" crc="4026955270" ref="phone>index"/>
       <file name="iefonts_index.css" crc="4202727352" ref="phone>index"/>
-      <file name="program.css" crc="137035139" ref="phone>program"/>
+      <file name="program.css" crc="219209537" ref="phone>program"/>
       <file name="iefonts_program.css" crc="3919742488" ref="phone>program"/>
       <file name="authors.css" crc="4070181703" ref="phone>authors"/>
       <file name="iefonts_authors.css" crc="4178983684" ref="phone>authors"/>
@@ -72,13 +73,13 @@
     </folder>
     <file name="index.html" crc="467890839" seo="true" mt="1476181246751" redirect="true"/>
     <file name="authors.html" crc="4191358722" seo="true" mt="1476044286959" redirect="true"/>
-    <file name="program.html" crc="481062177" seo="true" mt="1476044286962" redirect="true"/>
+    <file name="program.html" crc="78429776" seo="true" mt="1476280973755" redirect="true"/>
     <file name="speakers.html" crc="3955835106" seo="true" mt="1476044286959" redirect="true"/>
     <file name="team.html" crc="4266829694" seo="true" mt="1476044286959" redirect="true"/>
     <file name="program2.html" crc="3834489277" seo="true" mt="1476044286959" redirect="true"/>
   </folder>
   <file name="index.html" crc="126033342" seo="true" mt="1476181232832" redirect="true"/>
-  <file name="program.html" crc="331801591" seo="true" mt="1476181232832" redirect="true"/>
+  <file name="program.html" crc="3837280199" seo="true" mt="1476281485383" redirect="true"/>
   <file name="speakers.html" crc="411922538" seo="true" mt="1476181232832" redirect="true"/>
   <file name="authors.html" crc="3779389092" seo="true" mt="1476181232832" redirect="true"/>
   <file name="team.html" crc="400115779" seo="true" mt="1476181232832" redirect="true"/>

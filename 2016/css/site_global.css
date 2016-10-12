@@ -141,6 +141,12 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: underline;
 }
 
+a,.ts-Default-Link-Style--copy a,.plain a
+{
+	color: inherit;
+	text-decoration: inherit;
+}
+
 .plain a:link
 {
 	color: #262916;
@@ -355,7 +361,7 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-size: 16px;
 	font-weight: 400;
 	text-align: right;
-	padding: 10px 0px 0px;
+	padding: 11px 0px 0px;
 }
 
 .Main-text,.schedule-subsection
