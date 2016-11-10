@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="false" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1476700439007">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="false" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1478794783550">
   <folder name="css">
-    <file name="site_global.css" crc="4222122727"/>
-    <file name="master_a-master.css" crc="4190797686" ref="index:program:tech:speakers:team:sponsors:authors:programold"/>
-    <file name="index.css" crc="3895020570" ref="index"/>
+    <file name="site_global.css" crc="3842743996"/>
+    <file name="master_a-master.css" crc="16885020" ref="index:program:tech:speakers:team:sponsors:authors:programold"/>
+    <file name="index.css" crc="381378171" ref="index"/>
     <file name="iefonts_index.css" crc="4211099422" ref="index"/>
-    <file name="program.css" crc="3848772239" ref="program"/>
+    <file name="program.css" crc="4199321336" ref="program"/>
     <file name="iefonts_program.css" crc="375056927" ref="program"/>
     <file name="tech.css" crc="259586885" ref="tech"/>
     <file name="iefonts_tech.css" crc="4247383447" ref="tech"/>
@@ -14,9 +14,9 @@
     <file name="iefonts_team.css" crc="4247383447" ref="team"/>
     <file name="sponsors.css" crc="512288051" ref="sponsors"/>
     <file name="iefonts_sponsors.css" crc="4247383447" ref="sponsors"/>
-    <file name="authors.css" crc="24836854" ref="authors"/>
+    <file name="authors.css" crc="288946801" ref="authors"/>
     <file name="iefonts_authors.css" crc="209505527" ref="authors"/>
-    <file name="programold.css" crc="413953471" ref="programold"/>
+    <file name="programold.css" crc="174436156" ref="programold"/>
     <file name="iefonts_programold.css" crc="31192812" ref="programold"/>
   </folder>
   <folder name="scripts">
@@ -41,7 +41,7 @@
     <file name="aihri_3_300w_darkbg.png" crc="69645340" seo="true" ref="index:speakers:program:authors:team:tech:sponsors:programold"/>
     <file name="aihri_3_500w_darkbg.png" crc="261169876" seo="true" ref="phone>index:phone>authors:phone>program:phone>speakers:phone>team:phone>program2"/>
     <file name="semio-logo_withborder-bw.png" crc="85970976" seo="true" ref="sponsors:phone>index"/>
-    <file name="top_arrow-u2108-fr.png" crc="45153194" ref="phone>index:phone>team:phone>authors:phone>speakers:phone>program2"/>
+    <file name="top_arrow-u2108-fr.png" crc="45153194" ref="phone>index:phone>team:phone>authors:phone>speakers:phone>program2:phone>program"/>
     <file name="artint_logo2_c_web_more.jpg" crc="143482883" seo="true" ref="phone>index:sponsors"/>
     <file name="calendar_authors_mobile.png" crc="450558975" seo="true" ref="phone>authors"/>
     <file name="calendar_authors.png" crc="401990194" seo="true" ref="authors"/>
@@ -53,14 +53,14 @@
     <file name="littmanmichael_mll14.jpg" crc="4085291823" ref="phone>speakers:speakers"/>
     <file name="dianacarla_headshot_plainbg.jpg" crc="242341877" ref="phone>speakers:speakers"/>
     <file name="u3337-grad.png" crc="4211693598" ref="phone>program"/>
-    <file name="top_arrow-u2116-fr.png" crc="45153194" ref="phone>program"/>
+    <file name="1478813480_document_file.png" crc="426957067" ref="program"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="4013183104" ref="phone>index:phone>program:phone>authors:phone>team:phone>speakers:phone>program2"/>
-      <file name="index.css" crc="4026955270" ref="phone>index"/>
+      <file name="master_a-master.css" crc="322723633" ref="phone>index:phone>program:phone>authors:phone>team:phone>speakers:phone>program2"/>
+      <file name="index.css" crc="3781051956" ref="phone>index"/>
       <file name="iefonts_index.css" crc="4202727352" ref="phone>index"/>
-      <file name="program.css" crc="4211763452" ref="phone>program"/>
+      <file name="program.css" crc="485908433" ref="phone>program"/>
       <file name="iefonts_program.css" crc="4017653841" ref="phone>program"/>
       <file name="authors.css" crc="4070181703" ref="phone>authors"/>
       <file name="iefonts_authors.css" crc="4178983684" ref="phone>authors"/>
@@ -71,19 +71,19 @@
       <file name="program2.css" crc="4005568873" ref="phone>program2"/>
       <file name="iefonts_program2.css" crc="3823629693" ref="phone>program2"/>
     </folder>
-    <file name="index.html" crc="467890839" seo="true" mt="1476181246751" redirect="true"/>
-    <file name="authors.html" crc="4191358722" seo="true" mt="1476044286959" redirect="true"/>
-    <file name="program.html" crc="127601132" seo="true" mt="1476700414919" redirect="true"/>
-    <file name="speakers.html" crc="3955835106" seo="true" mt="1476044286959" redirect="true"/>
-    <file name="team.html" crc="4266829694" seo="true" mt="1476044286959" redirect="true"/>
-    <file name="program2.html" crc="3834489277" seo="true" mt="1476044286959" redirect="true"/>
+    <file name="index.html" crc="4291720615" seo="true" mt="1478791996408" redirect="true"/>
+    <file name="authors.html" crc="3766930620" seo="true" mt="1478791996408" redirect="true"/>
+    <file name="program.html" crc="298287916" seo="true" mt="1478791996408" redirect="true"/>
+    <file name="speakers.html" crc="412876876" seo="true" mt="1478791996408" redirect="true"/>
+    <file name="team.html" crc="519821746" seo="true" mt="1478791996408" redirect="true"/>
+    <file name="program2.html" crc="4234013710" seo="true" mt="1478791996408" redirect="true"/>
   </folder>
-  <file name="index.html" crc="126033342" seo="true" mt="1476181232832" redirect="true"/>
-  <file name="program.html" crc="431054219" seo="true" mt="1476700388463" redirect="true"/>
-  <file name="speakers.html" crc="411922538" seo="true" mt="1476181232832" redirect="true"/>
-  <file name="authors.html" crc="3779389092" seo="true" mt="1476181232832" redirect="true"/>
-  <file name="team.html" crc="400115779" seo="true" mt="1476181232832" redirect="true"/>
-  <file name="tech.html" crc="347299551" seo="true" mt="1476181232832" redirect="true"/>
-  <file name="sponsors.html" crc="3927851439" seo="true" mt="1476181232832" redirect="true"/>
-  <file name="programold.html" crc="131594301" seo="true" mt="1476181232832" redirect="true"/>
+  <file name="index.html" crc="4061549442" seo="true" mt="1478791996407" redirect="true"/>
+  <file name="program.html" crc="3800672575" seo="true" mt="1478794695687" redirect="true"/>
+  <file name="speakers.html" crc="280435681" seo="true" mt="1478791996410" redirect="true"/>
+  <file name="authors.html" crc="4007194237" seo="true" mt="1478791996407" redirect="true"/>
+  <file name="team.html" crc="4231101349" seo="true" mt="1478791996405" redirect="true"/>
+  <file name="tech.html" crc="347299551" seo="true" mt="1478791996208" redirect="true"/>
+  <file name="sponsors.html" crc="4087263245" seo="true" mt="1478791996407" redirect="true"/>
+  <file name="programold.html" crc="39600736" seo="true" mt="1478791996408" redirect="true"/>
 </manifest>

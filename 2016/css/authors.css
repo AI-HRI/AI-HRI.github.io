@@ -1,7 +1,7 @@
 .version.authors /* version checker */
 {
-	color: #000001;
-	background-color: #7AFAF6;
+	color: #000011;
+	background-color: #38FA71;
 }
 
 .html
@@ -799,10 +799,10 @@
 	min-height: 35px;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 17px;
 	text-align: center;
 	letter-spacing: 1px;
 	font-size: 17px;
-	line-height: 17px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -880,10 +880,10 @@
 	min-height: 35px;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 17px;
 	text-align: center;
 	letter-spacing: 1px;
 	font-size: 17px;
-	line-height: 17px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -959,10 +959,10 @@
 	min-height: 38px;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 17px;
 	text-align: center;
 	letter-spacing: 1px;
 	font-size: 17px;
-	line-height: 17px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1039,10 +1039,10 @@
 	min-height: 35px;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 17px;
 	text-align: center;
 	letter-spacing: 1px;
 	font-size: 17px;
-	line-height: 17px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1120,10 +1120,10 @@
 	min-height: 35px;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 17px;
 	text-align: center;
 	letter-spacing: 1px;
 	font-size: 17px;
-	line-height: 17px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1201,10 +1201,10 @@
 	min-height: 35px;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 17px;
 	text-align: center;
 	letter-spacing: 1px;
 	font-size: 17px;
-	line-height: 17px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1287,10 +1287,10 @@
 	min-height: 35px;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 17px;
 	text-align: center;
 	letter-spacing: 1px;
 	font-size: 17px;
-	line-height: 17px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;

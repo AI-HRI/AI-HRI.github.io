@@ -141,12 +141,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: underline;
 }
 
-a,.ts-Default-Link-Style--copy a,.plain a
-{
-	color: inherit;
-	text-decoration: inherit;
-}
-
 .plain a:link
 {
 	color: #262916;

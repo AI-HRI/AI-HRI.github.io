@@ -1,7 +1,7 @@
 .version.program /* version checker */
 {
-	color: #0000FB;
-	background-color: #0A68FC;
+	color: #00001C;
+	background-color: #F65FD1;
 }
 
 @-ms-viewport
@@ -430,9 +430,9 @@
 	min-height: 35px;
 	background-color: #4296CF;
 	color: #FFFFFF;
+	line-height: 24px;
 	text-align: center;
 	letter-spacing: 1px;
-	line-height: 24px;
 	font-size: 20px;
 	font-family: passion-one, sans-serif;
 	font-weight: 400;
@@ -492,9 +492,9 @@
 	min-height: 35px;
 	background-color: #4296CF;
 	color: #FFFFFF;
+	line-height: 24px;
 	text-align: center;
 	letter-spacing: 1px;
-	line-height: 24px;
 	font-size: 20px;
 	font-family: passion-one, sans-serif;
 	font-weight: 400;
@@ -564,9 +564,9 @@
 	min-height: 35px;
 	background-color: #4296CF;
 	color: #FFFFFF;
+	line-height: 24px;
 	text-align: center;
 	letter-spacing: 1px;
-	line-height: 24px;
 	font-size: 20px;
 	font-family: passion-one, sans-serif;
 	font-weight: 400;
@@ -786,7 +786,7 @@
 	position: fixed;
 	top: 470px;
 	left: 310px;
-	background: #F2F5FF url("../../images/top_arrow-u2116-fr.png") no-repeat center center;
+	background: #F2F5FF url("../../images/top_arrow-u2108-fr.png") no-repeat center center;
 	background-color: rgba(229,235,255,0.5);
 }
 
