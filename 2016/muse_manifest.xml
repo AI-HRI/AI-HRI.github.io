@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="false" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1478794783550">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="false" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1478796559299">
   <folder name="css">
     <file name="site_global.css" crc="3842743996"/>
     <file name="master_a-master.css" crc="16885020" ref="index:program:tech:speakers:team:sponsors:authors:programold"/>
     <file name="index.css" crc="381378171" ref="index"/>
     <file name="iefonts_index.css" crc="4211099422" ref="index"/>
-    <file name="program.css" crc="4199321336" ref="program"/>
+    <file name="program.css" crc="4200192071" ref="program"/>
     <file name="iefonts_program.css" crc="375056927" ref="program"/>
     <file name="tech.css" crc="259586885" ref="tech"/>
     <file name="iefonts_tech.css" crc="4247383447" ref="tech"/>
@@ -79,7 +79,7 @@
     <file name="program2.html" crc="4234013710" seo="true" mt="1478791996408" redirect="true"/>
   </folder>
   <file name="index.html" crc="4061549442" seo="true" mt="1478791996407" redirect="true"/>
-  <file name="program.html" crc="3800672575" seo="true" mt="1478794695687" redirect="true"/>
+  <file name="program.html" crc="4088779871" seo="true" mt="1478796547183" redirect="true"/>
   <file name="speakers.html" crc="280435681" seo="true" mt="1478791996410" redirect="true"/>
   <file name="authors.html" crc="4007194237" seo="true" mt="1478791996407" redirect="true"/>
   <file name="team.html" crc="4231101349" seo="true" mt="1478791996405" redirect="true"/>
