@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="false" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1478796559299">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="false" exportTarget="other" domain="ai-hri.github.io" resolutions="1x" timestamp="1479256187464">
   <folder name="css">
     <file name="site_global.css" crc="3842743996"/>
-    <file name="master_a-master.css" crc="16885020" ref="index:program:tech:speakers:team:sponsors:authors:programold"/>
+    <file name="master_a-master.css" crc="4190797686" ref="index:program:tech:speakers:team:sponsors:authors:programold"/>
     <file name="index.css" crc="381378171" ref="index"/>
     <file name="iefonts_index.css" crc="4211099422" ref="index"/>
-    <file name="program.css" crc="4200192071" ref="program"/>
+    <file name="program.css" crc="4219142007" ref="program"/>
     <file name="iefonts_program.css" crc="375056927" ref="program"/>
     <file name="tech.css" crc="259586885" ref="tech"/>
     <file name="iefonts_tech.css" crc="4247383447" ref="tech"/>
@@ -18,12 +18,14 @@
     <file name="iefonts_authors.css" crc="209505527" ref="authors"/>
     <file name="programold.css" crc="174436156" ref="programold"/>
     <file name="iefonts_programold.css" crc="31192812" ref="programold"/>
+    <file name="margetetal_aaaifss16.css" crc="511558155" ref="margetetal_aaaifss16"/>
+    <file name="iefonts_margetetal_aaaifss16.css" crc="202959443" ref="margetetal_aaaifss16"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:index:program:speakers:authors:team:tech:sponsors:phone>authors:phone>program:phone>speakers:phone>team:programold:phone>program2"/>
-    <file name="museutils.js" crc="183364071" ref="phone>index:index:program:speakers:authors:team:tech:sponsors:phone>authors:phone>program:phone>speakers:phone>team:programold:phone>program2"/>
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:index:program:speakers:authors:team:tech:sponsors:phone>authors:phone>program:phone>speakers:phone>team:programold:phone>program2:margetetal_aaaifss16"/>
+    <file name="museutils.js" crc="183364071" ref="phone>index:index:program:speakers:authors:team:tech:sponsors:phone>authors:phone>program:phone>speakers:phone>team:programold:phone>program2:margetetal_aaaifss16"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="phone>index:index:program:speakers:authors:team:tech:sponsors:phone>authors:phone>program:phone>speakers:phone>team:programold:phone>program2"/>
-    <file name="jquery.watch.js" crc="71412426" ref="phone>index:index:program:speakers:authors:team:tech:sponsors:phone>authors:phone>program:phone>speakers:phone>team:programold:phone>program2"/>
+    <file name="jquery.watch.js" crc="71412426" ref="phone>index:index:program:speakers:authors:team:tech:sponsors:phone>authors:phone>program:phone>speakers:phone>team:programold:phone>program2:margetetal_aaaifss16"/>
     <file name="pie.js" crc="3827607177" ref="phone>index:index:speakers:authors:team:sponsors:phone>authors:phone>program:phone>speakers:phone>team:programold:phone>program2"/>
     <file name="jquery.musemenu.js" crc="3957776250" ref="phone>index:index:program:speakers:authors:team:tech:sponsors:phone>authors:phone>program:phone>speakers:phone>team:programold:phone>program2"/>
     <file name="webpro.js" crc="3803554875" ref="phone>index:phone>authors:phone>program:phone>speakers:phone>team:program:phone>program2"/>
@@ -79,11 +81,12 @@
     <file name="program2.html" crc="4234013710" seo="true" mt="1478791996408" redirect="true"/>
   </folder>
   <file name="index.html" crc="4061549442" seo="true" mt="1478791996407" redirect="true"/>
-  <file name="program.html" crc="4088779871" seo="true" mt="1478796547183" redirect="true"/>
+  <file name="program.html" crc="245904916" seo="true" mt="1479256082637" redirect="true"/>
   <file name="speakers.html" crc="280435681" seo="true" mt="1478791996410" redirect="true"/>
   <file name="authors.html" crc="4007194237" seo="true" mt="1478791996407" redirect="true"/>
   <file name="team.html" crc="4231101349" seo="true" mt="1478791996405" redirect="true"/>
   <file name="tech.html" crc="347299551" seo="true" mt="1478791996208" redirect="true"/>
   <file name="sponsors.html" crc="4087263245" seo="true" mt="1478791996407" redirect="true"/>
   <file name="programold.html" crc="39600736" seo="true" mt="1478791996408" redirect="true"/>
+  <file name="margetetal_aaaifss16.html" crc="312259427" seo="true" mt="1479256172179" redirect="true"/>
 </manifest>

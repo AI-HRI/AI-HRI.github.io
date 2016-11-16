@@ -1,7 +1,7 @@
 .version.program /* version checker */
 {
-	color: #0000FA;
-	background-color: #59D847;
+	color: #0000FB;
+	background-color: #7AFF77;
 }
 
 .html
@@ -546,10 +546,10 @@
 	min-height: 24px;
 	border-color: #999999;
 	background-color: transparent;
+	line-height: 24px;
 	color: #000000;
 	text-align: center;
 	font-size: 17px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -625,10 +625,10 @@
 	min-height: 24px;
 	border-color: #999999;
 	background-color: transparent;
+	line-height: 24px;
 	color: #000000;
 	text-align: center;
 	font-size: 17px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -709,10 +709,10 @@
 	min-height: 24px;
 	border-color: #999999;
 	background-color: transparent;
+	line-height: 24px;
 	color: #000000;
 	text-align: center;
 	font-size: 17px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;

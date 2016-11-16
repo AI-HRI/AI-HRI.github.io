@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://ai-hri.github.io/images/aaai.jpg</loc>
-    <lastmod>2016-11-10</lastmod>
+    <lastmod>2016-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://ai-hri.github.io/images/sphero_logo_blue.png</loc>
-    <lastmod>2016-11-10</lastmod>
+    <lastmod>2016-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://ai-hri.github.io/images/aihri_3_300w_darkbg.png</loc>
-    <lastmod>2016-11-10</lastmod>
+    <lastmod>2016-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://ai-hri.github.io/images/aihri_3_500w_darkbg.png</loc>
-    <lastmod>2016-11-10</lastmod>
+    <lastmod>2016-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://ai-hri.github.io/images/semio-logo_withborder-bw.png</loc>
-    <lastmod>2016-11-10</lastmod>
+    <lastmod>2016-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://ai-hri.github.io/images/artint_logo2_c_web_more.jpg</loc>
-    <lastmod>2016-11-10</lastmod>
+    <lastmod>2016-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://ai-hri.github.io/images/calendar_authors_mobile.png</loc>
-    <lastmod>2016-11-10</lastmod>
+    <lastmod>2016-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://ai-hri.github.io/images/calendar_authors.png</loc>
-    <lastmod>2016-11-10</lastmod>
+    <lastmod>2016-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -63,7 +63,7 @@
   </url>
   <url>
     <loc>http://ai-hri.github.io/program.html</loc>
-    <lastmod>2016-11-10</lastmod>
+    <lastmod>2016-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://ai-hri.github.io/phone/program.html"/>
@@ -104,6 +104,12 @@
   <url>
     <loc>http://ai-hri.github.io/programold.html</loc>
     <lastmod>2016-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ai-hri.github.io/margetetal_aaaifss16.html</loc>
+    <lastmod>2016-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
