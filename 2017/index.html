@@ -6,14 +6,16 @@
     <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
 
     <!-- Combo with CSSNormalize, CSSGrids-Responsive, CSSForm, CSSTable, CSSList (v3.9.1) -->
-    <link rel="stylesheet" href="http://yui.yahooapis.com/combo?3.9.1/build/cssnormalize/cssnormalize-min.css&amp;3.9.1/build/cssgrids-responsive/cssgrids-responsive-min.css&amp;3.9.1/build/cssbutton/cssbutton-min.css&amp;gallery-2013.03.27-22-06/build/gallerycss-csslist/gallerycss-csslist-min.css&amp;gallery-2013.03.27-22-06/build/gallerycss-csstable/gallerycss-csstable-min.css&amp;gallery-2013.03.27-22-06/build/gallerycss-cssform/gallerycss-cssform-min.css">
+    <!-- link rel="stylesheet" href="https://yui.yahooapis.com/combo?3.9.1/build/cssnormalize/cssnormalize-min.css&amp;3.9.1/build/cssgrids-responsive/cssgrids-responsive-min.css&amp;3.9.1/build/cssbutton/cssbutton-min.css&amp;gallery-2013.03.27-22-06/build/gallerycss-csslist/gallerycss-csslist-min.css&amp;gallery-2013.03.27-22-06/build/gallerycss-csstable/gallerycss-csstable-min.css&amp;gallery-2013.03.27-22-06/build/gallerycss-cssform/gallerycss-cssform-min.css" -->
     
     <!-- Some custom styles to make things pretty. -->
     <link rel="stylesheet" type="text/css" href="https://rawgithub.com/tilomitra/prettypages/gh-pages/ui.css">
 
     <!-- RainbowJS Syntax Highlighting - Github Theme. 
          For more themes, go to https://github.com/ccampbell/rainbow/tree/master/themes -->
-    <link rel="stylesheet" type="text/css" href="https://rawgithub.com/ccampbell/rainbow/master/themes/github.css">
+    <!-- link rel="stylesheet" type="text/css" href="https://rawgithub.com/ccampbell/rainbow/master/themes/github.css" -->
+
+
 
     <!-- Modify header colors here to customize the look and feel of the site-->
     <style>
@@ -56,19 +58,27 @@
             font-size: 12px;
         }
 
-		.yui3-menu-fixed {
+		.navbar {
+			overflow: hidden;
+			//background-color: rgb(28, 25, 99);
+			//background-color: rgb(28, 25, 99);
+			position: fixed; /* Set the navbar to fixed position */
+			top: 0; /* Position the navbar at the top of the page */
+			width: 100%; /* Full width */
 			font-size: 135%;			
             padding-top: 10px;
             padding-bottom: 10px;
 		}
 
-		.yui3-menu-fixed a {
+		.navbar a {
 			background: rgb(28, 25, 99);
 		}
 
-		.yui3-menu-fixed a:hover {
+		.navbar a:hover {
 			font-weight: bold;
 		}
+
+		
 
      </style>
 
@@ -88,7 +98,7 @@
 <body class='yui3-skin-sam' style="padding: 0px 0px 0px 0px;">
 
     <!-- div id="headerMenu" class="yui3-menu yui3-menu-open yui3-menu-horizontal yui3-menu-fixed" --> 
-    <div id="headerMenu" class="yui3-menu-fixed"> 
+    <div id="headerMenu" class="navbar"> 
         
 		&nbsp;&nbsp;&nbsp;  AI-HRI 2017 &nbsp;&nbsp;&nbsp; 
 
