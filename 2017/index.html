@@ -56,12 +56,18 @@
             font-size: 12px;
         }
 
+		.yui3-menu-fixed {
+			font-size: 135%;			
+            padding-top: 10px;
+            padding-bottom: 10px;
+		}
 
-		.yui3-menu-horizontal ul {
-			background: rgb(18, 15, 99);
-			padding: 0;
-			margin: 0;
-			border: 0;
+		.yui3-menu-fixed a {
+			background: rgb(28, 25, 99);
+		}
+
+		.yui3-menu-fixed a:hover {
+			font-weight: bold;
 		}
 
      </style>
@@ -81,18 +87,19 @@
 
 <body class='yui3-skin-sam' style="padding: 0px 0px 0px 0px;">
 
-    <div id="headerMenu" class="yui3-menu yui3-menu-open yui3-menu-horizontal yui3-menu-fixed"> 
+    <!-- div id="headerMenu" class="yui3-menu yui3-menu-open yui3-menu-horizontal yui3-menu-fixed" --> 
+    <div id="headerMenu" class="yui3-menu-fixed"> 
         
-		&nbsp;&nbsp;&nbsp;  AI-HRI &nbsp;&nbsp;&nbsp; 
-        <ul>
-            <li><a href="#home">home</a></li>
+		&nbsp;&nbsp;&nbsp;  AI-HRI 2017 &nbsp;&nbsp;&nbsp; 
+
+            <a href="#home">&nbsp;&nbsp; Home &nbsp;&nbsp </a>  
             <!-- li><a href="#speakers">invited speakers</a></li -->
             <!-- li><a href="#schedule">schedule</a></li -->
-            <li><a href="#submission">submission</a></li>
-            <li><a href="#dates">dates</a></li>
-            <li><a href="#committee">organizers</a></li>
+            <a href="#submission">&nbsp;&nbsp;  Submission &nbsp;&nbsp; </a> 
+            <a href="#dates">&nbsp;&nbsp;  Dates  &nbsp;&nbsp; </a></li>  
+            <a href="#committee">&nbsp;&nbsp;  Organizers  &nbsp;&nbsp; </a></li> &nbsp;&nbsp;&nbsp; 
             <!-- li><a href="https://easychair.org/conferences/?conf=aihri2017">submit a paper</a></li -->
-        </ul>
+        
     </div>
 
 <div class="content">
