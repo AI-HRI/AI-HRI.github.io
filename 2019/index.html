@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>AI-HRI</title>
+    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
+
+    <!-- Some custom styles to make things pretty. -->
+    <link rel="stylesheet" type="text/css" href="https://rawgithub.com/tilomitra/prettypages/gh-pages/ui.css">
+
+
+
+    <!-- Modify header colors here to customize the look and feel of the site-->
+    <style>
+        
+        .header {
+            background: rgb(26, 75, 26);
+         }
+        .header h1 {
+            font-size:200%;
+            color: white;
+        }
+        .header h2, .header h3 {
+            font-weight:300;
+            margin:0;
+            color: #6DF7BD;
+        }
+
+        #past_aihri_links {
+            font-size: 120%;
+            background: rgb(26, 75, 26);
+            color: white;
+            padding: 10px 0px 10px 0px;
+            text-align: center;
+        }
+        #past_aihri_links a {
+            color: white;
+            text-decoration: underline;
+        }
+        #past_aihri_links a:hover {
+            font-weight: bold;
+        }
+
+        div.framed {
+            padding-top: 15px;
+            padding-bottom: 15px;
+            font-size: 16px;
+            border-bottom: 2px solid black;
+            border-top: 2px solid black;
+        }
+
+        div.framed li {
+            font-size: 18px;
+        }
+
+        div.program {
+            font-size: 16px;
+        }
+
+        .main {
+            margin-top: 30px; /* Add a top margin to avoid content overlay */
+            margin-left: 40px;
+            margin-right: 40px;
+        }
+
+        .navbar {
+            //overflow: hidden;
+            //background-color: rgb(28, 25, 99);
+            position: fixed; /* Set the navbar to fixed position */
+            top: 0px; /* Position the navbar at the top of the page */
+            left: 40px; // width: 100%; /* Full width */
+            right: 40px; // width: 100%; /* Full width */
+            font-size: 135%;            
+            padding-top: 10px;
+            padding-bottom: 10px;
+            padding-left: 10px;
+            padding-right: 50px;
+            //background-clip: content-box; 
+            box-shadow: inset 0 0 0 50px rgb(26, 75, 26);
+            
+        }
+
+        .navbar a {
+            background: rgb(26, 75, 26);
+        }
+
+        .navbar a:hover {
+            font-weight: bold;
+            background: rgb(26, 75, 26);
+            box-shadow: inset 0 0 0 50px rgb(26, 75, 26);
+        }
+
+        img.adaptive {
+            width: 30%;
+            height: auto;
+        }
+
+     </style>
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-64202401-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+
+</head>
+
+<body class='main'> 
+ 
+    <div id="headerMenu" class="navbar"> 
+        
+        &nbsp;&nbsp;&nbsp; AI-HRI 2019 &nbsp;&nbsp;&nbsp; 
+
+            <a href="#home">&nbsp;&nbsp;  Home  &nbsp;&nbsp;  </a>  
+            <a href="#dates">&nbsp;&nbsp;  Dates  &nbsp;&nbsp;  </a>
+            <!-- a href="#speakers">&nbsp;&nbsp;  Invited speakers  &nbsp;&nbsp;  </a -->
+            <a href="#submission">&nbsp;&nbsp;  Submission &nbsp;&nbsp; </a> 
+            <!-- a href="#papers">&nbsp;&nbsp;  Papers &nbsp;&nbsp; </a --> 
+            <!-- a href="#program">&nbsp;&nbsp;  Program  &nbsp;&nbsp;  </a -->
+            <a href="#committee">&nbsp;&nbsp;  Organizers  &nbsp;&nbsp;  </a>
+  
+    </div>
+
+<div>
+    <br><br><br>
+    <center>
+    <img src="images/aaai.jpg" height="100" /> <br><br><br>
+    </center>
+</div>
+
+<div class="header">
+<center>    
+    <img class="adaptive" src="images/aihri_3_800w_darkbg.png" /> <br>
+        
+        <h1>Artificial Intelligence for Human-Robot Interaction</h1><br/><br/>
+        
+        <h2><a style="color: #CDCDA7; text-decoration: underline;" target="_blank" href="https://aaai.org/Symposia/Fall/fss19.php">AAAI Fall Symposium Series</a></h2><br/><br/>
+        <h3 style="color: #DDDDA7;">Arlington, Virginia USA, November 7-9, 2019</h3><br/>
+</center>
+</div>
+
+
+
+<div class="content">
+
+
+<p id="home">
+<br>
+
+<h2>Introduction</h2>
+
+<p>
+The past few years have seen rapid progress in the development of service robots. Universities and companies alike have launched major research efforts toward the deployment of ambitious systems designed to aid human operators performing a variety of tasks. These robots are intended to make those who may otherwise need to live in assisted care facilities more independent, to help workers perform their jobs, or simply to make life more convenient. Service robots provide a powerful platform on which to study Artificial Intelligence (AI) and Human-Robot Interaction (HRI) in the real world. Research sitting at the intersection of AI and HRI is crucial to the success of service robots if they are to fulfill their mission.
+
+<p>
+This symposium seeks to highlight research enabling robots to effectively interact with people autonomously while modeling, planning, and reasoning about the environment that the robot operates in and the tasks that it must perform. AI-HRI deals with the challenge of interacting with humans in environments that are relatively unstructured or which are structured around people rather than machines, as well as the possibility that the robot may need to interact naturally with people rather than through teach pendants, programming, or similar interfaces.
+</p>
+
+<h3>Topics</h3>
+
+<ul>
+<li>Architectures and systems supporting autonomous HRI
+<li>Interactive learning
+<li>Interactive dialog systems and natural language
+<li>Field studies, experimental, and empirical HRI
+<li>Tools for autonomous HRI
+<li>Design ethnography for service robots
+<li>Development, fielding, and experimentation for service robots
+<li>Physical human-robot interaction
+<li>Knowledge representation and reasoning to support human-robot interaction and robot tasking
+<li>Applications of autonomous service robots
+</ul>
+
+
+<h2>Format</h2>
+
+<p>
+In addition to oral and poster presentations of accepted papers, the
+symposium will include panel discussions, position talks, keynote 
+presentations, and a hack session with ample time for networking.
+</p>
+
+<p><b>SPEAKERS</b>: 
+Keynote talks will give different perspectives on AI-HRI and showcase recent advances towards humans interacting with robots on everyday tasks. Moderated discussions and debates will allow participants to engage in collaborative public discussion on controversial topics and issues of interest to the AI-HRI community.</p>
+
+<p><b>NETWORKING</b>: 
+A large part of this effort is to bring together a community of researchers, strengthen old connections, and build new ones. Ample time will be provided for networking and informal discussions.</p>
+
+
+<h2>Presentation and publication</h2>
+
+<p>
+All accepted full and short papers will be presented orally and published in the proceedings through Arxiv. Authors will be notified as to whether they have been assigned a “full-length” or “lightning” presentation slot. Authors assigned to full-length talks will be invited to participate in a panel discussion. Authors assigned to lightning talks will be invited to participate in a poster session.</p>
+
+
+
+<p id="dates">
+<br>
+
+
+<h2>Important dates</h2>
+
+
+<!-- span style="text-decoration: line-through; color: #aaaaaa;">July 17</span -->
+
+<p> Submission:  July 20, 2019.</p>
+
+<p> Notification:  August 10, 2019.</p>
+
+<!--p> Camera-ready version of Accepted Submissions: <span style="text-decoration: line-through; color: #aaaaaa;">August 29, 2019</span>.<br/>
+(To be collected into a technical report for the symposium attendees.)</p>
+
+<p> Registration deadline: September 15, 2019 (invited participants), October 13, 2019 (everyone).  -->
+
+<p> The symposium will be held on <b>November 7-9, 2019</b> 
+at the Westin Arlington Gateway in Arlington, Virginia, USA.</p>
+
+
+<p id="submission">
+<br>
+
+<h2>Submission Instructions</h2>
+
+<p>Authors may submit under one of three paper categories:
+
+<div class="framed">
+<ul>
+<li><b>Full papers (6-8 pages)</b> highlighting state-of-the-art HRI-oriented interacting learning research, HRI research focusing on the use of autonomous AI systems, or the implementation of AI systems in commercial HRI products.<br><br>
+
+<li><b>Short position papers (2-4 pages)</b> outlining new or controversial views on AI-HRI research or describing ongoing AI-oriented HRI research.<br><br>
+
+<!-- li><b>Tool papers (1-2 pages)</b> describing novel software, hardware, or datasets of interest to the AI-HRI community. </li -->
+</ul>
+</div>
+
+<p>In addition, philosophy and social science researchers are encouraged to submit short papers suggesting AI advances that would facilitate the design, implementation, or analysis of HRI studies.</p>
+
+<p>Industry professionals are encouraged to submit short papers suggesting AI advances that would facilitate the development, enhancement, or deployment of HRI technologies in the real world.</p>
+
+
+<p>Please see the <a style="background-color: white; border: 1px solid black; padding: 6px 6px 6px 6px;" href="http://www.aaai.org/Publications/Templates/AuthorKit18.zip">AAAI Author Kit</a> for paper templates to ensure that your submission has proper formatting.</p>
+
+
+<p style="font-weight: bold">Contributions may be submitted here:<br>
+<a style="background-color: white; border: 1px solid black; padding: 6px 6px 6px 6px;" href="https://easychair.org/conferences/?conf=fss19">https://easychair.org/conferences/?conf=fss19</a></p>
+
+
+
+<p id="speakers">
+<br>
+
+
+<!-- h2>Invited Keynote Speakers</h2>
+
+<div class="framed">
+<ul>
+
+<li> <b>Toward Robust Autonomy for Interactive Robotic Systems.</b> <br />Sonia Chernova.  </li>
+
+<li> <b> Learning Grounded Language For and From Interaction. </b> <br />Cynthia Matuszek. </li>
+
+<li> <b> Designing vs. Learning - Challenges in creating autonomy for social robots.</b> <br /> Dylan Glas. </li>
+
+<li> <b> From Soup to Nuts: Using a mix of AI, robotics, and empirical methods to improve HRI.</b> <br /> Greg Trafton. </li>
+
+</ul>
+
+</div -->
+
+<!--a href="invited_abstracts.html"> Abstracts of the invited talks. </a -->
+
+
+<p id="papers">
+<br>
+
+
+
+
+
+<!-- h2><a href="https://arxiv.org/html/1809.06606">Accepted Papers</a></h2>
+
+<p>
+<b>Balancing Efficiency and Coverage in Human-Robot Dialogue Collection <a href="https://arxiv.org/abs/1810.02017">PDF</a></b>.<br>
+Matthew Marge, Claire Bonial, Stephanie Lukin, Cory Hayes, Ashley Foots, Ron Artstein, Cassidy Henry, Kimberly Pollard, Carla Gordon, Felix Gervits, Anton Leuski, Susan Hill, Clare Voss and David Traum
+
+<p>
+<b>Multimodal Interactive Learning of Primitive Actions <a href="https://arxiv.org/abs/1810.00838">PDF</a></b>.<br>
+Tuan Do, Nikhil Krishnaswamy, Kyeongmin Rim and James Pustejovsky
+
+<p>
+<b>Apprenticeship Bootstrapping via Deep Learning with a Safety Net for UAV-UGV Interaction <a href="https://arxiv.org/abs/1810.04344">PDF</a></b>.<br>
+Hung Nguyen, Phi Vu Tran, Duy Tung Nguyen, Matthew Garratt, Kathryn Kasmarik, Michael Barlow, Sreenatha Anavatti and Hussein Abbass
+
+<p>
+<b>Deep HMResNet Model for Human Activity-Aware Robotic Systems <a href="https://arxiv.org/abs/1809.07624">PDF</a></b>.<br>
+Hazem Abdelkawy, Naouel Ayari, Abdelghani Chibani, Yacine Amirat and Ferhat Attal
+
+<p>
+<b>Cycle-of-Learning for Autonomous Systems from Human Interaction <a href="https://arxiv.org/abs/1808.09572">PDF</a></b>.<br>
+Nicholas Waytowich, Vinicius Goecks and Vernon Lawhern
+
+<p>
+<b>Towards a Unified Planner For Socially-Aware Navigation <a href="https://arxiv.org/abs/1810.00966">PDF</a></b>.<br>
+Santosh Balajee Banisetty and David Feil-Seifer
+
+<p>
+<b>Playing Pairs with Pepper <a href="https://arxiv.org/abs/1810.07593">PDF</a></b>.<br>
+Abdelrahman Yaseen and Katrin Lohan
+
+<p>
+<b>Using pupil diameter to measure Cognitive load <a href="https://arxiv.org/abs/1812.07653">PDF</a></b>.<br>
+Georgios Minadakis and Katrin Lohan
+
+<p>
+<b>BubbleTouch: A Quasi-Static Tactile Skin Simulator <a href="https://arxiv.org/abs/1809.09153">PDF</a> </b>.<br>
+Brayden Hollis, Stacy Patterson, Jinda Cui and Jeff Trinkle
+
+<p>
+<b>Interaction and Autonomy in RoboCup@Home and Building-Wide Intelligence <a href="https://arxiv.org/abs/1810.02919">PDF</a> </b>.<br>
+Justin Hart, Harel Yedidsion, Yuqian Jiang, Nick Walker, Rishi Shah, Jesse Thomason, Aishwarya Padmakumar, Rolando Fernandez, Jivko Sinapov, Raymond Mooney and Peter Stone
+
+<p>
+<b>Adaptive Grasp Control through Multi-Modal Interactions for Assistive Prosthetic Devices <a href="http://ai-hri.github.io">PDF</a> </b>.<br>
+Michelle Esponda and Thomas Howard
+
+<p>
+<b>Towards Online Learning from Corrective Demonstrations <a href="https://arxiv.org/abs/1810.01036">PDF</a> </b>.<br>
+Reymundo Gutierrez, Elaine Short, Scott Niekum and Andrea Thomaz
+
+
+</div !-->
+
+
+<p id="program">
+<br>
+
+<!-- h2>Program</h2>
+
+<div class="program">
+
+<h3>Day 1: Thursday, October 18, 2018</h3>
+
+<table border=1>
+<tr><td width=140>09:00 – 09:15</td>  <td> <font color="#4040A0"> Introduction and Announcements</font> </td> </tr>
+<tr><td>09:15 – 10:15</td>  <td> <font color="#4040A0"> Invited Speaker: Sonia Chernova (Toward Robust Autonomy for Interactive Robotic Systems)</font> </td> </tr>
+<tr><td>10:15 – 10:30</td>  <td>   <font color="#4040A0"> Breakout Session: Topics and Team-ups </font> </td> </tr>
+<tr><td>10:30 – 11:00</td>  <td>    <font color="#A04040">Coffee Break</font> </td> </tr>
+<tr><td>11:00 – 12:20</td>  <td>   <font color="#4040A0">  Paper Presentations </font><br /> <br />
+<b>Balancing Efficiency and Coverage in Human-Robot Dialogue Collection </b><br />
+Matthew Marge, Claire Bonial, Stephanie Lukin, Cory Hayes, Ashley Foots, Ron Artstein, Cassidy Henry,
+Kimberly Pollard, Carla Gordon, Felix Gervits, Anton Leuski, Susan Hill, Clare Voss and David Traum <br /> <br />
+
+<b>Interaction and Autonomy in RoboCup@Home and Building-Wide Intelligence</b> <br />
+Justin Hart, Harel Yedidsion, Yuqian Jiang, Nick Walker, Rishi Shah, Jesse Thomason, 
+Aishwarya Padmakumar, Rolando Fernandez, Jivko Sinapov, Raymond Mooney and Peter Stone <br /> <br />
+
+<b>Towards a Unified Planner For Socially-Aware Navigation</b><br />
+Santosh Balajee Banisetty and David Feil-Seifer  <br /> <br />
+
+<b>Cycle-of-Learning for Autonomous Systems from Human Interaction</b> <br /> 
+Nicholas Waytowich, Vinicius Goecks and Vernon Lawhern </td> </tr>
+<tr><td>12:20 – 14:00</td>  <td>    <font color="#A04040">Lunch</font></td> </tr>
+<tr><td>14:00 – 15:00</td>  <td>   <font color="#4040A0"> Invited Speaker: Cynthia Matuszek (Learning Grounded Language For and From Interaction)</font> </td> </tr>
+<tr><td>15:00 – 15:30</td>  <td>  <font color="#4040A0">   Short Paper Presentations  </font>   <br /> <br />
+<b>Playing Pairs with Pepper</b> <br />
+Abdelrahman Yaseen and Katrin Lohan <br /> <br />
+
+<b>BubbleTouch: A Quasi-Static Tactile Skin Simulator</b> <br />
+Brayden Hollis, Stacy Patterson, Jinda Cui and Jeff Trinkle </td> </tr>
+<tr><td>15:30 – 16:00</td>  <td>  <font color="#A04040">  Coffee Break</font>  </td> </tr>
+<tr><td>16:00 – 17:00</td>  <td> <font color="#4040A0"> Breakout Session </font> </td> </tr>
+<tr><td>17:00 – 17:30</td>  <td> <font color="#4040A0"> Breakout Session: Discussion </font> </td> </tr>
+<tr><td>18:00 – 19:00</td>  <td>   <font color="#A04040"> Reception </font> </td> </tr>
+</table>
+
+
+
+<h3>Day 2: Friday, October 19, 2018</h3>
+
+<table border=1>
+
+<tr><td width=140>09:00 – 09:15</td>  <td> <font color="#4040A0">  Announcements</font> </td></tr>
+<tr><td width=140>09:15 – 10:15</td>  <td> <font color="#4040A0">  Invited Talk: Dylan Glas (Challenges in creating autonomy for social robots)</font> </td></tr>
+
+<tr><td>10:15 – 10:30</td>  <td>   <font color="#4040A0"> Breakout Session: Topics and Team-ups </font> </td> </tr>
+<tr><td>10:30 – 11:00</td>  <td>    <font color="#A04040">Coffee Break</font> </td> </tr>
+<tr><td>11:00 – 12:20</td>  <td>   <font color="#4040A0">  Paper Presentations </font><br /> <br />
+<b>Adaptive Grasp Control through Multi-Modal Interactions for Assistive Prosthetic Devices</b> <br /> 
+Michelle Esponda and Thomas Howard <br /> <br />
+
+<b>Deep HMResNet Model for Human Activity-Aware Robotic Systems</b> <br />
+Hazem Abdelkawy, Naouel Ayari, Abdelghani Chibani, Yacine Amirat and Ferhat Attal <br /> <br />
+
+<b>Apprenticeship Bootstrapping via Deep Learning with a Safety Net for UAV-UGV Interaction </b><br /> 
+Hung Nguyen, Phi Vu Tran, Duy Tung Nguyen, Matthew Garratt, Kathryn Kasmarik, Michael Barlow, Sreenatha Anavatti and Hussein Abbass <br /> <br />
+
+<b>Multimodal Interactive Learning of Primitive Actions </b><br />
+Tuan Do, Nikhil Krishnaswamy, Kyeongmin Rim and James Pustejovsky </td> </tr>
+<tr><td>12:20 – 14:00</td>  <td>    <font color="#A04040">Lunch</font></td> </tr>
+<tr><td>14:00 – 15:00</td>  <td>   <font color="#4040A0"> Invited Speaker: Greg Trafton (From Soup to Nuts: Using a mix of AI, robotics, and empirical methods to
+improve HRI)</font> </td> </tr>
+<tr><td>15:00 – 15:20</td>  <td>   <font color="#4040A0">  Paper Presentation </font><br /> <br />
+<b>Towards Online Learning from Corrective Demonstrations </b><br />
+Reymundo Gutierrez, Elaine Short, Scott Niekum and Andrea Thomaz </td> </tr>
+<tr><td>15:20 – 15:30</td>  <td>  <font color="#4040A0">   Short Paper Presentation  </font>   <br /> <br />
+<b>Using pupil diameter to measure Cognitive load </b><br />
+Georgios Minadakis and Katrin Lohan </td> </tr>
+<tr><td>15:30 – 16:00</td>  <td>  <font color="#A04040">  Coffee Break</font>  </td> </tr>
+<tr><td>16:00 – 17:00</td>  <td> <font color="#4040A0"> Breakout Session </font> </td> </tr>
+<tr><td>17:00 – 17:30</td>  <td> <font color="#4040A0"> Breakout Session: Discussion </font> </td> </tr>
+<tr><td>18:00 – 19:00</td>  <td>   <font color="#A04040"> Plenary Session </font> </td> </tr>
+</table>
+
+
+<h3>Saturday, October 20, 2018 (Half Day)</h3>
+
+<table border=1>
+<tr><td width=140>09:00–10:30</td>  <td> <font color="#4040A0">Tech Talks </font>   <br>
+<b>Turn-taking Simulator</b><br />Nick DePalma  <br /> <br />
+<b>Semio: Software for Social Robots</b><br />Ross Mead  </ td></tr>
+
+<tr><td>10:30–11:00</td>  <td>    <font color="#A04040">Coffee Break</font> </td> </tr>
+
+<tr><td>11:00–12:00</td>  <td> <font color="#4040A0"> Future Directions and Discussion </font> </td></tr>
+<tr><td>12:00–12:30</td>  <td> <font color="#4040A0">    Wrap-Up/Closing Remarks </font> </td> </tr>
+</table>
+
+</div -->
+
+
+
+<!--<p><b>The schedule of Lightning Research Talks is available <a href="https://dl.dropboxusercontent.com/u/17178057/AI-HRI%20AAAI%20FS14%20Lightning%20Schedule.pdf">here</a>.</b><br></p>-->
+
+
+
+<p id="committee">
+
+
+<h2>Organizing Committee</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- p>Kalesha Bullard (<a href="mailto:ksbullard@gatech.edu">Georgia Institute of Technology</a>)</p-->
+<p>Justin W. Hart (UT Austin)
+<p>Nick DePalma (<!--a href="mailto:n.depalma@samsung.com"-->Samsung Research of America</a>)
+<p>Richard G. Freedman (Smart Information Flow Technologies and UMass Amhers)
+<p>Luca Iocchi (<!--a href="mailto:iocchi@diag.uniroma1.it"-->Sapienza University of Rome</a>)
+<p>Matteo Leonetti (University of Leeds)
+<p>Katrin Lohan (<!--a href="mailto:K.Lohan@hw.ac.uk"-->Heriot-Watt University</a>)
+<p>Ross Mead (<!--a href="mailto:ross@semio.ai"-->Semio</a>)
+<p>Emmanuel Senft (<!--a href="mailto:emmanuel.senft@plymouth.ac.uk"-->Plymouth University</a>)
+<p>Jivko Sinapov (Tufts University)
+<p>Elin A. Topp (Lund University) 
+<!-- p>Tom Williams (<a href="mailto:twilliams@mines.edu">Colorado School of Mines</a>)</p -->
+
+
+
+        <!-- TYPEKIT -->
+<!-- LI: what is this?
+        <script type="text/javascript" src="//use.typekit.net/ajf8ggy.js"></script>
+        <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+        <script src="https://rawgithub.com/ccampbell/rainbow/master/js/rainbow.min.js"></script>
+        <script src="https://rawgithub.com/ccampbell/rainbow/master/js/language/generic.js"></script>
+-->
+
+    </div>
+
+<div id="past_aihri_links">Prior Symposia: &nbsp;&nbsp;&nbsp;
+    <a href="../2014/">AI-HRI 2014</a>  &nbsp;&nbsp;&nbsp;
+    <a href="../2015/">AI-HRI 2015</a>  &nbsp;&nbsp;&nbsp;
+    <a href="../2016/">AI-HRI 2016</a>  &nbsp;&nbsp;&nbsp;
+    <a href="../2017/">AI-HRI 2017</a>  &nbsp;&nbsp;&nbsp;
+    <a href="../2018/">AI-HRI 2018</a>
+</div>
+
+</body>
+</html>
+
+
