@@ -23,6 +23,13 @@
 
 # Use -r or --recursive to process nested folders.
 
+
+## Sources:
+##  https://stackoverflow.com/questions/3785055/how-can-i-create-a-simple-index-html-file-which-lists-all-files-directories
+## https://gist.github.com/glowinthedark/625eb4caeca12c5aa52778a3b4b0adb4
+
+
+
 import argparse
 import datetime
 import os
