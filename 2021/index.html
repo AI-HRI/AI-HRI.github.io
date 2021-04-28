@@ -1,0 +1,752 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>AI-HRI</title>
+    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
+
+    <!-- Some custom styles to make things pretty. -->
+    <link rel="stylesheet" type="text/css" href="https://rawgithub.com/tilomitra/prettypages/gh-pages/ui.css">
+
+
+
+    <!-- Modify header colors here to customize the look and feel of the site-->
+    <style>
+
+        .header {
+            background: rgb(0, 60, 120);
+         }
+        .header h1 {
+            font-size:200%;
+            color: white;
+        }
+        .header h2, .header h3 {
+            font-weight:300;
+            margin:0;
+            color: #6DF7BD;
+        }
+
+        #past_aihri_links {
+            font-size: 120%;
+            background: rgb(18, 15, 66);
+            color: white;
+            padding: 10px 0px 10px 0px;
+            text-align: center;
+        }
+        #past_aihri_links a {
+            color: white;
+            text-decoration: underline;
+        }
+        #past_aihri_links a:hover {
+            font-weight: bold;
+        }
+
+        div.framed {
+            padding-top: 15px;
+            padding-bottom: 15px;
+            font-size: 16px;
+            border-bottom: 2px solid black;
+            border-top: 2px solid black;
+        }
+
+        div.framed li {
+            font-size: 18px;
+        }
+
+        div.program {
+            font-size: 16px;
+        }
+
+        .main {
+            margin-top: 30px; /* Add a top margin to avoid content overlay */
+            margin-left: 40px;
+            margin-right: 40px;
+        }
+
+        .navbar {
+            //overflow: hidden;
+            //background-color: rgb(18, 15, 66);
+            position: fixed; /* Set the navbar to fixed position */
+            top: 0px; /* Position the navbar at the top of the page */
+            left: 40px; // width: 100%; /* Full width */
+            right: 40px; // width: 100%; /* Full width */
+            font-size: 135%;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            padding-left: 10px;
+            padding-right: 50px;
+            //background-clip: content-box;
+            box-shadow: inset 0 0 0 50px rgb(18, 15, 66);
+
+        }
+
+        .navbar a {
+            background: rgb(18, 15, 66);
+        }
+
+        .navbar a:hover {
+            font-weight: bold;
+            background: rgb(18, 15, 66);
+            box-shadow: inset 0 0 0 50px rgb(18, 15, 66);
+        }
+
+        img.adaptive {
+            width: 30%;
+            height: auto;
+        }
+
+     </style>
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-64202401-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+
+</head>
+
+<body class='main'>
+
+    <div id="headerMenu" class="navbar">
+
+        &nbsp;&nbsp;&nbsp; AI-HRI 2021 &nbsp;&nbsp;&nbsp;
+
+            <a href="#home">&nbsp;&nbsp;  Home  &nbsp;&nbsp;  </a>
+            <a href="#dates">&nbsp;&nbsp;  Dates & Submission  &nbsp;&nbsp;  </a>
+            <!-- a href="#submission">&nbsp;&nbsp;  Submission &nbsp;&nbsp; </a -->
+            <a href="#diversity">&nbsp;&nbsp;  Diversity & Inclusion  &nbsp;&nbsp;  </a>
+            <!-- a href="#papers">&nbsp;&nbsp;  Papers &nbsp;&nbsp; </a -->
+            <a href="#program">&nbsp;&nbsp;  Program  &nbsp;&nbsp;  </a>
+            <a href="#committee">&nbsp;&nbsp;  Organizers  &nbsp;&nbsp;  </a>
+
+    </div>
+
+<div>
+    <br><br><br>
+    <center>
+    <img src="images/aaai.jpg" height="100" /> <br><br><br>
+    </center>
+</div>
+
+<div class="header">
+<center>
+    <img class="adaptive" src="images/aihri_3_800w_darkbg.png" /> <br>
+
+        <h1>Artificial Intelligence for Human-Robot Interaction <br></h1><br/><br/>
+
+        <h2><a style="color: #CDCDA7; text-decoration: underline;" target="_blank" href="https://aaai.org/Symposia/Fall/fss21.php">AAAI Fall Symposium Series</a></h2><br/><br/>
+        <h3 style="color: #DDDDA7;">Washington, DC, November 4-6, 2021</h3><br/>
+        <h3 style="color: #DDDDA7;">At the Westin Arlington Gateway in Arlington, Virginia, USA.</h3><br/>
+</center>
+</div>
+
+
+
+<div class="content">
+
+
+<p id="home">
+
+
+<h2>Introduction</h2>
+
+<p>
+The Artificial Intelligence (AI) for Human-Robot Interaction (HRI) Symposium has been a successful venue of discussion and collaboration since 2014. During that time, these symposia provided a fertile ground for numerous collaborations and pioneered many discussions revolving trust in HRI, XAI for HRI, service robots, interactive learning, and more. This year, we aim to review the achievements of the AI-HRI community in the last decade, identify the challenges facing ahead, and welcome new researchers who wish to take part in this growing community.</p>
+<p>
+Taking this wide perspective, this year there will be no single theme to lead the symposium and <b>we encourage AI-HRI submissions from across disciplines and research interests.</b>
+Moreover, with the rising interest in AR and VR as part of an interaction and following the difficulties in running physical experiments during the pandemic, this year we specifically encourage researchers to submit works that do not include a physical robot in their evaluation, but promote HRI research in general. In addition, acknowledging that ethics is an inherent part of the human-robot interaction, we encourage submissions of works on ethics for HRI.</p><p>
+Over the course of the two-day meeting, we will host a collaborative
+ forum for discussion of current efforts in AI-HRI, with additional talks focused on the topics of ethics in HRI and ubiquitous HRI.
+</p>
+
+<h3>Topics</h3>
+
+<ul>
+<li>Ubiquitous HRI, including AR and VR
+<li>Ethics in HRI
+<li>Trust and Explainability in HRI
+<li>Architectures and systems supporting autonomous HRI
+<li>Interactive task learning
+<li>Interactive dialog systems and natural language
+<li>Field studies, experimental, and empirical HRI
+<li>Tools for autonomous HRI
+<li>Robot planning and decision-making
+<li>Ethics in HRI
+<li>AI for social robots
+<li>Fielding and deployment, and experimentation for autonomous robots
+<li>Knowledge representation and reasoning to support HRI and robot tasking
+</ul>
+
+
+<!--<h2>Format</h2>
+
+<p>
+In addition to oral and poster presentations of accepted papers, the
+symposium will include panel discussions, position talks, keynote
+presentations, and a hack session with ample time for networking.
+</p>
+
+<p><b>SPEAKERS</b>:
+Keynote talks will give different perspectives on AI-HRI and showcase recent advances towards humans interacting with robots on everyday tasks. Moderated discussions and debates will allow participants to engage in collaborative public discussion on controversial topics and issues of interest to the AI-HRI community.</p>
+
+<p><b>NETWORKING</b>:
+A large part of this effort is to bring together a community of researchers, strengthen old connections, and build new ones. Ample time will be provided for networking and informal discussions.</p>-->
+
+
+<h2>Presentation and publication</h2>
+
+<p>
+All accepted full and short papers will be presented orally and published in the proceedings through <a href=https://arxiv.org/>arXiv</a>.
+Authors will be notified as to whether they have been assigned a “full-length” or “lightning” presentation slot. Authors will be notified as to whether they have been assigned a “full-length” or “lightning” presentation slot.
+Authors assigned to lightning talks will be invited to participate in a poster session.
+</p>
+
+
+
+<p id="dates">
+
+<h2>Important dates</h2>
+
+
+<!-- span style="text-decoration: line-through; color: #aaaaaa;">July 17</span -->
+
+<p> Submission:  July 22, 2021</p>
+
+<p> Notification of acceptance:   August 19, 2021</p>
+
+<!--p> Camera-ready version of Accepted Submissions: <span style="text-decoration: line-through; color: #aaaaaa;">August 29, 2019</span>.<br/>
+(To be collected into a technical report for the symposium attendees.)</p>
+
+<p> Registration deadline: September 15, 2019 (invited participants), October 13, 2019 (everyone).  -->
+
+<p> The symposium will be held on <b>November 4-6, 2021</b>.</p>
+<p> Please <a href="mailto:ai4hri@gmail.com">contact us</a> if you require additional time to submit your contribution or have any questions.</p>
+
+
+
+
+
+<!--a href="invited_abstracts.html"> Abstracts of the invited talks. </a -->
+
+
+<p id="papers">
+
+
+<!-- h2><a href="https://arxiv.org/html/1809.06606">Accepted Papers</a></h2>
+
+<p>
+<b>Balancing Efficiency and Coverage in Human-Robot Dialogue Collection <a href="https://arxiv.org/abs/1810.02017">PDF</a></b>.<br>
+Matthew Marge, Claire Bonial, Stephanie Lukin, Cory Hayes, Ashley Foots, Ron Artstein, Cassidy Henry, Kimberly Pollard, Carla Gordon, Felix Gervits, Anton Leuski, Susan Hill, Clare Voss and David Traum
+
+<p>
+<b>Multimodal Interactive Learning of Primitive Actions <a href="https://arxiv.org/abs/1810.00838">PDF</a></b>.<br>
+Tuan Do, Nikhil Krishnaswamy, Kyeongmin Rim and James Pustejovsky
+
+
+
+</div !-->
+
+
+<p id="program">
+<br>
+
+<h2>Invited Speakers</h2>
+<!--
+<div class="framed">
+<ul>
+  <li> <a href="https://interactive.mit.edu/about/people/julie">Julie Shah</a> <br>
+  <font size=2>Julie Shah is an Associate Professor in the Department of Aeronautics and Astronautics at MIT and leads the Interactive Robotics Group of the Computer Science and Artificial Intelligence Laboratory. Shah received her SB (2004) and SM (2006) from the Department of Aeronautics and Astronautics at MIT, and her PhD (2010) in Autonomous Systems from MIT. Before joining the faculty, she worked at Boeing Research and Technology on robotics applications for aerospace manufacturing. She has developed innovative methods for enabling fluid human-robot teamwork in time-critical, safety-critical domains, ranging from manufacturing to surgery to space exploration. Her group draws on expertise in artificial intelligence, human factors, and systems engineering to develop interactive robots that emulate the qualities of effective human team members to improve the efficiency of human-robot teamwork. In 2014, Shah was recognized with an NSF CAREER award for her work on “Human-aware Autonomy for Team-oriented Environments," and by the MIT Technology Review TR35 list as one of the world’s top innovators under the age of 35. Her work on industrial human-robot collaboration was also recognized by the Technology Review as one of the 10 Breakthrough Technologies of 2013, and she has received international recognition in the form of best paper awards and nominations from the International Conference on Automated Planning and Scheduling, the American Institute of Aeronautics and Astronautics, the IEEE/ACM International Conference on Human-Robot Interaction, the International Symposium on Robotics, and the Human Factors and Ergonomics Society.
+ </li>
+
+  <li> <a href="https://www.uu.nl/staff/MMAdeGraaf">Maartje de Graaf</a> <br>
+    <font size=3><b>Talk Title:</b>  Moral Psychology in HRI <br>
+    <b>Abstract:</b>  Human society comprises a complex social system encompassing various types of relationships across nested social hierarchies, all structured by rights, rules, and obligations. Robots performing social roles meet the challenge to successfully function in these social systems. In my talk, I will present results of two studies focusing on social norm violation, blame assignment, trust assessment, and social response. These results reveal our expectations of robots regarding human social norms and offer some suggestions for how robots could deal with these expectations. <br>
+    <font size=2>Maartje de Graaf is a communication scientist in the multidisciplinary field of human-robot interaction. Her research is driven by her intrinsic motivation to understand human behavior and its underlying psychological and cognitive processes. Since technologies are increasingly endowed with complex and humanlike interfaces and are becoming technically feasible for real-world applications, everyday living is transformed in unprecedented ways. To deal with this potentially radical transformation, De Graaf’s research gains detailed insights into the scope and limits of people’s humanlike treatment of robots on a social, emotional and cognitive level. This knowledge reveals to what extent we regard robots as social beings, which has profound ethical and societal implications for our interactions with these systems. De Graaf aims to document the social context of robot use, contribute to design considerations and policy recommendations about the future standing of robots in society, and inform developers how to design and practitioners how to integrate socially acceptable robot applications that benefit society. <br>
+    Maartje de Graaf is an Assistant Professor of Information and Computing Science at the University of Utrecht. In the past, she has worked as a Postdoctoral Research Associate at Brown University’s Humanity Centered Robotics Initiative with a 2-year Rubicon grant from the Netherlands Organization for Scientific Research (NWO). She has a Bachelor of Business Administration in Communication Management (2005), a Master of Science in Media Communication (2011), and a PhD in Communication Science and Human-Robot Interaction (2015).  Her website is <a href="https://robonarratives.wordpress.com">here</a>.
+  </li>
+
+  <li> <a href="https://vivo.brown.edu/display/bmalle">Bertram F. Malle</a> <br>
+    <font size=3><b>Talk Title:</b>  How Trust and Explainability are Related: A Multi-Dimensional Framework <br>
+    <font size=2>Bertram F. Malle is Professor of Cognitive, Linguistic, and Psychological Sciences at Brown University, where he is also Co-Director of the Humanity-Centered Robotics Initiative.  He was trained in psychology, philosophy, and linguistics at the University of Graz, Austria, and received his Ph.D. in psychology from Stanford University in 1995.  He received the Society of Experimental Social Psychology Outstanding Dissertation award, a National Science Foundation  CAREER award, and is co-recipient of the 2019 Scientific Impact Award of the Society of Experimental Social Psychology. He is past president of the Society of Philosophy and Psychology and a Fellow of the Society for Experimental Social Psychology, the Association of Psychological Science, and the Society for Personality and Social Psychology. Malle’s research, which has been funded by the NSF, Army, Templeton Foundation, Office of Naval Research, and DARPA, focuses on social cognition (e.g., mental state inferences, behavior explanations), moral psychology (e.g., blame, guilt, norms, trust), and human-robot interaction (e.g., morally competent robots, socially assistive robots). He has distributed his work in over 150 scientific publications and several books.  His lab page is <a href="http://research.clps.brown.edu/SocCogSci">here</a>.
+  </li>
+</ul>
+
+</div>
+-->
+
+<h2>Program</h2>
+
+<!--<a <a style="background-color: cyan; border: 1px solid black; padding: 6px 6px 6px 6px;" href="2019AI-HRI_Schedule.pdf">Detailed PDF version</a>-->
+Please find the schedule below.  All times listed are in Eastern Time (GMT-5).  Full-length talks are 15 minutes and short "poster" talks are 5 minutes (not including questions).<br>
+<!--<h3>Full Papers can be found in the <a href="https://arxiv.org/abs/2010.13830">arXiv proceedings</a> or in the  <a href="http://ai-hri.github.io/2020/papers/">local proceedings</a>.</h3>
+Please reach out to the authors with any questions or if their paper is not available. -->
+<br><br>
+
+<h3>Thursday, November 4</h3>
+<div class="program">
+
+<table border=1>
+<tr><td width=140>10:00 ET</td>
+<td> Welcome & Logistics
+<br> </td>
+<tr><td width=140>10:15</td>
+<td> <b>Invited Talk</b>
+<br> </td>
+<tr><td width=140>Session 1<br>11:00<br>11:15<br>11:30</td>
+  
+  <td> <font color="#000000" size=2>
+  <!--
+  Helpfulness as a Key Metric of Human-Robot Collaboration [<a href="https://arxiv.org/pdf/2010.04914">pdf</a>] <br>
+  Richard Freedman, Steven Levine, Brian Williams, and Shlomo Zilberstein
+  <br><br>
+  Supporting User Autonomy with Multimodal Fusion to Detect when a User Needs Assistance from a Social Robot [<a href="https://arxiv.org/abs/2012.04078">pdf</a>] <br>
+  Alex Reneau and Jason Wilson
+  <br><br>
+  Human-Supervised Semi-Autonomous Mobile Manipulators for Safely and Efficiently Executing Machine Tending Tasks [<a href="https://arxiv.org/pdf/2010.04899">pdf</a>] <br>
+  Sarah Al-Hussaini, Shantanu Thakar, Hyojeong Kim, Pradeep Rajendran, Brual Shah, Alec Kanyuck, Jeremy Marvel, and Satyandra K. Gupta
+  <br>
+  -->
+</font></td>
+<tr><td width=140>11:45</td>
+<td> Author discussions (Session 1)
+<br> </td>
+<tr><td width=140>12:00</td>
+<td><br> Lunch
+<br><br> </td>
+<tr><td width=140>12:30</td>
+<td> <b>Invited Talk:  Bertram Malle</b>
+<br> </td>
+<tr><td width=140>13:15</td>
+<td> Breakout Session
+<br> </td>
+<tr><td width=140>Session 2<br>13:45</td>
+  <td> <font color="#000000" size=2>
+  <!--
+  Towards Using Social HRI for Improving Children's Healthcare Experiences [<a href="http://arxiv.org/pdf/2010.04652">pdf</a>]<br>
+  Mary Ellen Foster and Ron Petrick
+  <br><br>
+  Face-work for Human-Agent Joint Decision Making [<a href="http://arxiv.org/pdf/2011.01969">pdf</a>]<br>
+  JiHyun Jeong and Guy Hoffman
+  <br><br>
+  Stroke Modeling and Synthesis for Robotic and Virtual Patient Simulators [<a href="http://ai-hri.github.io/2020/papers/AI_HRI_2020__Stroke_Synthesis___Maryam_Pourebadi.pdf">pdf</a>]<br>
+  Maryam Pourebadi and Laurel D. Riek
+  <br>
+  -->
+  </font></td>
+<tr><td width=140>14:00</td>
+<td> Author discussions (Session 2)
+<br> </td>
+<tr><td width=140>14:15</td>
+<td><br> Break
+<br><br> </td>
+<tr><td width=140>Session 3<br>14:30<br>14:45<br>15:00</td>
+  <td> <font color="#000000" size=2>
+  <!--
+  Impact of Explanation on Trust of an Novel Mobile Robot [<a href="http://ai-hri.github.io/2020/papers/Cozmo_In_Person_AAAI_Fall_Symposium_2020-5.pdf">pdf</a>]<br>
+  Stephanie Rosenthal and Elizabeth Carter
+  <br><br>
+  Towards a Policy-as-a-Service Framework to Enable Compliant, Trustworthy AI and HRI Systems in the Wild [<a href="http://arxiv.org/pdf/2010.07022">pdf</a>] <br>
+  Alexis Morris, Hallie Siegel, and Jonathan Kelly
+  <br><br>
+  Towards a Conversational Measure of Trust [<a href="http://arxiv.org/pdf/2010.04885">pdf</a>]<br>
+  Mengyao Li, Areen Alsaid, Sofia Noejovich, Ernest Cross, and John Lee
+  <br><br>
+  Explainable Representations of the Social State: A Model for Social Human-Robot Interactions [<a href="http://arxiv.org/pdf/2010.04570">pdf</a>] <br>
+  Daniel Hernandez Garcia, Yanchao Yu, Weronika Sieinska, Jose Part, Nancie Gunson, Oliver Lemon, and Christian Dondrup
+  <br>
+  -->
+  </font></td>
+<tr><td width=140>15:15</td>
+<td> Breakout Session
+<br> </td>
+<tr><td width=140>15:45</td>
+<td> Author Discussion (Session 3)
+<br> </td>
+<tr><td width=140>16:00</td>
+<td><br> End
+<br><br> </td>
+</table>
+
+
+  <h3>Friday, November 5</h3>
+  <div class="program">
+
+  <table border=1>
+  <tr><td width=140>10:00 ET</td>
+  <td> <b>Invited Talk</b>
+  <br> </td>
+  <tr><td width=140>Session 4<br>10:45<br>11:00<br>11:15</td>
+    <td> <font color="#000000" size=2>
+	<!--
+    Axiom Learning and Belief Tracing for Transparent Decision Making in Robotics [<a href="http://arxiv.org/pdf/2010.10645">pdf</a>]<br>
+    Tiago Mota and Mohan Sridharan
+    <br><br>
+    Integrating Intrinsic and Extrinsic Explainability: The Relevance of Understanding Neural Networks for Human-Robot Interaction [<a href="http://arxiv.org/pdf/2010.04602">pdf</a>]<br>
+    Tom Weber and Stefan Wermter
+    <br><br>
+    A Knowledge Driven Approach to Adaptive Assistance Using Preference Reasoning and Explanation [<a href="https://arxiv.org/abs/2012.02904">pdf</a>]<br>
+    Jason Wilson, Leilani Gilpin, and Irina Rabkina
+    <br>
+	-->
+  </font></td>
+  <tr><td width=140>11:30</td>
+  <td> Author discussions (Session 4)
+  <br> </td>
+  <tr><td width=140>11:45</td>
+  <td><br> Lunch
+  <br><br> </td>
+  <tr><td width=140>12:30</td>
+  <td> Invited Speaker Panel
+  <br> </td>
+  <tr><td width=140>Session 5<br>13:00<br>13:15 (3 short)</td>
+    <td>  <font color="#000000" size=2>
+    
+	<!--
+	Projection Mapping Implementation: Enabling Direct Externalization of Perception Results and Action Intent to Improve Robot Explainability [<a href="http://arxiv.org/pdf/2010.02263">pdf</a>]<br>
+    Zhao Han, Alexander Wilkinson, Jenna Parrillo, Jordan Allspaw, and Holly Yanco
+    <br><br>
+    Modeling Human Temporal Uncertainty in Human-Agent Teams [<a href="http://arxiv.org/pdf/2010.04849">pdf</a>]<br>
+    Maya Abo Dominguez, William La, and Jim Boerkoel
+    <br><br>
+    Towards Preference Learning For Autonomous Ground Robot Navigation Tasks [<a href="http://arxiv.org/pdf/2010.16361">pdf</a>]<br>
+    Cory Hayes and Matthew Marge
+    <br><br>
+    Self-supervised reinforcement learning for speaker localisation with the iCubhumanoid robot [<a href="http://ai-hri.github.io/2020/papers/FSS-20_paper_18.pdf">pdf</a>]<br>
+    Jonas Gonzalez Billandon, Lukas Grasse, Matthew Tata, Alessandra Sciutti, and Francesco Rea
+    <br>
+	-->
+    </font></td>
+  <tr><td width=140>13:30</td>
+  <td> Author discussions (Session 5)
+  <br> </td>
+  <tr><td width=140>13:45</td>
+  <td><br> Break
+  <br><br> </td>
+  <tr><td width=140>Session 6<br>14:15<br>14:30<br>14:45 (2 short)</td>
+  <td>  <font color="#000000" size=2>
+    <!--
+	A JavaScript Framework for Crowdsourced Human-Robot Interaction Experiments: RemoteHRI [<a href="http://ai-hri.github.io/2020/papers/LauGopinathArgall_AAAI2020_FallSymposia_RemoteHRI_FinalVersion.pdf">pdf</a>]<br>
+    Finley Lau, Deepak Gopinath, and Brenna Argall
+    <br><br>
+    Accelerating the Development of Multimodal, Integrative-AI Systems with Platform for Situated Intelligence [<a href="http://arxiv.org/pdf/2010.06084">pdf</a>]<br>
+    Sean Andrist and Dan Bohus
+    <br><br>
+    HAVEN: A Unity-based Virtual Robot Environment to Showcase HRI-based Augmented Reality [<a href="http://arxiv.org/pdf/2011.03464">pdf</a>]<br>
+    Andre Cleaver, Darren Tang, Victoria Chen, and Jivko Sinapov
+    <br><br>
+    SENSAR: A Shared Reality with Intelligent Robots for Collaborative Human-Robot Interaction [<a href="http://arxiv.org/pdf/2011.04515">pdf</a>]<br>
+    Andre Cleaver, Faizan Muhammad, Amel Hassan, Elaine Short, and Jivko Sinapov
+    <br>
+	-->
+    </font></td>
+  <tr><td width=140>15:00</td>
+  <td> Group discussion - next steps
+  <br> </td>
+  <tr><td width=140>15:15</td>
+  <td>   Author discussions (Session 6)
+  <br> </td>
+  <tr><td width=140>15:30</td>
+  <td><br> End
+  <br><br> </td>
+  </table>
+
+
+
+<!--<h3>Day 1: Thursday, November 7, 2019</h3>
+
+<table border=1>
+<tr><td width=140>09:00 – 09:15</td>  <td> <font color="#4040A0"> Introduction and Announcements</font> </td> </tr>
+<tr><td>09:15 – 10:15</td>  <td> <font color="#4040A0"> Invited Speaker: Michael Gleicher</font> </td> </tr>
+<tr><td>10:15 – 10:30</td>  <td>   <font color="#4040A0"> Breakout Session: Topics and Team-ups </font> </td> </tr>
+<tr><td>10:30 – 11:00</td>  <td>    <font color="#A04040">Coffee Break</font> </td> </tr>
+<tr><td>11:00 – 12:30</td>  <td>   <font color="#4040A0">  Long Paper Presentations
+</font>
+<font color="#000000" size=2>
+<br><br>
+Towards A Robot Explanation System: A Survey and Our Approach to State Summarization, Storage and Querying, and Human Interface<br>
+Zhao Han, Jordan Allspaw, Adam Norton, and Holly Yanco
+<br><br>
+Petri Net Machines for Human-Agent Interaction<br>
+Christian Dondrup, Ioannis Papaioannou, and Oliver Lemon
+<br><br>
+Language-guided Adaptive Perception with Hierarchical Symbolic Representations for Mobile Manipulators<br>
+Ethan Fahnestock, Siddharth Patki, and Thomas Howard
+<br><br>
+Four-Arm Manipulation via Feet Interfaces<br>
+Jacob Hernandez, Walid Amanhoud, Anaïs Haget, Hannes Bleuler, Aude Billard, and Mohamed Bouri
+<br><br>
+Unclogging Our Arteries: Using Human-Inspired Signals to Disambiguate Navigational Intentions <br>
+Justin Hart, Reuth Mirsky, Stone Tejeda, Bonny Mahajan, Jamin Goo, Kathryn Baldauf, Sydney Owen and Peter Stone
+<br><br>
+Automated Production of Stylized Animations for Social Robots <br>
+Adrian Ball and Ross Mead
+</font>
+
+<tr><td>12:30 – 14:00</td>  <td>    <font color="#A04040">Lunch</font></td> </tr>
+<tr><td>14:00 – 15:00</td>  <td>   <font color="#4040A0"> Breakout session </font> </td> </tr>
+<tr><td>15:00 – 15:30</td>  <td>  <font color="#4040A0">   Lightning Talks </font>
+<font color="#000000" size=2>
+<br><br>
+A Research Platform for Multi-Robot Dialogue with Humans <br>
+Matthew Marge, Stephen Nogar, Cory Hayes, Stephanie Lukin, Jesse Bloecker, Eric Holder, and Clare Voss
+ <br><br>
+Fuzzy Knowledge-Based Architecture for Learning and Interaction in Social Robots <br>
+Mehdi Ghayoumi and Maryam Pourebadi
+ <br><br>
+Multimodal Dataset of Human-Robot Hugging Interaction <br>
+Kunal Bagewadi, Joseph Campbell, and Heni Ben Amor
+<br><br>
+Towards Development of Datasets for Human Action Understanding in Human-Robot Interaction <br>
+Megan Zimmerman and Shelly Bagchi
+ <br><br>
+Responsive Planning and Recognition for Closed-Loop Interaction <br>
+Richard Freedman, Yi Ren Fung, Roman Ganchin and Shlomo Zilberstein
+ <br><br>
+Adaptable Human Intention and Trajectory Prediction for Human-Robot Collaboration <br>
+Abulikemu Abuduweili, Siyan Li, and Changliu Liu
+</font>
+
+
+
+</td> </tr>
+<tr><td>15:30 – 16:00</td>  <td>  <font color="#A04040">  Coffee Break + <font color="#4040A0"> Poster Session</font>  </td> </tr>
+<tr><td>16:00 – 17:00</td>  <td> <font color="#4040A0"> Invited Speaker: Manuela Veloso </font> </td> </tr>
+<tr><td>17:00 – 17:30</td>  <td> <font color="#4040A0"> Poster Session </font> </td> </tr>
+<tr><td>18:00 – 19:00</td>  <td>   <font color="#A04040"> Reception </font> </td> </tr>
+</table>
+
+
+
+<h3>Day 2: Friday, November 8, 2019</h3>
+
+<table border=1>
+
+<tr><td width=140>09:00 – 09:15</td>  <td> <font color="#4040A0">  Announcements</font> </td></tr>
+<tr><td width=140>09:15 – 10:15</td>  <td> <font color="#4040A0">  Invited Speaker: Laura Hiatt</font> </td></tr>
+
+<tr><td>10:15 – 10:30</td>  <td>   <font color="#4040A0"> Breakout Session: Topics and Team-ups </font> </td> </tr>
+<tr><td>10:30 – 11:00</td>  <td>    <font color="#A04040">Coffee Break</font> </td> </tr>
+<tr><td>11:00 – 12:30</td>  <td>   <font color="#4040A0">  Long Paper Presentations </font>
+<font color="#000000" size=2>
+<br><br>
+Enabling Intuitive Human-Robot Teaming Using Augmented Reality and Gesture Control <br>
+Jason Gregory, Christopher Reardon, Kevin Lee, Geoffrey White, Ki Ng, and Caitlyn Sims
+ <br><br>
+Negotiation-based Human-Robot Collaboration via Augmented Reality <br>
+Kishan Chandan, Xiang Li, and Shiqi Zhang
+ <br><br>
+An Alert-Generation Framework for Improving Resiliency in Human-Supervised, Multi-Agent Teams <br>
+Sarah Al-Hussaini, Jason M. Gregory, Shaurya Shriyam, and Satyandra K. Gupta
+ <br><br>
+Trust and Cognitive Load During Human-Robot Interaction <br>
+Muneeb Ahmad, Jasmin Bernotat, Katrin Lohan, and Friederike Eyssel
+ <br><br>
+Towards an Adaptive Robot for Sports and Rehabilitation Coaching <br>
+Martin Ross, Frank Broz, and Lynne Baillie
+ <br><br>
+Selfie Drone Stick: A Natural Interface for Quadcopter Photography <br>
+Saif Alabachi, Gita Sukthankar, and Rahul Sukthankar
+</font>
+
+</td> </tr>
+<tr><td>12:30 – 14:00</td>  <td>    <font color="#A04040">Lunch</font></td> </tr>
+<tr><td>14:00 – 15:00</td>  <td>   <font color="#4040A0"> Invited Speaker: Matthew Marge </font> </td> </tr>
+<tr><td>15:00 – 15:30</td>  <td>   <font color="#4040A0">  Lightning Talks </font>
+<font color="#000000" size=2>
+<br><br>
+MAD-TN: A Tool for Measuring Fluency in Human-Robot Collaboration <br>
+Seth Issacson, Gretchen Rice, and James Boerkoel
+ <br><br>
+Building Second-Order Mental Models for Human-Robot Interaction <br>
+Connor Brooks and Daniel Szafir
+ <br><br>
+Commitments in Human-Robot Interaction <br>
+Victor Fernandez Castro, Aurelie Clodic, Rachid Alami, and Elisabeth Pacherie
+ <br><br>
+Developing Computational Models of Social Assistance to Guide Socially Assistive Robots <br>
+Jason Wilson, Seongsik Kim, Ulyana Kurylo, Joseph Cummings and Eshan Tarneja
+ <br><br>
+Towards Effective Human-AI Teams: The Case of Collaborative Packing <br>
+Gilwoo Lee, Christoforos Mavrogiannis and Siddhartha Srinivasa
+ <br><br>
+An Automated Vehicle like Me? The Impact of Personality Similarities and Differences between Humans and AVs <br>
+Qiaoning Zhang, Connor Esterwood, Xi Jessie Yang and Lionel Robert
+</font>
+ </td> </tr>
+<tr><td>15:30 – 16:00</td>  <td>  <font color="#A04040">  Coffee Break + <font color="#4040A0"> Poster Session</font>  </td> </tr>
+<tr><td>16:00 – 16:30</td>  <td> <font color="#4040A0"> Poster Session </font> </td> </tr>
+<tr><td>16:30 – 17:30</td>  <td> <font color="#4040A0"> Breakout Session </font> </td> </tr>
+<tr><td>18:00 – 19:30</td>  <td>   <font color="#A04040"> Plenary Session </font> </td> </tr>
+</table>
+
+
+<h3>Saturday, November 9, 2019</h3>
+
+<table border=1>
+
+<tr><td width=140>09:00 – 09:15</td>  <td> <font color="#4040A0">  Announcements</font> </td></tr>
+<tr><td width=140>09:15–10:00</td>  <td> <font color="#4040A0">Tech Talks </font>
+<font color="#000000" size=2>
+<br><br>
+Where is My Stuff? An Interactive System for Spatial Relations <br>
+Emrah Sisbot and Jonathan Connell
+ <br><br>
+Solving Service Robot Tasks: UT Austin Villa@Home 2019 Team Report <br>
+Rishi Shah, Yuqian Jiang, Haresh Karnan, Gilberto Briscoe-Martinez, Dominick Mulder, Ryan Gupta, Rachel Schlossman,
+Marika Murphy, Justin Hart, Luis Sentis, and Peter Stone
+ <br><br>
+MuMMER: Socially Intelligent Human-Robot Interaction in Public Spaces <br>
+Mary Ellen Foster and Olivier Canévet
+</font>
+</td></tr>
+<tr><td>10:00–10:30</td>  <td>    <font color="#4040A0">Tech Discussion: Haves, Needs, and Wants</font> </td> </tr>
+<tr><td>10:30–11:00</td>  <td>    <font color="#A04040">Coffee Break</font> </td> </tr>
+
+<tr><td>11:00–12:00</td>  <td> <font color="#4040A0"> Future Directions and Discussion </font> </td></tr>
+<tr><td>12:00–12:30</td>  <td> <font color="#4040A0"> Wrap-Up/Closing Remarks </font> </td> </tr>
+</table>-->
+
+</div>
+
+
+
+<!--<p><b>The schedule of Lightning Research Talks is available <a href="https://dl.dropboxusercontent.com/u/17178057/AI-HRI%20AAAI%20FS14%20Lightning%20Schedule.pdf">here</a>.</b><br></p>-->
+
+
+
+
+
+
+<p id="submission">
+
+<h2>Submission Instructions</h2>
+
+<p>Authors may submit under one of the following paper categories:
+  <br>(The listed page limits are excluding references.)
+
+<div class="framed">
+<ul>
+<li><b>Full papers (6-8 pages) </b> highlighting state-of-the-art HRI-oriented research on trust
+ & explainability and other related topics.<br><br>
+
+<li><b>Short papers (2-4 pages) </b> outlining new or controversial views on AI-HRI research or describing ongoing AI-oriented HRI research.<br><br>
+
+<li><b>Tool papers (2-4 pages)</b> describing novel software, hardware, or datasets of interest to the AI-HRI community. </li>
+</ul>
+</div>
+
+<p>Papers are to be submitted through the AAAI EasyChair site.
+   Proceedings will be published through arXiv by each individual author.</p>
+
+<p>Authors will be notified as to whether they have been assigned a full-length or 'lightning' presentation slot.
+ Authors assigned to lightning talks will be invited to participate in a poster session.
+ Additionally, all submitting authors will be added to the reviewer pool and may be asked to contribute to the peer-review process.</p>
+
+<p>Please see the <a style="background-color: white; border: 1px solid black; padding: 6px 6px 6px 6px;" href="https://www.aaai.org/Publications/Templates/AuthorKit20.zip">AAAI Author Kit</a> for paper templates to ensure that your submission has proper formatting.</p>
+
+<!--
+<p style="font-weight: bold">Contributions may be submitted here:<br>
+<a style="background-color: white; border: 1px solid black; padding: 6px 6px 6px 6px;" href="https://easychair.org/my/conference?conf=fss20">https://easychair.org/my/conference?conf=fss20</a></p>
+-->
+<p> For any extenuating circumstances that may result in a delayed submission, please <a href="mailto:ai4hri@gmail.com">contact us</a>.</p>
+
+
+<p id="diversity">
+<br>
+
+
+<h2>Diversity & Inclusion at AI-HRI</h2>
+
+
+<!-- span style="text-decoration: line-through; color: #aaaaaa;">July 17</span -->
+
+<p> AI-HRI is committed to growing the diversity of our community and is actively pursuing ways to make our community more inclusive.
+  Our efforts include diversifying the participation among  our program committee, invited speakers, paper authors, and symposium attendees.</p>
+<!--
+  <p> To support attendees from under-represented groups (URGs), AI-HRI will be providing at least two complimentary registrations.
+    This includes but is not limited to those who identify as Women, African American/Black, Hispanic/LatinX, Indigenous, persons with a disability, and/or LGBTQI+.
+    To express your interest in receiving a complimentary registration, please <a href="https://forms.gle/J6Bt95TcAQRctfXA6">fill out this form</a>.
+	</p>
+
+  <p> We are also looking to expand our ability to award complimentary registrations and are looking for sponsors to help.  If you or your company is interesting in supporting our D&I initiative, please <a href="mailto:ai4hri@gmail.com">contact us</a>.</p>
+  <p> If you have any other suggestions on how we can further promote diversity and inclusion at AI-HRI, please contact us at <a href="mailto:ai4hri@gmail.com">ai4hri@gmail.com</a>.</p> 
+ 
+ -->
+  
+
+
+
+
+
+<p id="committee">
+
+
+<h2>Organizing Committee</h2>
+
+<p>Reuth Mirsky (University of Texas, Austin),
+<p>Megan L. Zimmerman (National Institute of Standards and Technology),
+<p>Shelly Bagchi (National Institute of Standards and Technology),
+<p>Jason R. Wilson (Franklin & Marshall College),
+<p>Muneeb I. Ahmad (Heriot-Watt University),
+<p>Christian Dondrup (Heriot-Watt University),
+<p>Zhao Han (UMass Lowell),
+<p>Justin W. Hart (University of Texas Austin),
+<p>Matteo Leonetti (University of Leeds),
+<p>Ross Mead (Semio),
+<p>Emmanuel Senft (University of Wisconsin, Madison),
+<p>Jivko Sinapov, Communications Co-Chair (Tufts University)
+
+<p> Contact us at <a href="mailto:ai4hri@gmail.com">ai4hri@gmail.com</a>.
+
+
+
+
+
+
+
+
+
+<!-- p>Kalesha Bullard (<a href="mailto:ksbullard@gatech.edu">Georgia Institute of Technology</a>)</p
+<p>Justin W. Hart (UT Austin)
+<!--<p>Nick DePalma (<!--a href="mailto:n.depalma@samsung.com"Facebook AI Research</a>)
+<p>Richard G. Freedman (Smart Information Flow Technologies and UMass Amhers)
+<p>Luca Iocchi (<!--a href="mailto:iocchi@diag.uniroma1.it"Sapienza University of Rome</a>)
+<p>Matteo Leonetti (University of Leeds)
+<p>Katrin Lohan (<!--a href="mailto:K.Lohan@hw.ac.uk"Heriot-Watt University</a>)
+<p>Ross Mead (<!--a href="mailto:ross@semio.ai"Semio</a>)
+<p>Emmanuel Senft (<!--a href="mailto:emmanuel.senft@plymouth.ac.uk"Plymouth University</a>)
+<p>Jivko Sinapov (Tufts University)
+<p>Elin A. Topp (Lund University)
+<p>Tom Williams (<!--a href="mailto:twilliams@mines.edu"Colorado School of Mines</a>)</p
+-->
+
+
+
+        <!-- TYPEKIT -->
+<!-- LI: what is this?
+        <script type="text/javascript" src="//use.typekit.net/ajf8ggy.js"></script>
+        <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+        <script src="https://rawgithub.com/ccampbell/rainbow/master/js/rainbow.min.js"></script>
+        <script src="https://rawgithub.com/ccampbell/rainbow/master/js/language/generic.js"></script>
+-->
+
+    </div>
+
+<div id="past_aihri_links">Prior Symposia: &nbsp;&nbsp;&nbsp;
+    <a href="../2014/">AI-HRI 2014</a>  &nbsp;&nbsp;&nbsp;
+    <a href="../2015/">AI-HRI 2015</a>  &nbsp;&nbsp;&nbsp;
+    <a href="../2016/">AI-HRI 2016</a>  &nbsp;&nbsp;&nbsp;
+    <a href="../2017/">AI-HRI 2017</a>  &nbsp;&nbsp;&nbsp;
+    <a href="../2018/">AI-HRI 2018</a>  &nbsp;&nbsp;&nbsp;
+    <a href="../2019/">AI-HRI 2019</a>  &nbsp;&nbsp;&nbsp;
+	<a href="../2020/">AI-HRI 2020</a>
+
+</div>
+
+</body>
+</html>
