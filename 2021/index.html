@@ -92,6 +92,11 @@
             height: auto;
         }
 
+        .content {
+            width: unset;
+            max-width: 1200px;
+        }
+
      </style>
 
     <script>
@@ -187,36 +192,68 @@ Over the course of the two-day meeting, we will host a collaborative
 <br>
 
 <h2>Invited Speakers</h2>
-<table class="people"><tbody><tr><td class="has-text-align-center" data-align="center"><img src="https://i1.rgstatic.net/ii/profile.image/278839323316227-1443491883341_Q128/Sonia-Chernova.jpg"></td><td class="has-text-align-center" data-align="center"><img src="https://i1.sndcdn.com/avatars-000320344348-rwgdmz-t500x500.jpg" style="width: 128px;"></td></tr><tr><td class="has-text-align-center" data-align="center"><a href="https://www.cc.gatech.edu/~chernova/">Sonia Chernova</a><br>Georgia Tech</td><td class="has-text-align-center" data-align="center"><a href="http://justinhart.net/">Justin W. Hart</a><br>UT Austin</td></tr></tbody></table>
+
+<div class="people">
+    <div>
+        <img src="https://i1.rgstatic.net/ii/profile.image/278839323316227-1443491883341_Q128/Sonia-Chernova.jpg">
+        <a href="https://www.cc.gatech.edu/~chernova/">Sonia Chernova</a><br>Georgia Tech
+    </div>
+    <div>
+        <img src="https://i1.sndcdn.com/avatars-000320344348-rwgdmz-t500x500.jpg">
+        <a href="http://justinhart.net/">Justin W. Hart</a><br>UT Austin
+    </div>
+</div>
 
 
 <h2>Panelists & Moderator</h2>
 
-<div class="table-responsive">
-<table class="people"><tbody><tr><td><img src="images/Bio_RossMead-2-1024x1024.jpg"></td><td><img src="https://pbs.twimg.com/profile_images/1275780786642456576/ukWf1kem.jpg"></td><td><img src="https://people.mines.edu/twilliams/wp-content/uploads/sites/161/2020/02/me.jpg"></td><td><img src="https://www2.eecs.berkeley.edu/risingstars/2020/participants/alves-oliveira.jpg"></td><td><img src="https://media-exp1.licdn.com/dms/image/C5603AQHJVSMhTKUyMg/profile-displayphoto-shrink_800_800/0/1623684574818?e=1632355200&amp;v=beta&amp;t=lyD83U_NrWMYQeD51acaQzKX3BHLO4q3CSz83mKGTlQ"></td><td><img src="https://pbs.twimg.com/profile_images/1288522420735954946/gQGtsB5m_400x400.jpg"></td><td><img src="https://www.sift.net/sites/default/files/styles/staff_full_content_photo/public/images/staff/rfreedman.jpg?itok=mXSAs8Xv"></td></tr><tr><td><a href="https://twitter.com/rossmead">Ross Mead</a><br>Semio<br><span class="label">Moderator</span></td><td><a href="https://www.cc.gatech.edu/people/matthew-gombolay">Matthew Gombolay</a><br>Georgia Tech</td><td><a href="https://people.mines.edu/twilliams/">Tom Williams</a><br>Colorado School of Mines<br></td><td><a href="https://www.patricialvesoliveira.com/">Patrícia Alves-Oliveira</a><br>University of Washington</td><td><a href="https://dangrollman.medium.com/">Dan Grollman</a><br>Plus One Robotics</td><td><a href="https://www.kaleshabullard.com/">Kalesha Bullard</a><br>Facebook</td><td><a href="https://www.sift.net/staff/richard-freedman">Richard G. Freedman</a><br>SIFT</td></tr></tbody></table>
+<div class="people">
+    <div>
+        <img src="images/Bio_RossMead-2-1024x1024.jpg">
+        <a href="https://twitter.com/rossmead">Ross Mead</a><br>Semio<br><span class="label">Moderator</span>
+    </div>
+    <div>
+        <img src="https://pbs.twimg.com/profile_images/1275780786642456576/ukWf1kem.jpg">
+        <a href="https://www.cc.gatech.edu/people/matthew-gombolay">Matthew Gombolay</a><br>Georgia Tech
+    </div>
+    <div>
+        <img src="https://people.mines.edu/twilliams/wp-content/uploads/sites/161/2020/02/me.jpg">
+        <a href="https://people.mines.edu/twilliams/">Tom Williams</a><br>Colorado School of Mines
+    </div>
+    <div>
+        <img src="https://www2.eecs.berkeley.edu/risingstars/2020/participants/alves-oliveira.jpg">
+        <a href="https://www.patricialvesoliveira.com/">Patrícia Alves-Oliveira</a><br>University of Washington
+    </div>
+    <div>
+        <img src="https://media-exp1.licdn.com/dms/image/C5603AQHJVSMhTKUyMg/profile-displayphoto-shrink_800_800/0/1623684574818?e=1632355200&amp;v=beta&amp;t=lyD83U_NrWMYQeD51acaQzKX3BHLO4q3CSz83mKGTlQ">
+        <a href="https://dangrollman.medium.com/">Dan Grollman</a><br>Plus One Robotics
+    </div>
+    <div>
+        <img src="https://pbs.twimg.com/profile_images/1288522420735954946/gQGtsB5m_400x400.jpg">
+        <a href="https://www.kaleshabullard.com/">Kalesha Bullard</a><br>Facebook
+    </div>
+    <div>
+        <img src="https://www.sift.net/sites/default/files/styles/staff_full_content_photo/public/images/staff/rfreedman.jpg?itok=mXSAs8Xv">
+        <a href="https://www.sift.net/staff/richard-freedman">Richard G. Freedman</a><br>SIFT
+    </div>
 </div>
 
 <style>
-    .people {
-        text-align: center;
-        color: #aaa;
-    }
-    .table-responsive {
-        overflow-x: auto;
-        -webkit-overflow-scrolling: touch;
-    }
-    .people td + .people td{
-        margin-left: 0.5rem;
-    }
     .people img {
         max-width: 128px;
         border-radius:  100px;
-        margin-left: 3px;
-        margin-right: 3px;
     }
-    .people td {
-        max-width: 144px;
+    .people div {
+        text-align: center;
+        display: inline-block;
+        color: #aaa;
+        margin-bottom: 20px;
+
+        max-width: 135px;
         vertical-align: top;
+    }
+    .people div + .people div {
+        margin-right: 0.5rem;
     }
     .people .label {
         background: #eee;
